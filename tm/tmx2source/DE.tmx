@@ -1,0 +1,1349 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="LF TMX maker"
+    creationtoolversion="3.0"
+    datatype="unknown"
+    segtype="sentence"
+    adminlang="EN-GB"
+    srclang="EN-GB"
+    o-tmf="TW4Win 2.0 Format"
+  >
+  </header>
+  <body>
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Confirm</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bestätige</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Remove</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Löschen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Error</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Fehler</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>English</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Englisch</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Suomi</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Suomi</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Русский</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Русский</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Svenska</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Svenska</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Français</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Français</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Language</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sprache</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Name</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Name</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Data Format</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Datei Format</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Tx Power</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sendeleistung</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Movement Counter</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bewegungszähler</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Measurement Sequence Number</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Messsequenznummer</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Set custom description...</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Benutzerdefinierte Beschreibung festlegen...</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>FIRMWARE</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>FIRMWARE</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Update Firmware</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Firmware aktualisieren</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Acceleration X</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Beschleunigung X</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Acceleration Y</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Beschleunigung Y</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Acceleration Z</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Beschleunigung Z</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>No sensors found</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Keine Sensoren gefunden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Nearby Ruuvi sensors</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ruuvi-Sensoren in der Nähe</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>ago</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>vor</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Disable this alarm</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Diesen Alarm deaktivieren</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Movement</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bewegung</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Alert when sensor is moved</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Warnung, wenn der Sensor bewegt wird</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Air Humidity is too high!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Luftfeuchtigkeit ist zu hoch!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Air Humidity is too low!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Luftfeuchtigkeit ist zu niedrig!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Movement detected!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bewegung erkannt!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Air Pressure is too high!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Luftdruck ist zu hoch!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Air Pressure is too low!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Luftdruck ist zu niedrig!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Signal strength is too high!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Signalstärke ist zu hoch!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Signal strength is too low!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Signalstärke ist zu gering!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Temperature is too high!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Temperatur ist zu hoch!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Temperature is too low!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Temperatur zu niedrig!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Off</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Aus</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Warnung bei weniger als {%.0f^%1$,d} oder mehr als {%.0f^%2$,d}</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>ALERTS</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>WARNUNGEN</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>BACKGROUND\nIMAGE</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>HINTERGRUND BILD</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>You can disable background scanning in Settings</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sie können das Scannen im Hintergrund in den Einstellungen deaktivieren</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Scanning every</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Alles Scannen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Battery Voltage</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Battery Voltage</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Calibrate</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kalibrieren</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Calibrated: {%@^%1$s}</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kalibriert: {%@^%1$s}</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Calibration done!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kalibrierung fertig!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>In order to measure relative humidity as accurately as possible, a sodium chloride (salt) calibration is recommended. See video tutorials on how to easily do this at home.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Um die relative Luftfeuchtigkeit so genau wie möglich zu messen, wird eine Natriumchlorid-(Salz-)Kalibrierung empfohlen. Sehen Sie sich Video-Tutorials an, wie Sie dies ganz einfach zu Hause tun können.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Calibrate hygrometer</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Hygrometer kalibrieren</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Note that calibration data will be stored locally in your mobile device. After Ruuvi Station uninstall and install, you may need to recalibrate.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Beachten Sie, dass die Kalibrierungsdaten lokal auf Ihrem Mobilgerät gespeichert werden. Nach der Deinstallation und Installation von Ruuvi Station müssen Sie möglicherweise eine Neukalibrierung durchführen.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note">Videoanleitungen</prop>
+<tuv xml:lang="EN-GB"><seg>Translated text here should be exact part of HumidityCalibration.Description.text (calibration_humidity for Android). It will be highlighted as hyperlink in app</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Tutoriel vidéo.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>https://www.youtube.com/results?search_query=hygrometer+salt+calibration</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>https://www.youtube.com/results?search_query=hygrometer+salt+calibration</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Camera</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kamera</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Could not start camera</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kamera konnte nicht gestartet werden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Cancel</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Abbrechen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Charts feature works best with background scanning enabled.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Die Diagrammfunktion funktioniert am besten, wenn das Scannen im Hintergrund aktiviert ist.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Would you like to enable background scanning?</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Möchten Sie das Scannen im Hintergrund aktivieren?</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Clear</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Löschen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Clear the local historical data from the app?</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Die lokalen historischen Daten aus der App löschen?</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Close</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Schließen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Synchronising...</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Synchronisieren...</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Connecting...</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Verbinden...</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Dashboard</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Dashboard</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Use dashboard view to see multiple sensors at a glance. Restart the app after enabling it.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Verwenden Sie die Dashboard-Ansicht, um mehrere Sensoren auf einen Blick zu sehen. Starten Sie die App nach der Aktivierung neu.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Your dashboard \nis empty</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ihr Dashboard ist leer</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%1$,d measurements read, saving..</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%1$,d Messwerte gelesen, gespeichert...</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Disconnected</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Disconnected</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>EXPORT</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>EXPORT</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>File type not supported</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Dateityp wird nicht unterstützt</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Gallery</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Galerie</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Disabled</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ausgeschaltet</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Data Forwarding URL</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Datenweiterleitungs-URL</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>https://your.gateway/...</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>https://your.gateway/...</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>h</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>h</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Ruuvi Station is an easy-to-use but powerful tool to supercharge your Ruuvi sensors. Simply add some sensors and you&apos;re ready to go.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ruuvi Station ist ein benutzerfreundliches, aber leistungsstarkes Werkzeug, um Ihre Ruuvi-Sensoren aufzuladen. Fügen Sie einfach einige Sensoren hinzu und schon können Sie loslegen.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>ABOUT / HELP</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>ÜBER / HILFE</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Added sensors: %1$,d</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensoren hinzugefügt: %1$,d</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Number of locally stored measurements: %1$,d</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Anzahl lokal gespeicherter Messungen: %1$,d</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Database size: %1$,d kB</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Datenbankgröße: %1$,d kB</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Ruuvi&apos;s website: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: ruuvi.com/blog\nRuuvi on Twitter: twitter.com/ruuvicom</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ruuvi-Website: ruuvi.com\nRuuvi-Forum: f.ruuvi.com\nRuuvi-Blog: ruuvi.com/blog\nRuuvi auf Twitter: twitter.com/ruuvicom</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>MORE TO READ</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>MEHR ERFAHREN</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Just like Ruuvi sensors, Ruuvi Station is also open-source: github.com/ruuvi</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Genau wie Ruuvi-Sensoren ist auch Ruuvi Station Open Source: github.com/ruuvi</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>OPEN-SOURCE</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>OPEN-SOURCE</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>We&apos;ve designed the app to be self-explanatory but comprehensive manuals are also available for both Ruuvi sensors and Ruuvi Station: ruuvi.com/support</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wir haben die App so gestaltet, dass sie selbsterklärend ist, aber sowohl für Ruuvi-Sensoren als auch für die Ruuvi-Station sind umfassende Handbücher verfügbar: ruuvi.com/support</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>OPERATIONS MANUAL</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>ANLEITUNG</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>By using the application, you accept Ruuvi&apos;s standard terms and conditions: ruuvi.com/terms</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Durch die Nutzung der Anwendung akzeptieren Sie die allgemeinen Geschäftsbedingungen von Ruuvi: ruuvi.com/terms</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>PRIVACY POLICY</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>DATENSCHUTZ-BESTIMMUNGEN</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Seen sensors: %1$,d</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Gesehene Sensoren: %1$,d</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>If you’re experiencing problems and our manuals didn’t provide the help you need, check out our many troubleshooting topics, here: ruuvi.com/support</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wenn Sie Probleme haben und unsere Handbücher nicht die gewünschte Hilfe bieten, finden Sie weitere Hilfe zur Fehlerbehebung hier: ruuvi.com/support</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>TROUBLESHOOTING</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>FEHLERBEHEBUNG</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Hours</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Stunden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Days</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Tage</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Air Humidity ({%@^%1$s})</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Luftfeuchtigkeit ({%@^%1$s})</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Absolute (g/m³)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Absolut (g/m³)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>g/m³</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>g/m³</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Dew point (°)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Taupunkt (°)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>°</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>°</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%1$,.2f %2$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%1$,.2f %2$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Relative (%)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Relative (%)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>MAC Address</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>MAC-Adresse</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>MAC address copied to clipboard</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>MAC-Adresse in Zwischenablage kopiert</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>About / Help</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Über / Hilfe</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Add a New Sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Neuen Sensor hinzufügen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>App Settings</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>App Einstellungen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Get More Sensors</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Mehr Sensoren kaufen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Send Feedback</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Feedback schicken</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>min</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>min</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Minutes</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Minuten</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>MORE INFO</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>MEHR INFO</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>NAME</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>NAME</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Close the navigation drawer</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Schließen der Navigation</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Open the navigation drawer</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Öffnen der Navigation</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>No</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Nein</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>No new data points available</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Keine neuen Datenpunkte verfügbar</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>OK</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>OK</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Enable Background Scanning</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Scannen im Hintergrund aktivieren</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \n\nPlease click &apos;allow all the time&apos; if you&apos;d like to use the background scanning feature. \n\nRuuvi doesn&apos;t track your movements. You&apos;re safe.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Um Bluetooth-Geräte in der Nähe im Hintergrund zu scannen, muss für Android der Zugriff auf den Standort im Hintergrund aktiviert sein. \n\n Bitte klicken Sie auf &apos;immer zulassen&apos;, wenn Sie die Funktion zum Scannen im Hintergrund verwenden möchten. \n\nRuuvi verfolgt Ihre Bewegungen nicht. Sie sind sicher.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \n\nRuuvi doesn&apos;t track your movements. You&apos;re safe.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Um Bluetooth-Geräte in der Nähe zu scannen, muss für Android der Standortzugriff aktiviert sein. \n\nRuuvi verfolgt Ihre Bewegungen nicht. Sie sind sicher.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Enable Bluetooth Scanning</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bluetooth-Scan aktivieren</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Please enable location permission in Settings to see sensors.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bitte aktivieren Sie die Standortberechtigung in den Einstellungen, um Sensoren anzuzeigen.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>No sensors added,\npress here to add sensors</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Keine Sensoren hinzugefügt, klicken Sie hier, um Sensoren hinzuzufügen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Air Pressure ({%@^%1$s})</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Luftdruck ({%@^%1$s})</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Hectopascal (hPa)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Hektopascal (hPa)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>hPa</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>hPa</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Inch of mercury (inHg)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Zoll Quecksilber (inHg)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>inHg</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>inHg</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Millimetre of mercury (mmHg)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Millimeter Quecksilbersäule (mmHg)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>mmHg</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>mmHg</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Pascal (Pa)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Pascal (Pa)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Pa</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Pa</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%1$,.2f %2$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%1$,.2f %2$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%1$,.0f %2$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%1$,.0f %2$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Reading history</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>History wird gelesen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Firmware not supported</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Firmware nicht unterstützt</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Signal strength (RSSI)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Signalstärke (RSSI)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>SCAN</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>SCANNEN</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>sec</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>sek</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Seconds</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sekunden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Select Picture</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bild auswählen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Send Email</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Email schicken</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Sensor is already added</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensor ist bereits hinzugefügt</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Settings</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Einstellungen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>If you experience any issues with background scanning you should disable battery optimisation for Ruuvi Station. This procedure may vary depending on your device vendor, model and Android version.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wenn beim Scannen im Hintergrund Probleme auftreten, sollten Sie die Batterieoptimierung für Ruuvi Station deaktivieren. Dieses Verfahren kann je nach Gerätehersteller, Modell und Android-Version variieren.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Battery -&gt; Battery Optimisation and select &apos;Don&apos;t optimise for Ruuvi Station&apos;</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Gehen Sie zu Android-Einstellungen -&gt; Apps -&gt; Ruuvi Station -&gt; Akku -&gt; Akkuoptimierung und wählen Sie &apos;Nicht für Ruuvi Station optimieren&apos;.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch. Disable &apos;Manage Automatically&apos; and enable options: &apos;Auto-Launch&apos;, &apos;Secondary Launch&apos; and &apos;Run in background&apos;.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Gehen Sie auf Huawei-Geräten zu Android-Einstellungen -&gt; Apps -&gt; Ruuvi Station -&gt; Details zum Stromverbrauch -&gt; App-Start. Deaktivieren Sie &apos;Automatisch verwalten&apos; und aktivieren Sie die Optionen: &apos;Automatischer Start&apos;, &apos;Sekundärer Start&apos; und &apos;Im Hintergrund ausführen&apos;.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>On Samsung devices go to Android Settings -&gt; Battery -&gt; App power saving detail and set option &apos;Turned off&apos; for Ruuvi Station.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Gehen Sie auf Samsung-Geräten zu Android-Einstellungen -&gt; Akku -&gt; App-Energiespardetails und stellen Sie die Option &apos;Ausgeschaltet&apos; für Ruuvi Station ein.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>On Samsung devices go to Android Settings -&gt; Device Maintenance (or Device Care) -&gt; Battery. Disable &apos;Put unused apps to sleep&apos;. Disable &apos;Auto-disable unused apps&apos;. Remove Ruuvi Station from the list of sleeping apps. Disable background restrictions for Ruuvi Station.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Gehen Sie auf Samsung-Geräten zu Android-Einstellungen -&gt; Gerätewartung (oder Gerätepflege) -&gt; Akku. Deaktivieren Sie &apos;Nicht verwendete Apps in den Ruhezustand versetzen&apos;. Deaktivieren Sie &apos;Nicht verwendete Apps automatisch deaktivieren&apos;</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Background scan important note</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Hintergrundscan wichtiger Hinweis</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>On Xiaomi devices go to Android Settings -&gt; Apps -&gt; Manage apps -&gt; Ruuvi Station. Enable Autostart and set Battery Saver to &apos;No restrictions&apos;.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Gehen Sie auf Xiaomi-Geräten zu Android-Einstellungen -&gt; Apps -&gt; Apps verwalten -&gt; Ruuvi Station. Aktivieren Sie Autostart und stellen Sie Battery Saver auf &apos;Keine Einschränkungen&apos;.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Continuous background scanning</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kontinuierliches Scannen im Hintergrund</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Continuous background scanning mode is enabled.\nData logging interval: %1$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Der kontinuierliche Hintergrundscanmodus ist aktiviert.\nDatenprotokollierungsintervall: %1$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>No background scanning</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kein Scannen im Hintergrund</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>No background scanning mode is enabled</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Es ist kein Hintergrundscanmodus aktiviert</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Background Scanning Settings</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Einstellungen für das Scannen im Hintergrund</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>This feature enables background scanning, meaning that your phone will periodically search for beacons, even when you are not using it.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Diese Funktion ermöglicht das Scannen im Hintergrund, was bedeutet, dass Ihr Telefon regelmäßig nach Beacons sucht, auch wenn Sie es nicht verwenden.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>The app will periodically search for beacons using a service (with notifications), allowing for very frequent and reliable scanning, even when you are not using it.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Die App sucht regelmäßig über einen Dienst (mit Benachrichtigungen) nach Beacons, was ein sehr häufiges und zuverlässiges Scannen ermöglicht, auch wenn Sie sie nicht verwenden.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Data logging interval</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Datenprotokollierungsintervall</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Define how often the background scanning will run</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Definieren Sie, wie oft der Hintergrundscan ausgeführt wird</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Chart Settings</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Diagramm Einstellungen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Display all data in chart</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Alle Daten im Diagramm anzeigen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Enabling it may cause charts to update slowly</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Die Aktivierung kann dazu führen, dass Diagramme langsam aktualisiert werden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Configure interval between points shown on chart</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Konfigurieren Sie das Intervall zwischen den auf dem Diagramm angezeigten Punkten</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Draw dots in chart</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Punkte im Diagramm zeichnen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Small dots will help to understand when measurements were collected</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kleine Punkte helfen zu verstehen, wann Messungen erfasst wurden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Chart Interval</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Diagrammintervall</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Set interval between points for chart from 1 to 60 minutes. Smaller values mean a more accurate chart, but also a higher performance requirement for your device</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Stellen Sie das Intervall zwischen den Punkten für das Diagramm von 1 bis 60 Minuten ein. Kleinere Werte bedeuten ein genaueres Diagramm, aber auch einen höheren Leistungsbedarf für Ihr Gerät</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Chart history view period</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Anzeigezeitraum des Diagrammverlaufs</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Configure the period of history to be shown on chart from 1 to 10 days</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Konfigurieren Sie den Zeitraum, der im Diagramm angezeigt werden soll, von 1 bis 10 Tagen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Data Forwarding Settings</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Einstellungen für die Datenweiterleitung</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>When you add a URL here, the app will execute an HTTP POST with the linked sensors when it does background scanning. \n\nFor more info, check the documentation.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wenn Sie hier eine URL hinzufügen, führt die App beim Hintergrundscannen einen HTTP POST mit den verknüpften Sensoren aus. Weitere Informationen finden Sie in der Dokumentation.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note">Dokumentation</prop>
+<tuv xml:lang="EN-GB"><seg>Translated text here should be exact part of settings_gateway_details. It will be highlighted as hyperlink in app</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>page de support</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>https://docs.ruuvi.com/ruuvi-station-app/gateway</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>https://docs.ruuvi.com/ruuvi-station-app/gateway</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Device identifier</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Gerätekennung</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Test data forwarding</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Testdatenweiterleitung</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Humidity Unit</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Feuchtigkeitseinheit</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Choose the humidity unit you want to be displayed</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wählen Sie die Luftfeuchtigkeitseinheit aus, die angezeigt werden soll</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Pressure Unit</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Druckeinheit</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Choose the pressure unit you want to be displayed</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wählen Sie die Druckeinheit, die angezeigt werden soll</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Temperature Unit</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Temperatureinheit</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Choose the temperature unit you want to be displayed</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wählen Sie die Temperatureinheit, die angezeigt werden soll</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%1$,d %2$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%1$,d %2$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>- %1$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>- %1$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>dBm</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>dBm</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Something went wrong</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Something went wrong</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>SYNC</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>SYNCHRONISIEREN</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Sync complete</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Synchronisierung abgeschlossen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Download history data from the sensor?</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Daten vom Sensor herunterladen?</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Sensor not found, is it in range?</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensor nicht gefunden, ist er in Reichweite?</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Remove sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensor entfernen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Do you want to remove the sensor? You can add it again later, if needed.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Möchten Sie den Sensor entfernen? Sie können ihn später bei Bedarf wieder hinzufügen.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Temperature ({%@^%1$s})</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Temperatur ({%@^%1$s})</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Celsius (℃)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Celsius (℃)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>°C</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>°C</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Fahrenheit (℉)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Fahrenheit (℉)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>°F</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>°F</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>K</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>K</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%1$,.2f%2$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%1$,.2f%2$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Updated {%@^%1$s}</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Aktuaisiert {%@^%1$s}</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Version: %1$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Version: %1$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%1$s %2$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%1$s %2$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>V</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>V</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Swipe to see what Ruuvi Station can do for you</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wischen Sie, um zu sehen, was Ruuvi Station für Sie tun kann</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Measure environmental data: temperature, relative humidity and air pressure</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Umweltdaten messen: Temperatur, relative Luftfeuchtigkeit und Luftdruck</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Access data for each linked sensor in real time and explore history graphs</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Greifen Sie in Echtzeit auf Daten für jeden verknüpften Sensor zu und erkunden Sie Verlaufsdiagramme</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Set alerts and get notified whenever your limits are hit</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Legen Sie Benachrichtigungen fest und lassen Sie sich benachrichtigen, wenn Ihre Grenzen erreicht sind</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Let the app act as a gateway</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Lassen Sie die App als Gateway fungieren</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Press SCAN to find and add nearby sensors to your Ruuvi Station</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Drücken Sie SCAN, um Sensoren in der Nähe zu finden und zu Ihrer Ruuvi Station hinzuzufügen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Yes</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ja</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Ruuvi Station</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ruuvi Station</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>.csv created, opening share menu</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>.csv erstellt, Freigabemenü öffnen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Failed to create CSV file</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>CSV-Datei konnte nicht erstellt werden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Sensor %1$s CSV export</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensor %1$s CSV-Export</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Sensor Settings</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensoreinstellungen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Nope, it did not work. Is the URL correct?</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Nein, es hat nicht funktioniert. Ist die URL korrekt?</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Data forwarding works! Response code: %1$d</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Datenweiterleitung funktioniert! Antwortcode: %1$d</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Nope, it did not work. Response code: %1$d</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Nein, es hat nicht funktioniert. Antwortcode: %1$d</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Testing...</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Testen...</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Zeitstempel,Temperatur (%1$s), Luftfeuchtigkeit (%2$s), Druck (%3$s),RSSI,Beschleunigung X,Beschleunigung Y,Beschleunigung Z,Spannung</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Zeitstempel,Temperatur (%1$s), Feuchtigkeit (%2$s), Druck (%3$s),RSSI,Beschleunigung X,Beschleunigung Y,Beschleunigung Z,Spannung,Bewegungszähler,Messsequenznummer</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Zeitstempel,Temperatur (%1$s), Luftfeuchtigkeit (%2$s), Druck (%3$s),RSSI</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Mute for an hour</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Stumm schalten für eine Stunde</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%1$,.3f g</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%1$,.3f g</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>%1$,.0f dBm</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>%1$,.0f dBm</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Sign in</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Einloggen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Sign out</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ausloggen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>After signing in, you will automatically be marked as the owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\n\nWith a Ruuvi Gateway router, you&apos;ll be able to monitor the claimed sensors remotely and share them with your friends.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Nach der Anmeldung werden Sie automatisch als Besitzer Ihrer Ruuvi-Sensoren in der Nähe markiert. Die Sensoren werden nach einer Neuinstallation der App wiederhergestellt.\n\nMit einem Ruuvi Gateway-Router können Sie die Sensoren aus der Ferne überwachen und mit Ihren Freunden teilen.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Benefits of the Ruuvi cloud service</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Vorteile des Ruuvi Cloud-Dienstes</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Email</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Email</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Login</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Anmeldung</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Request a code</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Fordern Sie einen Code an</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Submit</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Abschicken</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Enter code manually</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Code manuell eingeben</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Email sent</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>E-Mail gesendet</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Check your email for an activation code.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Überprüfen Sie Ihre E-Mail auf einen Aktivierungscode.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Code</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Code</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>When you sign out, sensors the ownerships of which you&apos;ve claimed on the sensor Settings page will be automatically removed from the app. When you sign in again using the same email address, the sensors will be returned from the cloud.\n\nDo you want to sign out?</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wenn Sie sich abmelden, werden Sensoren, deren Eigentum Sie mit den Sensoreinstellungen bestätigt haben, automatisch aus der App entfernt. Wenn Sie sich erneut mit derselben E-Mail-Adresse anmelden, werden die Sensoren aus der Cloud zurückgegeben.\n\nMöchten Sie sich abmelden?</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Claim ownership</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Inhaberschaft beanspruchen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Share</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Teilen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Syncing...</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Synchronisierung...</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Synchronised: {%@^%1$s}</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Synchronisiert: {%@^%1$s}</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>never</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Nie</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>none</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>keiner</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>User: {%@^%1$s}</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Benutzer: {%@^%1$s}</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Synchronised successfully!</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Erfolgreich synchronisiert!</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Synchronisation failed: %1$s</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Synchronisierung fehlgeschlagen: %1$s</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Synchronisation failed: need to log in first</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Synchronisierung fehlgeschlagen: Sie müssen sich zuerst anmelden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Share sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensor teilen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>You can share the sensor with friends and family if it&apos;s in range of a Ruuvi Gateway.\n\nReceiver will be notified by email. If the receiver doesn&apos;t have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\n\nNote that the sensor&apos;s custom name and background image will be shared. The name and image sync is one time only, and after this, they can be privately customised by the receiver. Offset values (if any) set by the owner, will be automatically synced, and the receiver will always see the final corrected values.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sie können den Sensor mit Freunden und Familie teilen, wenn er sich in Reichweite eines Ruuvi Gateways befindet.\n\nDer Empfänger wird per E-Mail benachrichtigt. Wenn der Empfänger kein Ruuvi-Konto hat, wird beim ersten Anmelden automatisch ein kostenloses Ruuvi-Konto erstellt.\n\nBeachten Sie, dass der benutzerdefinierte Name und das Hintergrundbild des Sensors geteilt werden. Der Name und das Bild werden nur einmal synchronisiert und können danach vom Empfänger privat angepasst werden. Vom Besitzer eingestellte Offset-Werte (sofern vorhanden) werden automatisch synchronisiert und der Empfänger sieht immer die endgültigen korrigierten Werte.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Add friend</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Freund hinzufügen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Already shared {%d^%1$,d}/{%d^%2$,d}</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bereits geteilt {%d^%1$,d}/{%d^%2$,d}</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Send</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Senden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Do you want to unshare sensor for {%@^%1$s}?</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Möchten Sie die Freigabe des Sensors für {%@^%1$s} aufheben?</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>NETWORK INFO</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>NETZWERK INFORMATION</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Owner</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Eigentümer</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Ruuvi cloud status</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ruuvi-Cloud-Status</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Login to\nRuuvi\nStation</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Login to\nRuuvi\nStation</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>To enjoy all the features, create a free account or login to your existing Ruuvi account by entering your email address.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Um alle Funktionen nutzen zu können, erstellen Sie ein kostenloses Konto oder melden Sie sich bei Ihrem bestehenden Ruuvi-Konto an, indem Sie Ihre E-Mail-Adresse eingeben.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>SKIP</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>ÜBERSPRINGEN</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>beta</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>beta</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Forbidden</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Verboten</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Unauthorised</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Nicht autorisiert</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Internal error</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Interner Fehler</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Invalid request format</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ungültiges Anfrageformat</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>User not found</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Benutzer wurde nicht gefunden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Sensor not found</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensor nicht gefunden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Token is expired</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Token ist abgelaufen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Subscription is not found</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Abonnement wurde nicht gefunden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>The share limit is reached</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Das Teilen Limit ist erreicht</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Sensor share limit is reached</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensor Teilen Limit ist erreicht</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>In order to share the sensor, you need to have a Ruuvi Gateway router nearby the sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Um den Sensor zu teilen, benötigen Sie einen Ruuvi Gateway-Router in der Nähe des Sensors</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>This sensor is already shared</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Dieser Sensor wurde bereits geteilt</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Unable to send e-mail</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Die Email kann nicht gesendet werden</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Missing argument</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Fehlendes Argument</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Invalid density mode</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ungültiger Dichtemodus</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Invalid sort mode</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ungültiger Sortiermodus</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Invalid time range</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ungültiger Zeitraum</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Invalid e-mail address</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ungültige E-Mail-Adresse</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Invalid MAC-address</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ungültige MAC-Adresse</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Data storage error</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Datenspeicherfehler</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>No user</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kein Benutzer</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Experimental features</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Experimentelle Funktionen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>In normal use, it&apos;s not necessary to adjust the offset.\n\nIf you&apos;re an advanced user and you&apos;d like to manually configure the factory calibrated sensors, it&apos;s possible to do so.\n\nCalibration tips are available on ruuvi.com/support</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bei normalem Gebrauch ist es nicht erforderlich, den Offset anzupassen.\n\nWenn Sie ein fortgeschrittener Benutzer sind und die werkseitig kalibrierten Sensoren manuell konfigurieren möchten, ist dies möglich.\n\nTipps zur Kalibrierung sind auf ruuvi.com/support verfügbar</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>ruuvi.com/support</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>ruuvi.com/support</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>http://ruuvi.com/support</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>http://ruuvi.com/support</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Clear calibration settings?</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kalibrierungseinstellungen löschen?</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>(Offset {%@^%1$s})</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>(Offset {%@^%1$s})</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Calibration setup</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Kalibriereinrichtung</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Enter the expected temperature value from sensor under current conditions ({%@^%1$s}): </seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Geben Sie den erwarteten Temperaturwert des Sensors unter aktuellen Bedingungen ein ({%@^%1$s}): </seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Enter the expected pressure value from sensor under current conditions ({%@^%1$s}): </seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Geben Sie den erwarteten Druckwert vom Sensor unter aktuellen Bedingungen ein ({%@^%1$s}): </seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Enter the expected humidity value from sensor under current conditions ({%@^%1$s}): </seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Geben Sie den erwarteten Feuchtigkeitswert des Sensors unter den aktuellen Bedingungen ein ({%@^%1$s}): </seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Original measured value</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ursprünglicher Messwert</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Corrected value</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Korrigierter Wert</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Temperature offset</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Temperatur-Offset</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Humidity offset</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Feuchtigkeits-Offset</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Pressure offset</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Druckoffset</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Offset correction</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Offset-Korrektur</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Synchronising</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Synchronisieren</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Temperature</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Temperatur</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Humidity</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Feuchtigkeit</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Pressure</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Druck</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>{%@^%1$s} ago</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>vor {%@^%1$s}</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Only sensors within range of your Ruuvi Gateway can be shared. If you don&apos;t have one yet, get it on ruuvi.com/gateway</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Nur Sensoren in Reichweite Ihres Ruuvi Gateways können geteilt werden. Wenn Sie noch keinen haben, holen Sie ihn sich auf ruuvi.com/gateway</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Firmware Update</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Firmware Update</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Latest available Ruuvi Firmware version:</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Neueste verfügbare Ruuvi Firmware-Version:</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Current version:</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Aktuelle Version:</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Your sensor doesn&apos;t report its current firmware version. This means that it&apos;s probably running an old firmware version and updating it is recommended</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ihr Sensor meldet seine aktuelle Firmware-Version nicht. Dies bedeutet, dass wahrscheinlich eine alte Firmware-Version ausgeführt wird und eine Aktualisierung empfohlen wird</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>You are running the latest firmware version, no need to update</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sie verwenden die neueste Firmware-Version, keine Aktualisierung erforderlich</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Start update process</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Update-Prozess starten</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Downloading the latest firmware to be updated...</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Laden Sie die neueste zu aktualisierende Firmware herunter...</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Prepare your sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Bereiten Sie Ihren Sensor vor</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>1. Open the cover of your Ruuvi sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>1. Öffnen Sie die Abdeckung Ihres Ruuvi-Sensors</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>2. Set the sensor to updating mode</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>2. Stellen Sie den Sensor in den Aktualisierungsmodus</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>If your sensor has two buttons, press the R button while also pressing the B button</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wenn Ihr Sensor über zwei Tasten verfügt, drücken Sie die R-Taste und gleichzeitig die B-Taste</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>If your sensor has one button, keep the button pressed for ten seconds</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wenn Ihr Sensor über eine Taste verfügt, halten Sie die Taste zehn Sekunden lang gedrückt</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>3. When successfully completed you will see a continuous red light</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>3. Nach erfolgreichem Abschluss sehen Sie ein kontinuierliches rotes Licht</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Updating...</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Aktualisierung...</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Searching for a sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Auf der Suche nach einem Sensor</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Start the update</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Starten Sie das Update</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Do not close app or power off the sensor during the update.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Schließen Sie die App nicht und schalten Sie den Sensor während des Updates nicht aus.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Update successful</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Aktualisierung erfolgreich</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Successfully shared sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensor erfolgreich geteilt</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>General</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Allgemein</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Remove this sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Entfernen Sie diesen Sensor</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Shared</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Geteilt</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Not shared</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Nicht geteilt</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Claim sensor</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Sensor beanspruchen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Claim Ownership</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Inhaberschaft beanspruchen</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Do you own this sensor? If yes, please claim ownership of the sensor and it&apos;ll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\n\nBenefits:\n\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\n\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\n\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\n\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Besitzen Sie diesen Sensor? Wenn ja, beanspruchen Sie bitte den Besitz des Sensors und er wird Ihrem Ruuvi-Konto hinzugefügt. Jeder Ruuvi-Sensor kann nur einen Besitzer haben.\n\nVorteile:\n\n ● Sensornamen, Hintergrundbilder, Offsets und Alarmeinstellungen werden sicher in der Cloud gespeichert\n\n ● Fernzugriff auf Sensoren über das Internet (erfordert ein Ruuvi Gateway)\n\n ● Teilen Sie Sensoren mit Freunden und Familie (erfordert ein Ruuvi Gateway)\n\n ● Sehen Sie bis zu 2 Jahre Geschichtsdaten auf station.ruuvi.com (erfordert ein Ruuvi-Gateway)</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Ownership of the sensor claimed successfully</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Besitz des Sensors erfolgreich beansprucht</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Every Ruuvi sensor can have only one owner.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Durch das Entfernen des Sensors wird Ihr Sensor-Eigentumsstatus widerrufen. Nach dem Entfernen kann eine andere Person das Eigentum an dem Sensor beanspruchen. Jeder Ruuvi-Sensor kann nur einen Besitzer haben.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>If you remove the sensor, the owner of the sensor will be notified and you cannot access the sensor anymore.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Wenn Sie den Sensor entfernen, wird der Besitzer des Sensors benachrichtigt und Sie können nicht mehr auf den Sensor zugreifen.</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Logged in:</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Eingeloggt:</seg></tuv> </tu>
+
+<tu creationdate="20230427T220703Z" creationid="SIS_aligned"><prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-GB"><seg>Your sensors will be in alphabetical order.</seg></tuv>
+<tuv xml:lang="DE-DE"><seg>Ihre Sensoren werden in alphabetischer Reihenfolge angezeigt.</seg></tuv> </tu>
+
+
+</body>
+</tmx>
