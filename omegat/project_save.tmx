@@ -142,10 +142,18 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Measurement Sequence Number</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085147Z" creationid="JG" creationdate="20230428T085147Z">
+        <seg>Numer sekwencji pomiaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Movement Counter</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085001Z" creationid="JG" creationdate="20230428T084408Z">
-        <seg>Licznik kroków</seg>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085657Z" creationid="JG" creationdate="20230428T084408Z">
+        <seg>Licznik </seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +226,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085254Z" creationid="knadolna" creationdate="20230428T085254Z">
         <seg>Ustaw powiadomienia, by je otrzymywać, gdy twoje limity zostaną osiągnięte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Set custom description...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085422Z" creationid="JG" creationdate="20230428T085422Z">
+        <seg>Ustaw opis użytkownika</seg>
       </tuv>
     </tu>
     <tu>
