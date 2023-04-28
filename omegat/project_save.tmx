@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Background Scanning Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085604Z" creationid="a_kossek" creationdate="20230428T085604Z">
+        <seg>Ustawienia skanowania w tle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Background scan important note</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085230Z" creationid="a_kossek" creationdate="20230428T085230Z">
@@ -166,6 +174,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>No background scanning</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085530Z" creationid="a_kossek" creationdate="20230428T085530Z">
+        <seg>Brak skanowania w tle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>No background scanning mode is enabled</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085548Z" creationid="a_kossek" creationdate="20230428T085548Z">
+        <seg>Tryb skanowania w tle jest wyłączony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083351Z" creationid="d55" creationdate="20230428T083351Z">
@@ -298,6 +322,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083642Z" creationid="d55" creationdate="20230428T083642Z">
         <seg>Jednostka temperatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>This feature enables background scanning, meaning that your phone will periodically search for beacons, even when you are not using it.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085749Z" creationid="a_kossek" creationdate="20230428T085710Z">
+        <seg>Ta opcja umożliwia skanowanie w tle, co oznacza, że twój telefon będzie okresowo szukał sygnałów, nawet gdy nie jest używany.</seg>
       </tuv>
     </tu>
     <tu>
