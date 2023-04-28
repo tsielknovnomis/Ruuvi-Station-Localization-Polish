@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Measure environmental data: temperature, relative humidity and air pressure</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T084858Z" creationid="knadolna" creationdate="20230428T084858Z">
+        <seg>Dane dotyczące jakości powietrza: temperatura, wilgotność względna i ciśnienie powietrza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Movement Counter</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T085001Z" creationid="JG" creationdate="20230428T084408Z">
