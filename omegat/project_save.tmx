@@ -62,6 +62,30 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083351Z" creationid="d55" creationdate="20230428T083351Z">
+        <seg>Na urządzeniach Huawei przejdź do Ustawień Android -&gt; Aplikacje  -&gt; Ruuvi Station -&gt; Szczegóły zużycia energii -&gt; Uruchomienie aplikacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>On Samsung devices go to Android Settings -&gt; Battery -&gt; App power saving detail and set option 'Turned off' for Ruuvi Station.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084107Z" creationid="d55" creationdate="20230428T084107Z">
+        <seg>Na urządzeniach Samsung przejdź do Ustawień Android -&gt; Bateria -&gt; Szczegóły oszczędzania energii w aplikacji i zaznacz opcję"Wyłączone" dla Ruuvi Station.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>On Samsung devices go to Android Settings -&gt; Device Maintenance (or Device Care) -&gt; Battery.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084355Z" creationid="a_kossek" creationdate="20230428T084355Z">
+        <seg>Na urządzeniach Samsung przejdź do Ustawień Android -&gt; Device Maintenance (or Device Care) -&gt; Battery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Pressure Unit</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083418Z" creationid="d55" creationdate="20230428T083418Z">
