@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Response code: %1$d</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090106Z" creationid="knadolna" creationdate="20230428T090106Z">
+        <seg>Kod odpowiedzi: %1$d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Ruuvi Station</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085640Z" creationid="knadolna" creationdate="20230428T085630Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090113Z" creationid="knadolna" creationdate="20230428T090113Z">
+        <seg>Testowanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>The app will periodically search for beacons using a service (with notifications), allowing for very frequent and reliable scanning, even when you are not using it.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085946Z" creationid="a_kossek" creationdate="20230428T085946Z">
@@ -426,6 +442,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085749Z" creationid="a_kossek" creationdate="20230428T085710Z">
         <seg>Ta opcja umożliwia skanowanie w tle, co oznacza, że twój telefon będzie okresowo szukał sygnałów, nawet gdy nie jest używany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090314Z" creationid="knadolna" creationdate="20230428T090314Z">
+        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),,RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie</seg>
       </tuv>
     </tu>
     <tu>
