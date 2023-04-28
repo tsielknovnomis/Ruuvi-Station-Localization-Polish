@@ -502,10 +502,26 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Set interval between points for chart from 1 to 60 minutes.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090800Z" creationid="a_kossek" creationdate="20230428T090746Z">
+        <seg>Ustaw odstęp czasu pomiędzy punktami między 1-60 minut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Small dots will help to understand when measurements were collected</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090602Z" creationid="a_kossek" creationdate="20230428T090602Z">
         <seg>Małe kropki pozwolą zrozumieć, kiedy miał miejsce pomiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Smaller values mean a more accurate chart, but also a higher performance requirement for your device</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090842Z" creationid="a_kossek" creationdate="20230428T090842Z">
+        <seg>Mniejsze wartości pozwolą wygenerować dokładniejszy wykres, ale stanowią też większe obciążenie dla twojego urządzenia</seg>
       </tuv>
     </tu>
     <tu>
