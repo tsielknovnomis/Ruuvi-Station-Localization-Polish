@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-UK">
+        <seg>.csv created, opening share menu</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085720Z" creationid="knadolna" creationdate="20230428T085720Z">
+        <seg>utworzono .csv, otwieranie menu udostępniania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Access data for each linked sensor in real time and explore history graphs</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085210Z" creationid="knadolna" creationdate="20230428T085210Z">
@@ -190,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Press SCAN to find and add nearby sensors to your Ruuvi Station</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085635Z" creationid="knadolna" creationdate="20230428T085558Z">
+        <seg>Naciśnij SCAN, aby znaleźć i dodać pobliskie czujniki do swojej stacji pogodowej Ruuvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Pressure Unit</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083418Z" creationid="d55" creationdate="20230428T083418Z">
@@ -210,6 +226,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084030Z" creationid="d55" creationdate="20230428T084030Z">
         <seg>Usuń czujnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Ruuvi Station</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085640Z" creationid="knadolna" creationdate="20230428T085630Z">
+        <seg>Stacja pogodowa Ruuvi</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +322,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084157Z" creationid="d55" creationdate="20230428T084157Z">
         <seg>Wersja: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085447Z" creationid="knadolna" creationdate="20230428T085447Z">
+        <seg>Tak</seg>
       </tuv>
     </tu>
     <tu>
