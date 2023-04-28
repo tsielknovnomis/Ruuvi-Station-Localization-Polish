@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Data forwarding works!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090020Z" creationid="knadolna" creationdate="20230428T085938Z">
+        <seg>Prace związane z przekazywaniem danych!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Disable 'Auto-disable unused apps'.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084741Z" creationid="a_kossek" creationdate="20230428T084741Z">
@@ -134,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Failed to create CSV file</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085746Z" creationid="knadolna" creationdate="20230428T085746Z">
+        <seg>Nie udało się utworzyć pliku CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Humidity Unit</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083248Z" creationid="d55" creationdate="20230428T083236Z">
         <seg>Jednostka wilgotności powietrza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Is the URL correct?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085947Z" creationid="knadolna" creationdate="20230428T085933Z">
+        <seg>Czy adres URL jest porpawny?</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +226,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085548Z" creationid="a_kossek" creationdate="20230428T085548Z">
         <seg>Tryb skanowania w tle jest wyłączony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Nope, it did not work.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085923Z" creationid="knadolna" creationdate="20230428T085923Z">
+        <seg>To nie pomogło.</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +306,22 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085640Z" creationid="knadolna" creationdate="20230428T085630Z">
         <seg>Stacja pogodowa Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sensor %1$s CSV export</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085822Z" creationid="knadolna" creationdate="20230428T085822Z">
+        <seg>Eksportuj czujnik1$s do CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sensor Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085829Z" creationid="knadolna" creationdate="20230428T085829Z">
+        <seg>Ustawienia czujnika</seg>
       </tuv>
     </tu>
     <tu>
