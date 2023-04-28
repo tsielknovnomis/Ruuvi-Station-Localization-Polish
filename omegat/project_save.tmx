@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-UK">
+        <seg>Background scan important note</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085230Z" creationid="a_kossek" creationdate="20230428T085230Z">
+        <seg>Skanowanie w tle ważna informacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Celsius (℃)</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084117Z" creationid="d55" creationdate="20230428T084117Z">
@@ -34,6 +42,30 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083728Z" creationid="d55" creationdate="20230428T083728Z">
         <seg>Wyświetl wybraną jednostkę temperatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Disable 'Auto-disable unused apps'.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084741Z" creationid="a_kossek" creationdate="20230428T084741Z">
+        <seg>Wyłącz "Automatycznie wyłącz nieużywane aplikacje".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Disable 'Put unused apps to sleep'.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084722Z" creationid="a_kossek" creationdate="20230428T084722Z">
+        <seg>Wyłącz "Uśpij nieużywane aplikacje".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Disable background restrictions for Ruuvi Station.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085207Z" creationid="a_kossek" creationdate="20230428T085207Z">
+        <seg>Wyłącz ograniczenia pracy w tle dla Ruuvi Station.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +138,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083418Z" creationid="d55" creationdate="20230428T083418Z">
         <seg>Jednostka ciśnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Remove Ruuvi Station from the list of sleeping apps.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084819Z" creationid="a_kossek" creationdate="20230428T084819Z">
+        <seg>Usuń Ruuvi Station z listy uśpionych aplikacji.</seg>
       </tuv>
     </tu>
     <tu>
