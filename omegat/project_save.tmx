@@ -759,6 +759,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>You can disable background scanning in Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091255Z" creationid="JG" creationdate="20230428T091237Z">
+        <seg>Możesz wyłączyć skanowanie w tle w ustawieniach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>ago</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090340Z" creationid="JG" creationdate="20230428T090340Z">
