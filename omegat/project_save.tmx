@@ -151,6 +151,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Chart history view period</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091048Z" creationid="a_kossek" creationdate="20230428T091048Z">
+        <seg>Okres wyświetlania historii wykresu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Choose the humidity unit you want to be displayed</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083326Z" creationid="d55" creationdate="20230428T083326Z">
@@ -183,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Configure the period of history to be shown on chart from 1 to 10 days</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091133Z" creationid="a_kossek" creationdate="20230428T091133Z">
+        <seg>Konfiguruj wyświetlanie historii wykresu na okres od 1 do 10 dni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Continuous background scanning</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085432Z" creationid="a_kossek" creationdate="20230428T085432Z">
@@ -195,6 +211,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085818Z" creationid="a_kossek" creationdate="20230428T085522Z">
         <seg>Tryb ciągłego skanowania w tle jest włączony. \nInterwał rejestrowania danych: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Data Forwarding Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091231Z" creationid="a_kossek" creationdate="20230428T091231Z">
+        <seg>Ustawienia przesyłania danych</seg>
       </tuv>
     </tu>
     <tu>
@@ -593,8 +617,8 @@
       <tuv lang="en-UK">
         <seg>Smaller values mean a more accurate chart, but also a higher performance requirement for your device</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090842Z" creationid="a_kossek" creationdate="20230428T090842Z">
-        <seg>Mniejsze wartości pozwolą wygenerować dokładniejszy wykres, ale stanowią też większe obciążenie dla twojego urządzenia</seg>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091002Z" creationid="a_kossek" creationdate="20230428T090842Z">
+        <seg>Mniejsze wartości pozwalają wygenerować dokładniejszy wykres, ale wymagają też większej wydajności urządzenia</seg>
       </tuv>
     </tu>
     <tu>
