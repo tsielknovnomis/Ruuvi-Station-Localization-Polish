@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Chart Interval</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090651Z" creationid="a_kossek" creationdate="20230428T090651Z">
+        <seg>Odstęp czasu na wykresie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Chart Settings</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090105Z" creationid="a_kossek" creationdate="20230428T090105Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083728Z" creationid="d55" creationdate="20230428T083728Z">
         <seg>Wyświetl wybraną jednostkę temperatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Configure interval between points shown on chart</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090654Z" creationid="a_kossek" creationdate="20230428T090202Z">
+        <seg>Konfiguruj odstęp czasu pomiędzy punktami widocznymi na wykresie</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Display all data in chart</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090113Z" creationid="a_kossek" creationdate="20230428T090113Z">
+        <seg>Pokaż wszystkie dane na wykresie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Do you want to remove the sensor?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084044Z" creationid="d55" creationdate="20230428T084044Z">
@@ -190,10 +214,26 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Draw dots in chart</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090526Z" creationid="a_kossek" creationdate="20230428T090526Z">
+        <seg>Rysuj kropki na wykresie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Enable Autostart and set Battery Saver to 'No restrictions'.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085412Z" creationid="a_kossek" creationdate="20230428T085412Z">
         <seg>Włącz automatyczne uruchamianie i ustaw Oszczędzanie Baterii na "Bez ograniczeń".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enabling it may cause charts to update slowly</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090130Z" creationid="a_kossek" creationdate="20230428T090130Z">
+        <seg>Włączenie tej opcji może spowolnić aktualizowanie wykresu</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +466,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090128Z" creationid="JG" creationdate="20230428T085422Z">
         <seg>Ustaw opis zdefiniowany przez użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Small dots will help to understand when measurements were collected</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090602Z" creationid="a_kossek" creationdate="20230428T090602Z">
+        <seg>Małe kropki pozwolą zrozumieć, kiedy miał miejsce pomiar</seg>
       </tuv>
     </tu>
     <tu>
