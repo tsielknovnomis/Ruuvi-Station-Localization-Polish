@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>ALERTS</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091119Z" creationid="JG" creationdate="20230428T091119Z">
+        <seg>OSTRZEŻENIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Acceleration X</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090235Z" creationid="JG" creationdate="20230428T090235Z">
@@ -91,6 +99,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090709Z" creationid="JG" creationdate="20230428T090646Z">
         <seg>Ostrzeżenie, gdy czujnik jest poruszany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>BACKGROUND\nIMAGE</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091137Z" creationid="JG" creationdate="20230428T091137Z">
+        <seg>Zdjęcie w tle</seg>
       </tuv>
     </tu>
     <tu>
