@@ -14,6 +14,30 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Acceleration X</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090235Z" creationid="JG" creationdate="20230428T090235Z">
+        <seg>Przyspieszenie X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Acceleration Y</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090240Z" creationid="JG" creationdate="20230428T090240Z">
+        <seg>Przyspieszenie Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Acceleration Z</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090245Z" creationid="JG" creationdate="20230428T090245Z">
+        <seg>Przyspieszenie Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Access data for each linked sensor in real time and explore history graphs</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085210Z" creationid="knadolna" creationdate="20230428T085210Z">
@@ -142,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Disable this alarm</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090501Z" creationid="JG" creationdate="20230428T090501Z">
+        <seg>Wyłącz alarm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Do you want to remove the sensor?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084044Z" creationid="d55" creationdate="20230428T084044Z">
@@ -238,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Nearby Ruuvi sensors</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090335Z" creationid="JG" creationdate="20230428T090335Z">
+        <seg>Czujnki Ruuvi w pobliżu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>No background scanning</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085530Z" creationid="a_kossek" creationdate="20230428T085530Z">
@@ -250,6 +290,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085548Z" creationid="a_kossek" creationdate="20230428T085548Z">
         <seg>Tryb skanowania w tle jest wyłączony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>No sensors found</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090258Z" creationid="JG" creationdate="20230428T090258Z">
+        <seg>Nie wykryto czujników</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +546,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084102Z" creationid="d55" creationdate="20230428T084102Z">
         <seg>W razie potrzeby możesz go dodać później.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>ago</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090340Z" creationid="JG" creationdate="20230428T090340Z">
+        <seg>przed</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
