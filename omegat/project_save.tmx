@@ -48,16 +48,41 @@
       <tuv lang="en-UK">
         <seg>Air Humidity is too high!</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090759Z" creationid="JG" creationdate="20230428T090726Z">
-        <seg>Wilgotność powietrza jest zbyt wysoka!</seg>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090825Z" creationid="JG" creationdate="20230428T090726Z">
+        <seg>Zbyt wysoka wilgotność powietrza!&lt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>Air Humidity is too low!</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090745Z" creationid="JG" creationdate="20230428T090745Z">
-        <seg>Wilgotność powietrza jest zbyt niska!</seg>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090817Z" creationid="JG" creationdate="20230428T090745Z">
+        <seg>Zbyt niska wilgotność powietrza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Air Pressure is too high!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090852Z" creationid="JG" creationdate="20230428T090852Z">
+        <seg>Zbyt wysokie ciśnienie powietrza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Air Pressure is too low!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090903Z" creationid="JG" creationdate="20230428T090903Z">
+        <seg>Zbyt niskie ciśnienie powietrza!
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091111Z" creationid="JG" creationdate="20230428T091111Z">
+        <seg>Ostrzeżenie, gdy mniej niż {%.0f^%1$,d} lub więcej niż {%.0f^%2$,d}</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +359,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Movement detected!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090837Z" creationid="JG" creationdate="20230428T090837Z">
+        <seg>Wykryto przesunięcie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Name</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T085853Z" creationid="JG" creationdate="20230428T085853Z">
@@ -378,6 +411,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085923Z" creationid="knadolna" creationdate="20230428T085923Z">
         <seg>To nie pomogło.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091023Z" creationid="JG" creationdate="20230428T091023Z">
+        <seg>Wyłącz</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +551,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Signal strength is too high!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090943Z" creationid="JG" creationdate="20230428T090943Z">
+        <seg>Zbyt wysoki poziom sygnału!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Signal strength is too low!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090958Z" creationid="JG" creationdate="20230428T090958Z">
+        <seg>Zbyt niski poziom sygnału!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Small dots will help to understand when measurements were collected</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090602Z" creationid="a_kossek" creationdate="20230428T090602Z">
@@ -562,6 +619,22 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083642Z" creationid="d55" creationdate="20230428T083642Z">
         <seg>Jednostka temperatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Temperature is too high!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091014Z" creationid="JG" creationdate="20230428T091014Z">
+        <seg>Zbyt wysoka temperatura!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Temperature is too low!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091018Z" creationid="JG" creationdate="20230428T091018Z">
+        <seg>Zbyt niska temperatura!</seg>
       </tuv>
     </tu>
     <tu>
