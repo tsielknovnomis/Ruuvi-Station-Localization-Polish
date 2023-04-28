@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085841Z" creationid="JG" creationdate="20230428T085841Z">
+        <seg>Język</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Let the app act as a gateway</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085408Z" creationid="knadolna" creationdate="20230428T085408Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T085657Z" creationid="JG" creationdate="20230428T084408Z">
         <seg>Licznik </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085853Z" creationid="JG" creationdate="20230428T085853Z">
+        <seg>Nazwa</seg>
       </tuv>
     </tu>
     <tu>
