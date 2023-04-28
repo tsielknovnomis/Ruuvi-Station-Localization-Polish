@@ -6,18 +6,74 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-UK">
-        <seg>Disable 'Manage Automatically' and enable options: 'Auto-Launch', 'Secondary Launch' and 'Run in background'.</seg>
+        <seg>Choose the humidity unit you want to be displayed</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083844Z" creationid="d55" creationdate="20230428T083844Z">
-        <seg>Wyłącz "Zarządzaj automatycznie" i włącz opcje: "Uruchom automatycznie", "Uruchom ponownie" i 'Uruchom w tle'.</seg>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083326Z" creationid="d55" creationdate="20230428T083326Z">
+        <seg>Wyświetl wybraną jednostkę wilgotności powietrza</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
-        <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
+        <seg>Choose the pressure unit you want to be displayed</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083351Z" creationid="d55" creationdate="20230428T083351Z">
-        <seg>Na urządzeniach Huawei przejdź do Ustawień Android -&gt; Aplikacje  -&gt; Ruuvi Station -&gt; Szczegóły zużycia energii -&gt; Uruchomienie aplikacji.</seg>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083627Z" creationid="d55" creationdate="20230428T083627Z">
+        <seg>Wyświetl wybraną jednostkę ciśnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Choose the temperature unit you want to be displayed</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083728Z" creationid="d55" creationdate="20230428T083728Z">
+        <seg>Wyświetl wybraną jednostkę temperatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Download history data from the sensor?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083906Z" creationid="d55" creationdate="20230428T083906Z">
+        <seg>Pobierz historię danych z czunika?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Humidity Unit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083248Z" creationid="d55" creationdate="20230428T083236Z">
+        <seg>Jednostka wilgotności powietrza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Pressure Unit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083418Z" creationid="d55" creationdate="20230428T083418Z">
+        <seg>Jednostka ciśnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Something went wrong</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083804Z" creationid="d55" creationdate="20230428T083804Z">
+        <seg>Coś poszło nie tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sync complete</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083825Z" creationid="d55" creationdate="20230428T083825Z">
+        <seg>Synchronizacja zakończona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Temperature Unit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083642Z" creationid="d55" creationdate="20230428T083642Z">
+        <seg>Jednostka temperatury</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
