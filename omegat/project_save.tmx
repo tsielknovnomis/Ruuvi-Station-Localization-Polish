@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-UK">
+        <seg>Access data for each linked sensor in real time and explore history graphs</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085210Z" creationid="knadolna" creationdate="20230428T085210Z">
+        <seg>Uzyskaj dostęp do danych dla każdego połączonego czujnika w czasie rzeczywistym i zbadaj wykresy historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Background scan important note</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085230Z" creationid="a_kossek" creationdate="20230428T085230Z">
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Let the app act as a gateway</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085408Z" creationid="knadolna" creationdate="20230428T085408Z">
+        <seg>Pozwól aplikacji działać jako brama sieciowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Measure environmental data: temperature, relative humidity and air pressure</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T084858Z" creationid="knadolna" creationdate="20230428T084858Z">
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084020Z" creationid="d55" creationdate="20230428T084020Z">
         <seg>Nie znaleziono czujnika, czy jest on w zasięgu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Set alerts and get notified whenever your limits are hit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085254Z" creationid="knadolna" creationdate="20230428T085254Z">
+        <seg>Ustaw powiadomienia, by je otrzymywać, gdy twoje limity zostaną osiągnięte</seg>
       </tuv>
     </tu>
     <tu>
