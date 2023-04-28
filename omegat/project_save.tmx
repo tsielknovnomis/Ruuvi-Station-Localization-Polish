@@ -783,6 +783,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>When you add a URL here, the app will execute an HTTP POST with the linked sensors when it does background scanning.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091446Z" creationid="a_kossek" creationdate="20230428T091446Z">
+        <seg>Kiedy wstawisz tutaj URL, aplikacja wyśle żądanie HTTP do połączonych czujników podczas skanowania w tle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085447Z" creationid="knadolna" creationdate="20230428T085447Z">
