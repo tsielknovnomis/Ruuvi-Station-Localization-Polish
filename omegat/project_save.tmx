@@ -76,6 +76,14 @@
         <seg>Jednostka temperatury</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Tx Power</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T084031Z" creationid="JG" creationdate="20230428T084031Z">
+        <seg>Moc transmisji</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
