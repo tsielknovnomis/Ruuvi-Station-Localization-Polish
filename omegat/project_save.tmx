@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-UK">
+        <seg>Celsius (℃)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084117Z" creationid="d55" creationdate="20230428T084117Z">
+        <seg>stopnie Celsjusza (℃)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Choose the humidity unit you want to be displayed</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083326Z" creationid="d55" creationdate="20230428T083326Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083728Z" creationid="d55" creationdate="20230428T083728Z">
         <seg>Wyświetl wybraną jednostkę temperatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Do you want to remove the sensor?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084044Z" creationid="d55" creationdate="20230428T084044Z">
+        <seg>Czy chcesz usunąć czujnik?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Remove sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084030Z" creationid="d55" creationdate="20230428T084030Z">
+        <seg>Usuń czujnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sensor not found, is it in range?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084020Z" creationid="d55" creationdate="20230428T084020Z">
+        <seg>Nie znaleziono czujnika, czy jest on w zasięgu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Something went wrong</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083804Z" creationid="d55" creationdate="20230428T083804Z">
@@ -62,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Swipe to see what Ruuvi Station can do for you</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084233Z" creationid="d55" creationdate="20230428T084233Z">
+        <seg>Przeciągnij, aby zobaczyć, co Ruuvi Station może dla Ciebie zrobić</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Sync complete</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083825Z" creationid="d55" creationdate="20230428T083825Z">
         <seg>Synchronizacja zakończona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Temperature ({%@^%1$s})</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084106Z" creationid="d55" creationdate="20230428T084106Z">
+        <seg>Temperatura ({%@^%1$s})</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +130,30 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T084031Z" creationid="JG" creationdate="20230428T084031Z">
         <seg>Moc transmisji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Updated {%@^%1$s}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084150Z" creationid="d55" creationdate="20230428T084150Z">
+        <seg>Zaaktualizowano {%@^%1$s}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Version: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084157Z" creationid="d55" creationdate="20230428T084157Z">
+        <seg>Wersja: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>You can add it again later, if needed.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084102Z" creationid="d55" creationdate="20230428T084102Z">
+        <seg>W razie potrzeby możesz go dodać później.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
