@@ -368,8 +368,8 @@
       <tuv lang="en-UK">
         <seg>Set custom description...</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085422Z" creationid="JG" creationdate="20230428T085422Z">
-        <seg>Ustaw opis użytkownika</seg>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090128Z" creationid="JG" creationdate="20230428T085422Z">
+        <seg>Ustaw opis zdefiniowany przez użytkownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,16 @@
       <tuv lang="en-UK">
         <seg>Tx Power</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T084031Z" creationid="JG" creationdate="20230428T084031Z">
-        <seg>Moc transmisji</seg>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090101Z" creationid="JG" creationdate="20230428T084031Z">
+        <seg>Moc nadawania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Update Firmware</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090149Z" creationid="JG" creationdate="20230428T090149Z">
+        <seg>Aktualizuj Firmware</seg>
       </tuv>
     </tu>
     <tu>
