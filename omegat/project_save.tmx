@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Continuous background scanning</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085432Z" creationid="a_kossek" creationdate="20230428T085432Z">
+        <seg>Ciągłe skanowanie w tle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Continuous background scanning mode is enabled.\nData logging interval: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085522Z" creationid="a_kossek" creationdate="20230428T085522Z">
+        <seg>Tryb ciągłego skanowania w tle jest włączony. \nInterwał rejestracji danych: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Disable 'Auto-disable unused apps'.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084741Z" creationid="a_kossek" creationdate="20230428T084741Z">
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083906Z" creationid="d55" creationdate="20230428T083906Z">
         <seg>Pobierz historię danych z czunika?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enable Autostart and set Battery Saver to 'No restrictions'.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085412Z" creationid="a_kossek" creationdate="20230428T085412Z">
+        <seg>Włącz automatyczne uruchamianie i ustaw Oszczędzanie Baterii na "Bez ograniczeń".</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +170,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084628Z" creationid="a_kossek" creationdate="20230428T084355Z">
         <seg>Na urządzeniach Samsung przejdź do Ustawień Android -&gt; Device Maintenance (lub Device Care) -&gt; Bateria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>On Xiaomi devices go to Android Settings -&gt; Apps -&gt; Manage apps -&gt; Ruuvi Station.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085304Z" creationid="a_kossek" creationdate="20230428T085304Z">
+        <seg>Na urządzeniach Xiaomi przejdź do Ustawień Android -&gt; Aplikacje -&gt; Zarządzanie aplikacjami -&gt; Ruuvi Station.</seg>
       </tuv>
     </tu>
     <tu>
