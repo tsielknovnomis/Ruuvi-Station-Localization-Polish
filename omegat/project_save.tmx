@@ -12,6 +12,14 @@
         <seg>Potwierdź</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083351Z" creationid="d55" creationdate="20230428T083351Z">
+        <seg>Na urządzeniach Huawei przejdź do Ustawień Android -&gt; Aplikacje  -&gt; Ruuvi Station -&gt; Szczegóły zużycia energii -&gt; Uruchomienie aplikacji.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
