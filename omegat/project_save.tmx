@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Movement Counter</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085001Z" creationid="JG" creationdate="20230428T084408Z">
+        <seg>Licznik kroków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083351Z" creationid="d55" creationdate="20230428T083351Z">
