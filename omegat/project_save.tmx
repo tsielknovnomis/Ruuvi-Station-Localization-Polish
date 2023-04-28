@@ -127,6 +127,38 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Battery Voltage</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091347Z" creationid="JG" creationdate="20230428T091347Z">
+        <seg>Napięcie baterii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Calibrate</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091352Z" creationid="JG" creationdate="20230428T091352Z">
+        <seg>Kalibruj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Calibrated: {%@^%1$s}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091420Z" creationid="JG" creationdate="20230428T091403Z">
+        <seg>Kalibracja: {%@^%1$s}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Calibration done!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091424Z" creationid="JG" creationdate="20230428T091424Z">
+        <seg>Skalibrowano!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Celsius (℃)</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084117Z" creationid="d55" creationdate="20230428T084117Z">
@@ -539,6 +571,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085640Z" creationid="knadolna" creationdate="20230428T085630Z">
         <seg>Stacja pogodowa Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Scanning every</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091322Z" creationid="JG" creationdate="20230428T091322Z">
+        <seg>Skanuj wszystko</seg>
       </tuv>
     </tu>
     <tu>
