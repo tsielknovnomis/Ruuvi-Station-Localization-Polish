@@ -917,6 +917,14 @@
         <seg>przed</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>never</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230503T115604Z" creationid="AW" creationdate="20230503T115604Z">
+        <seg>nigdy</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
