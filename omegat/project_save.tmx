@@ -783,6 +783,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Synchronisation failed: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T195258Z" creationid="AW" creationdate="20230504T195258Z">
+        <seg>Synchronizacja zakończona niepowodzeniem: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Synchronised successfully!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194618Z" creationid="AW" creationdate="20230504T194618Z">
+        <seg>Synchronizacja zakończona pomyślnie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Synchronised: {%@^%1$s}</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194353Z" creationid="AW" creationdate="20230504T194353Z">
@@ -911,6 +927,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>User: {%@^%1$s}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194549Z" creationid="AW" creationdate="20230504T194549Z">
+        <seg>Użytkownik: {%@^%1$s}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Version: %1$s</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084157Z" creationid="d55" creationdate="20230428T084157Z">
@@ -979,6 +1003,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230503T115604Z" creationid="AW" creationdate="20230503T115604Z">
         <seg>nigdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>none</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194507Z" creationid="AW" creationdate="20230504T194507Z">
+        <seg>żaden</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
