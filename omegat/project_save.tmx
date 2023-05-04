@@ -423,6 +423,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\n\nNote that the sensor's custom name and background image will be shared.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201107Z" creationid="AW" creationdate="20230504T201107Z">
+        <seg>Jeśli odbiorca nie ma konta Ruuvi, darmowe konto Ruuvi zostanie automatycznie utworzone przy pierwszym logowaniu.\NNależy pamiętać, że zostanie udostępniona wybrana nazwa czujnika i obraz tła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Is the URL correct?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085947Z" creationid="knadolna" creationdate="20230428T085933Z">
@@ -1009,8 +1017,8 @@
       <tuv lang="en-UK">
         <seg>You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\n\nReceiver will be notified by email.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230504T200550Z" creationid="AW" creationdate="20230504T200550Z">
-        <seg>Możesz udostępnić czujnik rodzinie i przyjaciołom jeśli jest to w zasięgu routera Ruuvi Gateway. \n\n </seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T200632Z" creationid="AW" creationdate="20230504T200550Z">
+        <seg>Możesz udostępnić czujnik rodzinie i przyjaciołom jeśli jest to w zasięgu routera Ruuvi Gateway. \n\nOdbiorca zostanie poinformowany wiadomością e-mail. </seg>
       </tuv>
     </tu>
     <tu>
