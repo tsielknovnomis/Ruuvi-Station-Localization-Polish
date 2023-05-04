@@ -895,6 +895,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>The name and image sync is one time only, and after this, they can be privately customised by the receiver.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201248Z" creationid="AW" creationdate="20230504T201248Z">
+        <seg>Synchronizacja nazwy i obrazu jest jednorazowa, a po jej zakończeniu mogą być one spersonalizowane przez odbiorcę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>This feature enables background scanning, meaning that your phone will periodically search for beacons, even when you are not using it.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085749Z" creationid="a_kossek" creationdate="20230428T085710Z">
