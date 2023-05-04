@@ -791,6 +791,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Synchronisation failed: need to log in first</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T195500Z" creationid="AW" creationdate="20230504T195500Z">
+        <seg>Synchronizacja zakończona niepowodzeniem: najpierw należy się zalogować</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Synchronised successfully!</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194618Z" creationid="AW" creationdate="20230504T194618Z">
