@@ -703,6 +703,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Share sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T195512Z" creationid="AW" creationdate="20230504T195512Z">
+        <seg>Udostępnij czujnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Sign in</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090759Z" creationid="knadolna" creationdate="20230428T090759Z">
@@ -995,6 +1003,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T091255Z" creationid="JG" creationdate="20230428T091237Z">
         <seg>Możesz wyłączyć skanowanie w tle w ustawieniach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\n\nReceiver will be notified by email.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T200550Z" creationid="AW" creationdate="20230504T200550Z">
+        <seg>Możesz udostępnić czujnik rodzinie i przyjaciołom jeśli jest to w zasięgu routera Ruuvi Gateway. \n\n </seg>
       </tuv>
     </tu>
     <tu>
