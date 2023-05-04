@@ -375,6 +375,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Do you want to unshare sensor for {%@^%1$s}?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201650Z" creationid="AW" creationdate="20230504T201650Z">
+        <seg>Czy chcesz cofnąć udostępnienie dla {%@^%1$s}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Download history data from the sensor?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083906Z" creationid="d55" creationdate="20230428T083906Z">
@@ -471,6 +479,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Login to\nRuuvi\nStation</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201911Z" creationid="AW" creationdate="20230504T201911Z">
+        <seg>Zaloguj się do \nRuuvi\nStation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Measure environmental data: temperature, relative humidity and air pressure</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T084858Z" creationid="knadolna" creationdate="20230428T084858Z">
@@ -515,6 +531,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090446Z" creationid="knadolna" creationdate="20230428T090446Z">
         <seg>Wycisz na godzinę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>NETWORK INFO</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201711Z" creationid="AW" creationdate="20230504T201711Z">
+        <seg>INFORMACJA O SIECI</seg>
       </tuv>
     </tu>
     <tu>
@@ -615,6 +639,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Owner</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201721Z" creationid="AW" creationdate="20230504T201721Z">
+        <seg>Właściciel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Press SCAN to find and add nearby sensors to your Ruuvi Station</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085635Z" creationid="knadolna" creationdate="20230428T085558Z">
@@ -671,6 +703,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Ruuvi cloud status</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201817Z" creationid="AW" creationdate="20230504T201817Z">
+        <seg>Status chmury Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Scanning every</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T091322Z" creationid="JG" creationdate="20230428T091322Z">
@@ -681,8 +721,8 @@
       <tuv lang="en-UK">
         <seg>Send</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201607Z" creationid="AW" creationdate="20230504T201607Z">
-        <seg>Wy</seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201609Z" creationid="AW" creationdate="20230504T201607Z">
+        <seg>Wyślij</seg>
       </tuv>
     </tu>
     <tu>
@@ -963,6 +1003,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090723Z" creationid="knadolna" creationdate="20230428T090434Z">
         <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),,RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik ruchu, numer kolejny pomiaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>To enjoy all the features, create a free account or login to your existing Ruuvi account by entering your email address.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202000Z" creationid="AW" creationdate="20230504T202000Z">
+        <seg>Aby korzystać ze wszystkich funkcji, utwórz darmowe konto lub zaloguj się do istniejącego konta Ruuvi, podając swój adres e-mail.</seg>
       </tuv>
     </tu>
     <tu>
