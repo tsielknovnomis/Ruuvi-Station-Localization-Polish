@@ -463,6 +463,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>In order to share the sensor, you need to have a Ruuvi Gateway router nearby the sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202732Z" creationid="AW" creationdate="20230504T202732Z">
+        <seg>Aby udostępnić czujnik, w pobliżu czujnika musi znajdować się router Ruuvi Gateway</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Internal error</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202201Z" creationid="AW" creationdate="20230504T202201Z">
@@ -523,6 +531,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T085147Z" creationid="JG" creationdate="20230428T085147Z">
         <seg>Numer sekwencji pomiaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Missing argument</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202823Z" creationid="AW" creationdate="20230504T202823Z">
+        <seg>Brakujący argument</seg>
       </tuv>
     </tu>
     <tu>
@@ -791,6 +807,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Sensor share limit is reached</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202619Z" creationid="AW" creationdate="20230504T202619Z">
+        <seg>Osiągnięto limit udostępnień</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Set alerts and get notified whenever your limits are hit</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085254Z" creationid="knadolna" creationdate="20230428T085254Z">
@@ -1039,6 +1063,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>This sensor is already shared</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202747Z" creationid="AW" creationdate="20230504T202747Z">
+        <seg>Czujnik został już udostępniony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090750Z" creationid="knadolna" creationdate="20230428T090750Z">
@@ -1083,6 +1115,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090101Z" creationid="JG" creationdate="20230428T084031Z">
         <seg>Moc nadawania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Unable to send e-mail</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202802Z" creationid="AW" creationdate="20230504T202802Z">
+        <seg>Nie można wysłać wiadomości e-mail</seg>
       </tuv>
     </tu>
     <tu>
