@@ -191,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Calibration setup</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203927Z" creationid="AW" creationdate="20230504T203927Z">
+        <seg>Ustawienia kalibracji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Celsius (℃)</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084117Z" creationid="d55" creationdate="20230428T084117Z">
@@ -251,6 +259,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194033Z" creationid="AW" creationdate="20230504T194033Z">
         <seg>Zastrzeżenie własności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Clear calibration settings?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203911Z" creationid="AW" creationdate="20230504T203911Z">
+        <seg>Usunąć ustawienia kalibracyjne?</seg>
       </tuv>
     </tu>
     <tu>
@@ -435,6 +451,30 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091512Z" creationid="knadolna" creationdate="20230428T091512Z">
         <seg>Wpisz ręcznie kod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enter the expected humidity value from sensor under current conditions ({%@^%1$s}):</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T204022Z" creationid="AW" creationdate="20230504T204022Z">
+        <seg>[coś w rodzaju][coś w rodzaju]Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enter the expected pressure value from sensor under current conditions ({%@^%1$s}):</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T204018Z" creationid="AW" creationdate="20230504T204018Z">
+        <seg>[coś w rodzaju]Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enter the expected temperature value from sensor under current conditions ({%@^%1$s}):</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T204009Z" creationid="AW" creationdate="20230504T204009Z">
+        <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
       </tuv>
     </tu>
     <tu>
