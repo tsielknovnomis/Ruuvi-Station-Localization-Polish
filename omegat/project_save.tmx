@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Forbidden</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202018Z" creationid="AW" creationdate="20230504T202018Z">
+        <seg>Zabronione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Humidity Unit</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083248Z" creationid="d55" creationdate="20230428T083236Z">
@@ -451,6 +459,22 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201107Z" creationid="AW" creationdate="20230504T201107Z">
         <seg>Jeśli odbiorca nie ma konta Ruuvi, darmowe konto Ruuvi zostanie automatycznie utworzone przy pierwszym logowaniu.\NNależy pamiętać, że zostanie udostępniona wybrana nazwa czujnika i obraz tła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Internal error</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202201Z" creationid="AW" creationdate="20230504T202201Z">
+        <seg>Błąd wewnętrzny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid request format</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202238Z" creationid="AW" creationdate="20230504T202238Z">
+        <seg>Nieprawidłowy format prośby</seg>
       </tuv>
     </tu>
     <tu>
@@ -707,6 +731,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201817Z" creationid="AW" creationdate="20230504T201817Z">
         <seg>Status chmury Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>SKIP</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202008Z" creationid="AW" creationdate="20230504T202008Z">
+        <seg>POMIŃ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1019,6 +1051,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090101Z" creationid="JG" creationdate="20230428T084031Z">
         <seg>Moc nadawania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Unauthorised</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202137Z" creationid="AW" creationdate="20230504T202137Z">
+        <seg>Nieautoryzowane</seg>
       </tuv>
     </tu>
     <tu>
