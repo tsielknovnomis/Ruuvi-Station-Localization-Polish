@@ -231,6 +231,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Claim ownership</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194033Z" creationid="AW" creationdate="20230504T194033Z">
+        <seg>Zastrzeżenie własności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Code</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T192534Z" creationid="AW" creationdate="20230504T192534Z">
@@ -687,6 +695,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Share</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194045Z" creationid="AW" creationdate="20230504T194045Z">
+        <seg>Udostępnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Sign in</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090759Z" creationid="knadolna" creationdate="20230428T090759Z">
@@ -763,6 +779,22 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083825Z" creationid="d55" creationdate="20230428T083825Z">
         <seg>Synchronizacja zakończona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Synchronised: {%@^%1$s}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194353Z" creationid="AW" creationdate="20230504T194353Z">
+        <seg>Synchronizacja zakończona: {%@^%1$s}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Syncing...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194055Z" creationid="AW" creationdate="20230504T194055Z">
+        <seg>Synchronizacja</seg>
       </tuv>
     </tu>
     <tu>
