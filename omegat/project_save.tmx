@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Add friend</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201552Z" creationid="AW" creationdate="20230504T201552Z">
+        <seg>Dodaj znajomego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>After signing in, you will automatically be marked as the owner of your nearby Ruuvi sensors.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090840Z" creationid="knadolna" creationdate="20230428T090840Z">
@@ -107,6 +115,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090709Z" creationid="JG" creationdate="20230428T090646Z">
         <seg>Ostrzeżenie, gdy czujnik jest poruszany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Already shared {%d^%1$,d}/{%d^%2$,d}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201602Z" creationid="AW" creationdate="20230504T201602Z">
+        <seg>Już udostępnione{%d^%1$,d}/{%d^%2$,d}</seg>
       </tuv>
     </tu>
     <tu>
@@ -659,6 +675,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T091322Z" creationid="JG" creationdate="20230428T091322Z">
         <seg>Skanuj wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Send</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201607Z" creationid="AW" creationdate="20230504T201607Z">
+        <seg>Wy</seg>
       </tuv>
     </tu>
     <tu>
