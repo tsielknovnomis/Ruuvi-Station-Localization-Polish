@@ -231,6 +231,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Code</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T192534Z" creationid="AW" creationdate="20230504T192534Z">
+        <seg>Kod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Configure interval between points shown on chart</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090654Z" creationid="a_kossek" creationdate="20230428T090202Z">
@@ -883,6 +891,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091446Z" creationid="a_kossek" creationdate="20230428T091446Z">
         <seg>Kiedy wstawisz tutaj URL, aplikacja wyśle żądanie HTTP do połączonych czujników podczas skanowania w tle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>When you sign out, sensors the ownerships of which you've claimed on the sensor Settings page will be automatically removed from the app.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T192912Z" creationid="AW" creationdate="20230504T192912Z">
+        <seg>Po wylogowaniu h własność zastrzegłeś na stronie Ustawienia czujników, zostaną automatycznie usunięte z aplikacji.</seg>
       </tuv>
     </tu>
     <tu>
