@@ -479,10 +479,42 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Invalid density mode</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203019Z" creationid="AW" creationdate="20230504T203019Z">
+        <seg>Niewłaściwy tryb gęstości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid e-mail address</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203213Z" creationid="AW" creationdate="20230504T203213Z">
+        <seg>Nieprawidłowy adres e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Invalid request format</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202238Z" creationid="AW" creationdate="20230504T202238Z">
         <seg>Nieprawidłowy format prośby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid sort mode</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203050Z" creationid="AW" creationdate="20230504T203050Z">
+        <seg>Nieprawidłowy tryb sortowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid time range</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203110Z" creationid="AW" creationdate="20230504T203110Z">
+        <seg>Nieprawidłowy zakres czasu</seg>
       </tuv>
     </tu>
     <tu>
