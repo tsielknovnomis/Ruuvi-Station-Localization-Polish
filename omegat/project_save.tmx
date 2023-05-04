@@ -775,6 +775,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Sensor not found</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202345Z" creationid="AW" creationdate="20230504T202345Z">
+        <seg>Czujników nie znaleziono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Sensor not found, is it in range?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084020Z" creationid="d55" creationdate="20230428T084020Z">
@@ -883,6 +891,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091502Z" creationid="knadolna" creationdate="20230428T091502Z">
         <seg>Wyślij\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Subscription is not found</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202433Z" creationid="AW" creationdate="20230504T202433Z">
+        <seg>Nie znaleziono subskrypcji</seg>
       </tuv>
     </tu>
     <tu>
@@ -1007,6 +1023,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>The share limit is reached</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202458Z" creationid="AW" creationdate="20230504T202458Z">
+        <seg>Osiągnięto limit udostępnień</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>This feature enables background scanning, meaning that your phone will periodically search for beacons, even when you are not using it.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085749Z" creationid="a_kossek" creationdate="20230428T085710Z">
@@ -1047,6 +1071,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Token is expired</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202403Z" creationid="AW" creationdate="20230504T202403Z">
+        <seg>Token wygasł</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Tx Power</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090101Z" creationid="JG" creationdate="20230428T084031Z">
@@ -1075,6 +1107,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084150Z" creationid="d55" creationdate="20230428T084150Z">
         <seg>Zaaktualizowano {%@^%1$s}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>User not found</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202252Z" creationid="AW" creationdate="20230504T202252Z">
+        <seg>Nie znaleziono użytkownika</seg>
       </tuv>
     </tu>
     <tu>
