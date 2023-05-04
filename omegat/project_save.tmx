@@ -559,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Offset values (if any) set by the owner, will be automatically synced, and the receiver will always see the final corrected values.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201539Z" creationid="AW" creationdate="20230504T201539Z">
+        <seg>Wartości przesunięcia (jeśli są) ustawione przez właściciela, zostaną automatycznie zsynchronizowane, a odbiorca zawsze będzie widział ostateczne skorygowane wartości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083351Z" creationid="d55" creationdate="20230428T083351Z">
