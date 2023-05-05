@@ -423,6 +423,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Downloading the latest firmware to be updated...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T083259Z" creationid="AW" creationdate="20230505T083259Z">
+        <seg>Pobieranie najnowszego firmware'u do aktualizacji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Draw dots in chart</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090526Z" creationid="a_kossek" creationdate="20230428T090526Z">
@@ -823,10 +831,26 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Open the cover of your Ruuvi sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T083604Z" creationid="AW" creationdate="20230505T083604Z">
+        <seg>Otwórz osłonę swojego czujnika Ruuvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Owner</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201721Z" creationid="AW" creationdate="20230504T201721Z">
         <seg>Właściciel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Prepare your sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T083311Z" creationid="AW" creationdate="20230505T083311Z">
+        <seg>Przygotuj swój czujnik</seg>
       </tuv>
     </tu>
     <tu>
@@ -1055,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Start update process</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T083243Z" creationid="AW" creationdate="20230505T083243Z">
+        <seg>Rozpocznij aktualizacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Submit</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091502Z" creationid="knadolna" creationdate="20230428T091502Z">
@@ -1207,6 +1239,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>This means that it's probably running an old firmware version and updating it is recommended</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T083045Z" creationid="AW" creationdate="20230505T083045Z">
+        <seg>Oznacza to, że prawdopodobnie działa na starej wersji firmware i zalecana jest jego aktualizacja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>This sensor is already shared</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202747Z" creationid="AW" creationdate="20230504T202747Z">
@@ -1347,6 +1387,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085447Z" creationid="knadolna" creationdate="20230428T085447Z">
         <seg>Tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>You are running the latest firmware version, no need to update</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T083230Z" creationid="AW" creationdate="20230505T083230Z">
+        <seg>Masz najnowszą wersję firmware, aktualizacja nie jest wymagana.</seg>
       </tuv>
     </tu>
     <tu>
