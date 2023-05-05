@@ -6,90 +6,1355 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-UK">
-        <seg>Corrected value</seg>
+        <seg>.csv created, opening share menu</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T074456Z" creationid="AW" creationdate="20230505T074456Z">
-        <seg>Poprawiona wartość</seg>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085720Z" creationid="knadolna" creationdate="20230428T085720Z">
+        <seg>utworzono .csv, otwieranie menu udostępniania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>ALERTS</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091119Z" creationid="JG" creationdate="20230428T091119Z">
+        <seg>OSTRZEŻENIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Acceleration X</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090235Z" creationid="JG" creationdate="20230428T090235Z">
+        <seg>Przyspieszenie X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Acceleration Y</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090240Z" creationid="JG" creationdate="20230428T090240Z">
+        <seg>Przyspieszenie Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Acceleration Z</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090245Z" creationid="JG" creationdate="20230428T090245Z">
+        <seg>Przyspieszenie Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Access data for each linked sensor in real time and explore history graphs</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085210Z" creationid="knadolna" creationdate="20230428T085210Z">
+        <seg>Uzyskaj dostęp do danych dla każdego połączonego czujnika w czasie rzeczywistym i zbadaj wykresy historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Add friend</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201552Z" creationid="AW" creationdate="20230504T201552Z">
+        <seg>Dodaj znajomego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>After signing in, you will automatically be marked as the owner of your nearby Ruuvi sensors.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090840Z" creationid="knadolna" creationdate="20230428T090840Z">
+        <seg>Po zalogowaniu, zostaniesz automatycznie oznaczony jako właściciel pobliskich czujników Ruuvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Air Humidity is too high!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090825Z" creationid="JG" creationdate="20230428T090726Z">
+        <seg>Zbyt wysoka wilgotność powietrza!&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Air Humidity is too low!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090817Z" creationid="JG" creationdate="20230428T090745Z">
+        <seg>Zbyt niska wilgotność powietrza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Air Pressure is too high!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090852Z" creationid="JG" creationdate="20230428T090852Z">
+        <seg>Zbyt wysokie ciśnienie powietrza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Air Pressure is too low!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090903Z" creationid="JG" creationdate="20230428T090903Z">
+        <seg>Zbyt niskie ciśnienie powietrza!
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091111Z" creationid="JG" creationdate="20230428T091111Z">
+        <seg>Ostrzeżenie, gdy mniej niż {%.0f^%1$,d} lub więcej niż {%.0f^%2$,d}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Alert when sensor is moved</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090709Z" creationid="JG" creationdate="20230428T090646Z">
+        <seg>Ostrzeżenie, gdy czujnik jest poruszany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Already shared {%d^%1$,d}/{%d^%2$,d}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201602Z" creationid="AW" creationdate="20230504T201602Z">
+        <seg>Już udostępnione{%d^%1$,d}/{%d^%2$,d}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>BACKGROUND\nIMAGE</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091137Z" creationid="JG" creationdate="20230428T091137Z">
+        <seg>Zdjęcie w tle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Background Scanning Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085604Z" creationid="a_kossek" creationdate="20230428T085604Z">
+        <seg>Ustawienia skanowania w tle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Background scan important note</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085230Z" creationid="a_kossek" creationdate="20230428T085230Z">
+        <seg>Skanowanie w tle ważna informacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Battery Voltage</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091347Z" creationid="JG" creationdate="20230428T091347Z">
+        <seg>Napięcie baterii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Benefits of the Ruuvi cloud service</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091404Z" creationid="knadolna" creationdate="20230428T091404Z">
+        <seg>Korzyści z usług w chmurze Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Calibrate</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091352Z" creationid="JG" creationdate="20230428T091352Z">
+        <seg>Kalibruj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Calibrated: {%@^%1$s}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091420Z" creationid="JG" creationdate="20230428T091403Z">
+        <seg>Kalibracja: {%@^%1$s}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Calibration done!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091424Z" creationid="JG" creationdate="20230428T091424Z">
+        <seg>Skalibrowano!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Calibration setup</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203927Z" creationid="AW" creationdate="20230504T203927Z">
+        <seg>Ustawienia kalibracji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Celsius (℃)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084117Z" creationid="d55" creationdate="20230428T084117Z">
+        <seg>stopnie Celsjusza (℃)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Chart Interval</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090651Z" creationid="a_kossek" creationdate="20230428T090651Z">
+        <seg>Odstęp czasu na wykresie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Chart Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090105Z" creationid="a_kossek" creationdate="20230428T090105Z">
+        <seg>Ustawienia wykresu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Chart history view period</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091048Z" creationid="a_kossek" creationdate="20230428T091048Z">
+        <seg>Okres wyświetlania historii wykresu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Choose the humidity unit you want to be displayed</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083326Z" creationid="d55" creationdate="20230428T083326Z">
+        <seg>Wyświetl wybraną jednostkę wilgotności powietrza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Choose the pressure unit you want to be displayed</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083627Z" creationid="d55" creationdate="20230428T083627Z">
+        <seg>Wyświetl wybraną jednostkę ciśnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Choose the temperature unit you want to be displayed</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083728Z" creationid="d55" creationdate="20230428T083728Z">
+        <seg>Wyświetl wybraną jednostkę temperatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Claim ownership</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194033Z" creationid="AW" creationdate="20230504T194033Z">
+        <seg>Zastrzeżenie własności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Clear calibration settings?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203911Z" creationid="AW" creationdate="20230504T203911Z">
+        <seg>Usunąć ustawienia kalibracyjne?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Code</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T192534Z" creationid="AW" creationdate="20230504T192534Z">
+        <seg>Kod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Configure interval between points shown on chart</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090654Z" creationid="a_kossek" creationdate="20230428T090202Z">
+        <seg>Konfiguruj odstęp czasu pomiędzy punktami widocznymi na wykresie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Configure the period of history to be shown on chart from 1 to 10 days</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091133Z" creationid="a_kossek" creationdate="20230428T091133Z">
+        <seg>Konfiguruj wyświetlanie historii wykresu na okres od 1 do 10 dni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Continuous background scanning</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085432Z" creationid="a_kossek" creationdate="20230428T085432Z">
+        <seg>Ciągłe skanowanie w tle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Continuous background scanning mode is enabled.\nData logging interval: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085818Z" creationid="a_kossek" creationdate="20230428T085522Z">
+        <seg>Tryb ciągłego skanowania w tle jest włączony. \nInterwał rejestrowania danych: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Data Forwarding Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091231Z" creationid="a_kossek" creationdate="20230428T091231Z">
+        <seg>Ustawienia przesyłania danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Data forwarding works!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090020Z" creationid="knadolna" creationdate="20230428T085938Z">
+        <seg>Prace związane z przekazywaniem danych!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Data logging interval</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085957Z" creationid="a_kossek" creationdate="20230428T085957Z">
+        <seg>Interwał rejestrowania danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Data storage error</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203315Z" creationid="AW" creationdate="20230504T203315Z">
+        <seg>Błąd w zapisie danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Define how often the background scanning will run</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090027Z" creationid="a_kossek" creationdate="20230428T090027Z">
+        <seg>Zdefiniuj częstość skanowania w tle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Disable 'Auto-disable unused apps'.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084741Z" creationid="a_kossek" creationdate="20230428T084741Z">
+        <seg>Wyłącz "Automatycznie wyłącz nieużywane aplikacje".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Disable 'Put unused apps to sleep'.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084722Z" creationid="a_kossek" creationdate="20230428T084722Z">
+        <seg>Wyłącz "Uśpij nieużywane aplikacje".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Disable background restrictions for Ruuvi Station.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085207Z" creationid="a_kossek" creationdate="20230428T085207Z">
+        <seg>Wyłącz ograniczenia pracy w tle dla Ruuvi Station.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Disable this alarm</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090501Z" creationid="JG" creationdate="20230428T090501Z">
+        <seg>Wyłącz alarm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Display all data in chart</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090113Z" creationid="a_kossek" creationdate="20230428T090113Z">
+        <seg>Pokaż wszystkie dane na wykresie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Do you want to remove the sensor?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084044Z" creationid="d55" creationdate="20230428T084044Z">
+        <seg>Czy chcesz usunąć czujnik?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Do you want to unshare sensor for {%@^%1$s}?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201650Z" creationid="AW" creationdate="20230504T201650Z">
+        <seg>Czy chcesz cofnąć udostępnienie dla {%@^%1$s}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Download history data from the sensor?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083906Z" creationid="d55" creationdate="20230428T083906Z">
+        <seg>Pobierz historię danych z czunika?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Draw dots in chart</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090526Z" creationid="a_kossek" creationdate="20230428T090526Z">
+        <seg>Rysuj kropki na wykresie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Email sent</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091523Z" creationid="knadolna" creationdate="20230428T091518Z">
+        <seg>Email wysłany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enable Autostart and set Battery Saver to 'No restrictions'.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085412Z" creationid="a_kossek" creationdate="20230428T085412Z">
+        <seg>Włącz automatyczne uruchamianie i ustaw Oszczędzanie Baterii na "Bez ograniczeń".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enabling it may cause charts to update slowly</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090130Z" creationid="a_kossek" creationdate="20230428T090130Z">
+        <seg>Włączenie tej opcji może spowolnić aktualizowanie wykresu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enter code manually</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091512Z" creationid="knadolna" creationdate="20230428T091512Z">
+        <seg>Wpisz ręcznie kod</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>Enter the expected humidity value from sensor under current conditions ({%@^%1$s}):</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T074410Z" creationid="AW" creationdate="20230504T204022Z">
-        <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-UK">
-        <seg>Enter the expected pressure value from sensor under current conditions ({%@^%1$s}):</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T074400Z" creationid="AW" creationdate="20230505T074400Z">
-        <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T204022Z" creationid="AW" creationdate="20230504T204022Z">
+        <seg>[coś w rodzaju][coś w rodzaju]Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>Enter the expected temperature value from sensor under current conditions ({%@^%1$s}):</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230505T081107Z" creationid="JG" creationdate="20230505T081107Z">
-        <seg>[coś w rodzaju]Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T204009Z" creationid="AW" creationdate="20230504T204009Z">
+        <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
-        <seg>Humidity</seg>
+        <seg>Experimental features</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075833Z" creationid="AW" creationdate="20230505T075833Z">
-        <seg>Wilgotności</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-UK">
-        <seg>Original measured value</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T074448Z" creationid="AW" creationdate="20230505T074448Z">
-        <seg>Początkowa wartość</seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203635Z" creationid="AW" creationdate="20230504T203635Z">
+        <seg>Funkcje eksperymentalne</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
-        <seg>Pressure</seg>
+        <seg>Failed to create CSV file</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075842Z" creationid="AW" creationdate="20230505T075842Z">
-        <seg>Ciśnienie</seg>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085746Z" creationid="knadolna" creationdate="20230428T085746Z">
+        <seg>Nie udało się utworzyć pliku CSV</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
-        <seg>Synchronising</seg>
+        <seg>Forbidden</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075819Z" creationid="AW" creationdate="20230505T075819Z">
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202018Z" creationid="AW" creationdate="20230504T202018Z">
+        <seg>Zabronione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Humidity Unit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083248Z" creationid="d55" creationdate="20230428T083236Z">
+        <seg>Jednostka wilgotności powietrza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\n\nNote that the sensor's custom name and background image will be shared.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201107Z" creationid="AW" creationdate="20230504T201107Z">
+        <seg>Jeśli odbiorca nie ma konta Ruuvi, darmowe konto Ruuvi zostanie automatycznie utworzone przy pierwszym logowaniu.\NNależy pamiętać, że zostanie udostępniona wybrana nazwa czujnika i obraz tła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>In normal use, it's not necessary to adjust the offset.\n\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\n\nCalibration tips are available on ruuvi.com/support</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203817Z" creationid="AW" creationdate="20230504T203817Z">
+        <seg>W codziennym użytkowaniu nie jest konieczna regulacja offsetu. Jeśli jesteś zaawansowanym użytkownikiem i chciałbyś ręcznie skonfigurować fabrycznie skalibrowane czujniki, jest to możliwe. Wskazówki dotyczące kalibracji są dostępne na stronie ruuvi.com/support.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>In order to share the sensor, you need to have a Ruuvi Gateway router nearby the sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202732Z" creationid="AW" creationdate="20230504T202732Z">
+        <seg>Aby udostępnić czujnik, w pobliżu czujnika musi znajdować się router Ruuvi Gateway</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Internal error</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202201Z" creationid="AW" creationdate="20230504T202201Z">
+        <seg>Błąd wewnętrzny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid MAC-address</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203234Z" creationid="AW" creationdate="20230504T203234Z">
+        <seg>Nieprawidłowy adres MAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid density mode</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203019Z" creationid="AW" creationdate="20230504T203019Z">
+        <seg>Niewłaściwy tryb gęstości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid e-mail address</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203213Z" creationid="AW" creationdate="20230504T203213Z">
+        <seg>Nieprawidłowy adres e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid request format</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202238Z" creationid="AW" creationdate="20230504T202238Z">
+        <seg>Nieprawidłowy format prośby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid sort mode</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203050Z" creationid="AW" creationdate="20230504T203050Z">
+        <seg>Nieprawidłowy tryb sortowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Invalid time range</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203110Z" creationid="AW" creationdate="20230504T203110Z">
+        <seg>Nieprawidłowy zakres czasu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Is the URL correct?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085947Z" creationid="knadolna" creationdate="20230428T085933Z">
+        <seg>Czy adres URL jest porpawny?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085841Z" creationid="JG" creationdate="20230428T085841Z">
+        <seg>Język</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Let the app act as a gateway</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085408Z" creationid="knadolna" creationdate="20230428T085408Z">
+        <seg>Pozwól aplikacji działać jako brama sieciowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Login to\nRuuvi\nStation</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201911Z" creationid="AW" creationdate="20230504T201911Z">
+        <seg>Zaloguj się do \nRuuvi\nStation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Measure environmental data: temperature, relative humidity and air pressure</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T084858Z" creationid="knadolna" creationdate="20230428T084858Z">
+        <seg>Dane dotyczące jakości powietrza: temperatura, wilgotność względna i ciśnienie powietrza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Measurement Sequence Number</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085147Z" creationid="JG" creationdate="20230428T085147Z">
+        <seg>Numer sekwencji pomiaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Missing argument</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202823Z" creationid="AW" creationdate="20230504T202823Z">
+        <seg>Brakujący argument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Movement</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090629Z" creationid="JG" creationdate="20230428T090629Z">
+        <seg>Przesunięcia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Movement Counter</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090624Z" creationid="JG" creationdate="20230428T084408Z">
+        <seg>Licznik przesunięć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Movement detected!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090837Z" creationid="JG" creationdate="20230428T090837Z">
+        <seg>Wykryto przesunięcie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Mute for an hour</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090446Z" creationid="knadolna" creationdate="20230428T090446Z">
+        <seg>Wycisz na godzinę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>NETWORK INFO</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201711Z" creationid="AW" creationdate="20230504T201711Z">
+        <seg>INFORMACJA O SIECI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T085853Z" creationid="JG" creationdate="20230428T085853Z">
+        <seg>Nazwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Nearby Ruuvi sensors</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090335Z" creationid="JG" creationdate="20230428T090335Z">
+        <seg>Czujnki Ruuvi w pobliżu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>No background scanning</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085530Z" creationid="a_kossek" creationdate="20230428T085530Z">
+        <seg>Brak skanowania w tle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>No background scanning mode is enabled</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085548Z" creationid="a_kossek" creationdate="20230428T085548Z">
+        <seg>Tryb skanowania w tle jest wyłączony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>No sensors found</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090258Z" creationid="JG" creationdate="20230428T090258Z">
+        <seg>Nie wykryto czujników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>No user</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203323Z" creationid="AW" creationdate="20230504T203323Z">
+        <seg>Brak użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Nope, it did not work.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085923Z" creationid="knadolna" creationdate="20230428T085923Z">
+        <seg>To nie pomogło.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091023Z" creationid="JG" creationdate="20230428T091023Z">
+        <seg>Wyłącz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Offset values (if any) set by the owner, will be automatically synced, and the receiver will always see the final corrected values.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201539Z" creationid="AW" creationdate="20230504T201539Z">
+        <seg>Wartości przesunięcia (jeśli są) ustawione przez właściciela, zostaną automatycznie zsynchronizowane, a odbiorca zawsze będzie widział ostateczne skorygowane wartości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083351Z" creationid="d55" creationdate="20230428T083351Z">
+        <seg>Na urządzeniach Huawei przejdź do Ustawień Android -&gt; Aplikacje  -&gt; Ruuvi Station -&gt; Szczegóły zużycia energii -&gt; Uruchomienie aplikacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>On Samsung devices go to Android Settings -&gt; Battery -&gt; App power saving detail and set option 'Turned off' for Ruuvi Station.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084107Z" creationid="d55" creationdate="20230428T084107Z">
+        <seg>Na urządzeniach Samsung przejdź do Ustawień Android -&gt; Bateria -&gt; Szczegóły oszczędzania energii w aplikacji i zaznacz opcję"Wyłączone" dla Ruuvi Station.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>On Samsung devices go to Android Settings -&gt; Device Maintenance (or Device Care) -&gt; Battery.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084628Z" creationid="a_kossek" creationdate="20230428T084355Z">
+        <seg>Na urządzeniach Samsung przejdź do Ustawień Android -&gt; Device Maintenance (lub Device Care) -&gt; Bateria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>On Xiaomi devices go to Android Settings -&gt; Apps -&gt; Manage apps -&gt; Ruuvi Station.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085304Z" creationid="a_kossek" creationdate="20230428T085304Z">
+        <seg>Na urządzeniach Xiaomi przejdź do Ustawień Android -&gt; Aplikacje -&gt; Zarządzanie aplikacjami -&gt; Ruuvi Station.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Owner</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201721Z" creationid="AW" creationdate="20230504T201721Z">
+        <seg>Właściciel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Press SCAN to find and add nearby sensors to your Ruuvi Station</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085635Z" creationid="knadolna" creationdate="20230428T085558Z">
+        <seg>Naciśnij SCAN, aby znaleźć i dodać pobliskie czujniki do swojej stacji pogodowej Ruuvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Pressure Unit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083418Z" creationid="d55" creationdate="20230428T083418Z">
+        <seg>Jednostka ciśnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Remove Ruuvi Station from the list of sleeping apps.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084819Z" creationid="a_kossek" creationdate="20230428T084819Z">
+        <seg>Usuń Ruuvi Station z listy uśpionych aplikacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Remove sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084030Z" creationid="d55" creationdate="20230428T084030Z">
+        <seg>Usuń czujnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Request a code</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091415Z" creationid="knadolna" creationdate="20230428T091415Z">
+        <seg>Poproś o kod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Response code: %1$d</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090106Z" creationid="knadolna" creationdate="20230428T090106Z">
+        <seg>Kod odpowiedzi: %1$d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Ruuvi Station</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085640Z" creationid="knadolna" creationdate="20230428T085630Z">
+        <seg>Stacja pogodowa Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Ruuvi cloud status</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201817Z" creationid="AW" creationdate="20230504T201817Z">
+        <seg>Status chmury Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>SKIP</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202008Z" creationid="AW" creationdate="20230504T202008Z">
+        <seg>POMIŃ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Scanning every</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091322Z" creationid="JG" creationdate="20230428T091322Z">
+        <seg>Skanuj wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Send</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201609Z" creationid="AW" creationdate="20230504T201607Z">
+        <seg>Wyślij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sensor %1$s CSV export</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085822Z" creationid="knadolna" creationdate="20230428T085822Z">
+        <seg>Eksportuj czujnik1$s do CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sensor Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085829Z" creationid="knadolna" creationdate="20230428T085829Z">
+        <seg>Ustawienia czujnika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sensor not found</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202345Z" creationid="AW" creationdate="20230504T202345Z">
+        <seg>Czujników nie znaleziono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sensor not found, is it in range?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084020Z" creationid="d55" creationdate="20230428T084020Z">
+        <seg>Nie znaleziono czujnika, czy jest on w zasięgu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sensor share limit is reached</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202619Z" creationid="AW" creationdate="20230504T202619Z">
+        <seg>Osiągnięto limit udostępnień</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Set alerts and get notified whenever your limits are hit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085254Z" creationid="knadolna" creationdate="20230428T085254Z">
+        <seg>Ustaw powiadomienia, by je otrzymywać, gdy twoje limity zostaną osiągnięte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Set custom description...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090128Z" creationid="JG" creationdate="20230428T085422Z">
+        <seg>Ustaw opis zdefiniowany przez użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Set interval between points for chart from 1 to 60 minutes.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090800Z" creationid="a_kossek" creationdate="20230428T090746Z">
+        <seg>Ustaw odstęp czasu pomiędzy punktami między 1-60 minut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Share</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194045Z" creationid="AW" creationdate="20230504T194045Z">
+        <seg>Udostępnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Share sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T195512Z" creationid="AW" creationdate="20230504T195512Z">
+        <seg>Udostępnij czujnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sign in</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090759Z" creationid="knadolna" creationdate="20230428T090759Z">
+        <seg>Zaloguj się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sign out</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090806Z" creationid="knadolna" creationdate="20230428T090806Z">
+        <seg>Wyloguj się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Signal strength is too high!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090943Z" creationid="JG" creationdate="20230428T090943Z">
+        <seg>Zbyt wysoki poziom sygnału!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Signal strength is too low!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090958Z" creationid="JG" creationdate="20230428T090958Z">
+        <seg>Zbyt niski poziom sygnału!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Small dots will help to understand when measurements were collected</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090602Z" creationid="a_kossek" creationdate="20230428T090602Z">
+        <seg>Małe kropki pozwolą zrozumieć, kiedy miał miejsce pomiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Smaller values mean a more accurate chart, but also a higher performance requirement for your device</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091002Z" creationid="a_kossek" creationdate="20230428T090842Z">
+        <seg>Mniejsze wartości pozwalają wygenerować dokładniejszy wykres, ale wymagają też większej wydajności urządzenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Something went wrong</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083804Z" creationid="d55" creationdate="20230428T083804Z">
+        <seg>Coś poszło nie tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Submit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091502Z" creationid="knadolna" creationdate="20230428T091502Z">
+        <seg>Wyślij\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Subscription is not found</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202433Z" creationid="AW" creationdate="20230504T202433Z">
+        <seg>Nie znaleziono subskrypcji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Swipe to see what Ruuvi Station can do for you</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084233Z" creationid="d55" creationdate="20230428T084233Z">
+        <seg>Przeciągnij, aby zobaczyć, co Ruuvi Station może dla Ciebie zrobić</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sync complete</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083825Z" creationid="d55" creationdate="20230428T083825Z">
+        <seg>Synchronizacja zakończona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Synchronisation failed: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T195258Z" creationid="AW" creationdate="20230504T195258Z">
+        <seg>Synchronizacja zakończona niepowodzeniem: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Synchronisation failed: need to log in first</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T195500Z" creationid="AW" creationdate="20230504T195500Z">
+        <seg>Synchronizacja zakończona niepowodzeniem: najpierw należy się zalogować</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Synchronised successfully!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194618Z" creationid="AW" creationdate="20230504T194618Z">
+        <seg>Synchronizacja zakończona pomyślnie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Synchronised: {%@^%1$s}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194353Z" creationid="AW" creationdate="20230504T194353Z">
+        <seg>Synchronizacja zakończona: {%@^%1$s}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Syncing...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194055Z" creationid="AW" creationdate="20230504T194055Z">
         <seg>Synchronizacja</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
-        <seg>Temperature</seg>
+        <seg>Temperature ({%@^%1$s})</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075823Z" creationid="AW" creationdate="20230505T075823Z">
-        <seg>Temperatura</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-UK">
-        <seg>Temperature offset</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075646Z" creationid="AW" creationdate="20230505T075646Z">
-        <seg>Przesunięcie temperatury</seg>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084106Z" creationid="d55" creationdate="20230428T084106Z">
+        <seg>Temperatura ({%@^%1$s})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
-        <seg>{%@^%1$s} ago</seg>
+        <seg>Temperature Unit</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075901Z" creationid="AW" creationdate="20230505T075901Z">
-        <seg>przed {%@^%1$s}</seg>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083642Z" creationid="d55" creationdate="20230428T083642Z">
+        <seg>Jednostka temperatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Temperature is too high!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091014Z" creationid="JG" creationdate="20230428T091014Z">
+        <seg>Zbyt wysoka temperatura!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Temperature is too low!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091018Z" creationid="JG" creationdate="20230428T091018Z">
+        <seg>Zbyt niska temperatura!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090113Z" creationid="knadolna" creationdate="20230428T090113Z">
+        <seg>Testowanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>The app will periodically search for beacons using a service (with notifications), allowing for very frequent and reliable scanning, even when you are not using it.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085946Z" creationid="a_kossek" creationdate="20230428T085946Z">
+        <seg>Aplikacja będzie okresowo szukała sygnałów za pomocą usługi (z powiadomieniami), co umożliwia bardzo częste i wiarygodne skanowanie, nawet gdy nie jest używana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>The claimed sensors will be restored after an app re-install.\n\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091156Z" creationid="knadolna" creationdate="20230428T091156Z">
+        <seg>Reklamowane czujniki zostaną przywrócone po ponownej instalacji aplikacji.Dzięki routerowi Ruuvi Gateway będziesz mógł zdalnie monitorować zgłoszone czujniki i udostępniać je swoim znajomym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>The name and image sync is one time only, and after this, they can be privately customised by the receiver.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201248Z" creationid="AW" creationdate="20230504T201248Z">
+        <seg>Synchronizacja nazwy i obrazu jest jednorazowa, a po jej zakończeniu mogą być one spersonalizowane przez odbiorcę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>The share limit is reached</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202458Z" creationid="AW" creationdate="20230504T202458Z">
+        <seg>Osiągnięto limit udostępnień</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>This feature enables background scanning, meaning that your phone will periodically search for beacons, even when you are not using it.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085749Z" creationid="a_kossek" creationdate="20230428T085710Z">
+        <seg>Ta opcja umożliwia skanowanie w tle, co oznacza, że twój telefon będzie okresowo szukał sygnałów, nawet gdy nie jest używany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>This sensor is already shared</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202747Z" creationid="AW" creationdate="20230504T202747Z">
+        <seg>Czujnik został już udostępniony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090750Z" creationid="knadolna" creationdate="20230428T090750Z">
+        <seg>Znacznik czasu,temperatura(%1$s), wilgotność (%2$s), ciśnienie (%3$s),RSSI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090314Z" creationid="knadolna" creationdate="20230428T090314Z">
+        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),,RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090723Z" creationid="knadolna" creationdate="20230428T090434Z">
+        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),,RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik ruchu, numer kolejny pomiaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>To enjoy all the features, create a free account or login to your existing Ruuvi account by entering your email address.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202000Z" creationid="AW" creationdate="20230504T202000Z">
+        <seg>Aby korzystać ze wszystkich funkcji, utwórz darmowe konto lub zaloguj się do istniejącego konta Ruuvi, podając swój adres e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Token is expired</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202403Z" creationid="AW" creationdate="20230504T202403Z">
+        <seg>Token wygasł</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Tx Power</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090101Z" creationid="JG" creationdate="20230428T084031Z">
+        <seg>Moc nadawania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Unable to send e-mail</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202802Z" creationid="AW" creationdate="20230504T202802Z">
+        <seg>Nie można wysłać wiadomości e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Unauthorised</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202137Z" creationid="AW" creationdate="20230504T202137Z">
+        <seg>Nieautoryzowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Update Firmware</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090149Z" creationid="JG" creationdate="20230428T090149Z">
+        <seg>Aktualizuj Firmware</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Updated {%@^%1$s}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084150Z" creationid="d55" creationdate="20230428T084150Z">
+        <seg>Zaaktualizowano {%@^%1$s}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>User not found</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202252Z" creationid="AW" creationdate="20230504T202252Z">
+        <seg>Nie znaleziono użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>User: {%@^%1$s}</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194549Z" creationid="AW" creationdate="20230504T194549Z">
+        <seg>Użytkownik: {%@^%1$s}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Version: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084157Z" creationid="d55" creationdate="20230428T084157Z">
+        <seg>Wersja: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>When you add a URL here, the app will execute an HTTP POST with the linked sensors when it does background scanning.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091446Z" creationid="a_kossek" creationdate="20230428T091446Z">
+        <seg>Kiedy wstawisz tutaj URL, aplikacja wyśle żądanie HTTP do połączonych czujników podczas skanowania w tle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>When you sign in again using the same email address, the sensors will be returned from the cloud.\n\nDo you want to sign out?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T193925Z" creationid="AW" creationdate="20230504T193925Z">
+        <seg>Przy ponownym zalogowaniu z użyciem tego samego adresu e-mail, czujniki zostaną przywrócone z chmury. \n\nChcesz się wylogować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>When you sign out, sensors the ownerships of which you've claimed on the sensor Settings page will be automatically removed from the app.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T193629Z" creationid="AW" creationdate="20230504T192912Z">
+        <seg>Po wylogowaniu czujniki użytkownia, które zostały zastrzeżone na stronie Ustawienia czujników, zostaną automatycznie usunięte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085447Z" creationid="knadolna" creationdate="20230428T085447Z">
+        <seg>Tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>You can add it again later, if needed.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084102Z" creationid="d55" creationdate="20230428T084102Z">
+        <seg>W razie potrzeby możesz go dodać później.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>You can disable background scanning in Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091255Z" creationid="JG" creationdate="20230428T091237Z">
+        <seg>Możesz wyłączyć skanowanie w tle w ustawieniach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\n\nReceiver will be notified by email.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T200632Z" creationid="AW" creationdate="20230504T200550Z">
+        <seg>Możesz udostępnić czujnik rodzinie i przyjaciołom jeśli jest to w zasięgu routera Ruuvi Gateway. \n\nOdbiorca zostanie poinformowany wiadomością e-mail. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>ago</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090340Z" creationid="JG" creationdate="20230428T090340Z">
+        <seg>przed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>never</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230503T115604Z" creationid="AW" creationdate="20230503T115604Z">
+        <seg>nigdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>none</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194507Z" creationid="AW" creationdate="20230504T194507Z">
+        <seg>żaden</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
