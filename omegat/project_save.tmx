@@ -433,8 +433,8 @@
       <tuv lang="en-UK">
         <seg>Enable Autostart and set Battery Saver to 'No restrictions'.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085412Z" creationid="a_kossek" creationdate="20230428T085412Z">
-        <seg>Włącz automatyczne uruchamianie i ustaw Oszczędzanie Baterii na "Bez ograniczeń".</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082237Z" creationid="a_kossek" creationdate="20230428T085412Z">
+        <seg>Włącz automatyczne uruchamianie i ustaw Oszczędzanie Baterii na „Bez ograniczeń”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1185,16 +1185,16 @@
       <tuv lang="en-UK">
         <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090314Z" creationid="knadolna" creationdate="20230428T090314Z">
-        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),,RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082415Z" creationid="knadolna" creationdate="20230428T090314Z">
+        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090723Z" creationid="knadolna" creationdate="20230428T090434Z">
-        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),,RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik ruchu, numer kolejny pomiaru</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082421Z" creationid="knadolna" creationdate="20230428T090434Z">
+        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik ruchu, numer kolejny pomiaru</seg>
       </tuv>
     </tu>
     <tu>
