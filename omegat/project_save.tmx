@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Humidity</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075833Z" creationid="AW" creationdate="20230505T075833Z">
+        <seg>Wilgotności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Original measured value</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T074448Z" creationid="AW" creationdate="20230505T074448Z">
@@ -38,10 +46,42 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Pressure</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075842Z" creationid="AW" creationdate="20230505T075842Z">
+        <seg>Ciśnienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Synchronising</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075819Z" creationid="AW" creationdate="20230505T075819Z">
+        <seg>Synchronizacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Temperature</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075823Z" creationid="AW" creationdate="20230505T075823Z">
+        <seg>Temperatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Temperature offset</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T075646Z" creationid="AW" creationdate="20230505T075646Z">
         <seg>Przesunięcie temperatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>{%@^%1$s} ago</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075901Z" creationid="AW" creationdate="20230505T075901Z">
+        <seg>przed {%@^%1$s}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
