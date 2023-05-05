@@ -64,8 +64,8 @@
       <tuv lang="en-UK">
         <seg>After signing in, you will automatically be marked as the owner of your nearby Ruuvi sensors.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090840Z" creationid="knadolna" creationdate="20230428T090840Z">
-        <seg>Po zalogowaniu, zostaniesz automatycznie oznaczony jako właściciel pobliskich czujników Ruuvi.</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082701Z" creationid="knadolna" creationdate="20230428T090840Z">
+        <seg>Po zalogowaniu zostaniesz automatycznie oznaczony jako właściciel pobliskich czujników Ruuvi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -417,8 +417,8 @@
       <tuv lang="en-UK">
         <seg>Download history data from the sensor?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083906Z" creationid="d55" creationdate="20230428T083906Z">
-        <seg>Pobierz historię danych z czunika?</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T083711Z" creationid="d55" creationdate="20230428T083906Z">
+        <seg>Pobierz historię danych z czujnika?</seg>
       </tuv>
     </tu>
     <tu>
@@ -729,8 +729,8 @@
       <tuv lang="en-UK">
         <seg>Nearby Ruuvi sensors</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090335Z" creationid="JG" creationdate="20230428T090335Z">
-        <seg>Czujnki Ruuvi w pobliżu</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T083701Z" creationid="JG" creationdate="20230428T090335Z">
+        <seg>Czujniki Ruuvi w pobliżu</seg>
       </tuv>
     </tu>
     <tu>
@@ -793,8 +793,8 @@
       <tuv lang="en-UK">
         <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230428T083351Z" creationid="d55" creationdate="20230428T083351Z">
-        <seg>Na urządzeniach Huawei przejdź do Ustawień Android -&gt; Aplikacje  -&gt; Ruuvi Station -&gt; Szczegóły zużycia energii -&gt; Uruchomienie aplikacji.</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082613Z" creationid="d55" creationdate="20230428T083351Z">
+        <seg>Na urządzeniach Huawei przejdź do Ustawień Android -&gt; Aplikacje -&gt; Ruuvi Station -&gt; Szczegóły zużycia energii -&gt; Uruchomienie aplikacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1329,8 +1329,8 @@
       <tuv lang="en-UK">
         <seg>Updated {%@^%1$s}</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084150Z" creationid="d55" creationdate="20230428T084150Z">
-        <seg>Zaaktualizowano {%@^%1$s}</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T083735Z" creationid="d55" creationdate="20230428T084150Z">
+        <seg>Zaktualizowano {%@^%1$s}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1433,8 +1433,8 @@
       <tuv lang="en-UK">
         <seg>ago</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090340Z" creationid="JG" creationdate="20230428T090340Z">
-        <seg>przed</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T083652Z" creationid="JG" creationdate="20230428T090340Z">
+        <seg>temu</seg>
       </tuv>
     </tu>
     <tu>
