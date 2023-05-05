@@ -1191,6 +1191,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Successfully shared sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T090813Z" creationid="AW" creationdate="20230505T090813Z">
+        <seg>Czujnik udostępniony pomyślnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Swipe to see what Ruuvi Station can do for you</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084233Z" creationid="d55" creationdate="20230428T084233Z">
@@ -1435,6 +1443,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090149Z" creationid="JG" creationdate="20230428T090149Z">
         <seg>Aktualizuj Firmware</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Update successful</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T090759Z" creationid="AW" creationdate="20230505T090759Z">
+        <seg>Zaktualizowano pomyslnie</seg>
       </tuv>
     </tu>
     <tu>
