@@ -543,6 +543,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>If your sensor has one button, keep the button pressed for ten seconds</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T084113Z" creationid="AW" creationdate="20230505T084113Z">
+        <seg>Jeśli czujnik ma jeden przycisk, przytrzymaj go przez dziesięć sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>If your sensor has two buttons, press the R button while also pressing the B button</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T084103Z" creationid="AW" creationdate="20230505T084103Z">
+        <seg>Jeśli czujnik ma dwa przyciski, naciśnij przycisk R oraz B jednocześnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>In normal use, it's not necessary to adjust the offset.\n\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\n\nCalibration tips are available on ruuvi.com/support</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T203817Z" creationid="AW" creationdate="20230504T203817Z">
@@ -1007,6 +1023,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Set the sensor to updating mode</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T083627Z" creationid="AW" creationdate="20230505T083627Z">
+        <seg>Ustaw czujnik na tryb aktualizacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Share</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194045Z" creationid="AW" creationdate="20230504T194045Z">
@@ -1335,6 +1359,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Updating...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T084201Z" creationid="AW" creationdate="20230505T084201Z">
+        <seg>Aktualizowanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>User not found</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202252Z" creationid="AW" creationdate="20230504T202252Z">
@@ -1355,6 +1387,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084157Z" creationid="d55" creationdate="20230428T084157Z">
         <seg>Wersja: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>When successfully completed you will see a continuous red light</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T084156Z" creationid="AW" creationdate="20230505T084156Z">
+        <seg>Po pomyślnym zakończeniu procesu zobaczysz czerwone światło ciągłe.</seg>
       </tuv>
     </tu>
     <tu>
