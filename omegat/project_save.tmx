@@ -1377,8 +1377,8 @@
       <tuv lang="en-UK">
         <seg>Your sensor doesn't report its current firmware version.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T082933Z" creationid="AW" creationdate="20230505T082933Z">
-        <seg>Twój czujnik.</seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T083029Z" creationid="AW" creationdate="20230505T082933Z">
+        <seg>Twój czujnik nie podaje swojej aktualnej wersji firmware.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1403,6 +1403,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194507Z" creationid="AW" creationdate="20230504T194507Z">
         <seg>żaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>{%@^%1$s} ago</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T082939Z" creationid="AW" creationdate="20230505T082939Z">
+        <seg>{%@^%1$s} temu</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
