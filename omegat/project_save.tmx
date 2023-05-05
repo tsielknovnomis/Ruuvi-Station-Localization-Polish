@@ -105,7 +105,7 @@
       <tuv lang="en-UK">
         <seg>Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T091111Z" creationid="JG" creationdate="20230428T091111Z">
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T085834Z" creationid="JG" creationdate="20230428T091111Z">
         <seg>Ostrzeżenie, gdy mniej niż {%.0f^%1$,d} lub więcej niż {%.0f^%2$,d}</seg>
       </tuv>
     </tu>
