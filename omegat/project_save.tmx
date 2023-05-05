@@ -353,16 +353,16 @@
       <tuv lang="en-UK">
         <seg>Disable 'Auto-disable unused apps'.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084741Z" creationid="a_kossek" creationdate="20230428T084741Z">
-        <seg>Wyłącz "Automatycznie wyłącz nieużywane aplikacje".</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082228Z" creationid="a_kossek" creationdate="20230428T084741Z">
+        <seg>Wyłącz „Automatycznie wyłącz nieużywane aplikacje”.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>Disable 'Put unused apps to sleep'.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084722Z" creationid="a_kossek" creationdate="20230428T084722Z">
-        <seg>Wyłącz "Uśpij nieużywane aplikacje".</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082158Z" creationid="a_kossek" creationdate="20230428T084722Z">
+        <seg>Wyłącz „Uśpij nieużywane aplikacje”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -761,8 +761,8 @@
       <tuv lang="en-UK">
         <seg>On Samsung devices go to Android Settings -&gt; Battery -&gt; App power saving detail and set option 'Turned off' for Ruuvi Station.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084107Z" creationid="d55" creationdate="20230428T084107Z">
-        <seg>Na urządzeniach Samsung przejdź do Ustawień Android -&gt; Bateria -&gt; Szczegóły oszczędzania energii w aplikacji i zaznacz opcję"Wyłączone" dla Ruuvi Station.</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082045Z" creationid="d55" creationdate="20230428T084107Z">
+        <seg>Na urządzeniach Samsung przejdź do Ustawień Android -&gt; Bateria -&gt; Szczegóły oszczędzania energii w aplikacji i zaznacz opcję „Wyłączone” dla Ruuvi Station.</seg>
       </tuv>
     </tu>
     <tu>
