@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Enter the expected temperature value from sensor under current conditions ({%@^%1$s}):</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230505T081107Z" creationid="JG" creationdate="20230505T081107Z">
+        <seg>[coś w rodzaju]Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Humidity</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T075833Z" creationid="AW" creationdate="20230505T075833Z">
