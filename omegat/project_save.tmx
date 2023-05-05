@@ -617,8 +617,8 @@
       <tuv lang="en-UK">
         <seg>Is the URL correct?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085947Z" creationid="knadolna" creationdate="20230428T085933Z">
-        <seg>Czy adres URL jest porpawny?</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T084319Z" creationid="knadolna" creationdate="20230428T085933Z">
+        <seg>Czy adres URL jest poprawny?</seg>
       </tuv>
     </tu>
     <tu>
