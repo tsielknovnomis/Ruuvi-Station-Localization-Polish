@@ -945,8 +945,8 @@
       <tuv lang="en-UK">
         <seg>Sensor %1$s CSV export</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085822Z" creationid="knadolna" creationdate="20230428T085822Z">
-        <seg>Eksportuj czujnik1$s do CSV</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T084816Z" creationid="knadolna" creationdate="20230428T085822Z">
+        <seg>Eksportuj czujnik %1$s do CSV</seg>
       </tuv>
     </tu>
     <tu>
