@@ -4,6 +4,46 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-UK"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Corrected value</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T074456Z" creationid="AW" creationdate="20230505T074456Z">
+        <seg>Poprawiona wartość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enter the expected humidity value from sensor under current conditions ({%@^%1$s}):</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T074410Z" creationid="AW" creationdate="20230504T204022Z">
+        <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enter the expected pressure value from sensor under current conditions ({%@^%1$s}):</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T074400Z" creationid="AW" creationdate="20230505T074400Z">
+        <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Original measured value</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T074448Z" creationid="AW" creationdate="20230505T074448Z">
+        <seg>Początkowa wartość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Temperature offset</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075646Z" creationid="AW" creationdate="20230505T075646Z">
+        <seg>Przesunięcie temperatury</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
