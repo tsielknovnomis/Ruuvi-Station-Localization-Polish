@@ -690,6 +690,9 @@
       <tuv lang="en-UK">
         <seg>Disable 'Manage Automatically' and enable options: 'Auto-Launch', 'Secondary Launch' and 'Run in background'.</seg>
       </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091755Z">
+        <seg>Dezaktywuj funkcję „Manage Automatically” (Automatycznie zarządzanie) i aktywuj funkcje: „Auto-Launch” (Automatyczne uruchamianie), „Secondary Launch” (Wtórne uruchamianie) oraz „Run in background” (Uruchom w tle).</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
