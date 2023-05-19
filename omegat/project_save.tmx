@@ -32,8 +32,8 @@
       <tuv lang="en-UK">
         <seg>%1$,d measurements read, saving..</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082229Z" creationid="akossek" creationdate="20230519T082229Z">
-        <seg>%1$,d pomiary odczytane, zapisywanie..</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T090620Z" creationid="akossek" creationdate="20230519T082229Z">
+        <seg>%1$,d pomiary odczytane, zapisywanie...</seg>
       </tuv>
     </tu>
     <tu>
