@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>ABOUT / HELP</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082614Z" creationid="akossek" creationdate="20230519T082614Z">
+        <seg>INFORMACJE / POMOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>ALERTS</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T091119Z" creationid="JG" creationdate="20230428T091119Z">
@@ -1059,6 +1067,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085640Z" creationid="knadolna" creationdate="20230428T085630Z">
         <seg>Stacja pogodowa Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Ruuvi Station is an easy-to-use but powerful tool to supercharge your Ruuvi sensors.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082743Z" creationid="akossek" creationdate="20230519T082743Z">
+        <seg>Ruuvi Station to łatwe w użyciu, ale potężne narzędzie pozwalające zwiększyć możliwości sensorów Ruuvi.</seg>
       </tuv>
     </tu>
     <tu>
