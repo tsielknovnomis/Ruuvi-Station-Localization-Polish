@@ -973,6 +973,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Humidity offset</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085112Z" creationid="AW" creationdate="20230519T085112Z">
+        <seg>Wyrównianie wilgotności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\n\nNote that the sensor's custom name and background image will be shared.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201107Z" creationid="AW" creationdate="20230504T201107Z">
@@ -2127,8 +2135,8 @@
       <tuv lang="en-UK">
         <seg>Temperature offset</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075646Z" creationid="AW" creationdate="20230505T075646Z">
-        <seg>Przesunięcie temperatury</seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085032Z" creationid="AW" creationdate="20230505T075646Z">
+        <seg>Wyrównianie temperatury</seg>
       </tuv>
     </tu>
     <tu>
