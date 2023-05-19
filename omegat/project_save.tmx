@@ -335,10 +335,26 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Claim Ownership</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T083254Z" creationid="AW" creationdate="20230519T083254Z">
+        <seg>Zastrzeżenie własności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Claim ownership</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194033Z" creationid="AW" creationdate="20230504T194033Z">
         <seg>Zastrzeżenie własności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Claim sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T083023Z" creationid="AW" creationdate="20230519T083023Z">
+        <seg>Zastrzeż czujnik</seg>
       </tuv>
     </tu>
     <tu>
@@ -543,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Do you own this sensor?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T083311Z" creationid="AW" creationdate="20230519T083311Z">
+        <seg>Czy ten czujnik należy do Ciebie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Do you want to remove the sensor?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084044Z" creationid="d55" creationdate="20230428T084044Z">
@@ -731,6 +755,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201107Z" creationid="AW" creationdate="20230504T201107Z">
         <seg>Jeśli odbiorca nie ma konta Ruuvi, darmowe konto Ruuvi zostanie automatycznie utworzone przy pierwszym logowaniu.\NNależy pamiętać, że zostanie udostępniona wybrana nazwa czujnika i obraz tła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T083423Z" creationid="AW" creationdate="20230519T083423Z">
+        <seg>Jeśli tak, zastrzeż jego posiadanie. Czujnik zostanie dodany do Twojego konta Ruuvi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1033,8 +1065,8 @@
       <tuv lang="en-UK">
         <seg>Not shared</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T082707Z" creationid="AW" creationdate="20230519T082707Z">
-        <seg>Nie udostępnione</seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T082907Z" creationid="AW" creationdate="20230519T082707Z">
+        <seg>Nieudostępnione</seg>
       </tuv>
     </tu>
     <tu>
