@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>About / Help</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083704Z" creationid="simon.kleist" creationdate="20230519T083704Z">
+        <seg>O / pomoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Absolute (g/m³)</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083408Z" creationid="simon.kleist" creationdate="20230519T083408Z">
@@ -543,6 +551,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Dew point (°)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083651Z" creationid="simon.kleist" creationdate="20230519T083651Z">
+        <seg>Temperatura punktu rosy (°)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Disable 'Auto-disable unused apps'.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082228Z" creationid="a_kossek" creationdate="20230428T084741Z">
@@ -983,6 +999,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>MAC Address</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083658Z" creationid="simon.kleist" creationdate="20230519T083658Z">
+        <seg>Adres MAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>MAC address copied to clipboard</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083700Z" creationid="simon.kleist" creationdate="20230519T083700Z">
+        <seg>aDRES MAC skopiowany do schowka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>MORE TO READ</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="akossek" changedate="20230519T083054Z" creationid="akossek" creationdate="20230519T083054Z">
@@ -1259,6 +1291,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083418Z" creationid="d55" creationdate="20230428T083418Z">
         <seg>Jednostka ciśnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Relative (%)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083655Z" creationid="simon.kleist" creationdate="20230519T083655Z">
+        <seg>Relatywna (%)</seg>
       </tuv>
     </tu>
     <tu>
