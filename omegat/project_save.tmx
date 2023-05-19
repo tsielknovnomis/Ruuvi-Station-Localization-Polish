@@ -647,6 +647,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T082627Z" creationid="AW" creationdate="20230519T082627Z">
+        <seg>Ogólne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Humidity</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T075833Z" creationid="AW" creationdate="20230505T075833Z">
@@ -943,6 +951,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Not shared</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T082707Z" creationid="AW" creationdate="20230519T082707Z">
+        <seg>Nie udostępnione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Note that calibration data will be stored locally in your mobile device.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T082441Z" creationid="JG" creationdate="20230519T082441Z">
@@ -1075,6 +1091,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084030Z" creationid="d55" creationdate="20230428T084030Z">
         <seg>Usuń czujnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Remove this sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T082643Z" creationid="AW" creationdate="20230519T082643Z">
+        <seg>Usuń ten czujnik</seg>
       </tuv>
     </tu>
     <tu>
@@ -1243,6 +1267,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T195512Z" creationid="AW" creationdate="20230504T195512Z">
         <seg>Udostępnij czujnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Shared</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T082648Z" creationid="AW" creationdate="20230519T082648Z">
+        <seg>Udostępnione</seg>
       </tuv>
     </tu>
     <tu>
