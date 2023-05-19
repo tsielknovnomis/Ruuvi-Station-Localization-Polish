@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>After Ruuvi Station uninstall and install, you may need to recalibrate.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082510Z" creationid="JG" creationdate="20230519T082510Z">
+        <seg>Po odinstalowaniu i zainstalowaniu Ruuvi Station konieczna może być ponowna kalibracja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>After signing in, you will automatically be marked as the owner of your nearby Ruuvi sensors.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082701Z" creationid="knadolna" creationdate="20230428T090840Z">
@@ -179,6 +187,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T091352Z" creationid="JG" creationdate="20230428T091352Z">
         <seg>Kalibruj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Calibrate hygrometer</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082358Z" creationid="JG" creationdate="20230519T082358Z">
+        <seg>Skalibruj higrometr</seg>
       </tuv>
     </tu>
     <tu>
@@ -887,6 +903,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Note that calibration data will be stored locally in your mobile device.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082441Z" creationid="JG" creationdate="20230519T082441Z">
+        <seg>Miej na uwadze, że dane kalibracji będą przechowywane lokalnie na urządzeniu mobilnym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Off</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T091023Z" creationid="JG" creationdate="20230428T091023Z">
@@ -1067,6 +1091,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T090718Z" creationid="AW" creationdate="20230505T090718Z">
         <seg>Wyszukiwanie czujnika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>See video tutorials on how to easily do this at home.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082338Z" creationid="JG" creationdate="20230519T082338Z">
+        <seg>Obejrzyj tutoriale wyjaśniające, jak zrobić to bezpiecznie w domu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,6 +1507,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202403Z" creationid="AW" creationdate="20230504T202403Z">
         <seg>Token wygasł</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Translated text here should be exact part of HumidityCalibration.Description.text (calibration_humidity for Android).</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082616Z" creationid="JG" creationdate="20230519T082616Z">
+        <seg>Przetłumaczony tekst powinien być dokładną częścią HumidityCalibration.Description.text (calibration_humidity dla Androida).</seg>
       </tuv>
     </tu>
     <tu>
