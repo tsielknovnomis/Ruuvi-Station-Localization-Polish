@@ -1453,6 +1453,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Offset correction</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085151Z" creationid="AW" creationdate="20230519T085151Z">
+        <seg>Korygacja wyrówniania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Offset values (if any) set by the owner, will be automatically synced, and the receiver will always see the final corrected values.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201539Z" creationid="AW" creationdate="20230504T201539Z">
