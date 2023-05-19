@@ -2245,6 +2245,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Test data forwarding</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T090140Z" creationid="JG" creationdate="20230519T090140Z">
+        <seg>Przetestuj przekazywanie danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Testing...</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090113Z" creationid="knadolna" creationdate="20230428T090113Z">
