@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Air Pressure ({%@^%1$s})</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084028Z" creationid="simon.kleist" creationdate="20230519T084028Z">
+        <seg>Ciśnienie powietrza ({%@^%1$s})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Air Pressure is too high!</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090852Z" creationid="JG" creationdate="20230428T090852Z">
@@ -831,6 +839,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Firmware not supported</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084109Z" creationid="simon.kleist" creationdate="20230519T084109Z">
+        <seg>Oprogramowanie sprzętowe nie jest obsługiwane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Forbidden</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202018Z" creationid="AW" creationdate="20230504T202018Z">
@@ -859,6 +875,22 @@
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083832Z" creationid="simon.kleist" creationdate="20230519T083832Z">
         <seg>Kup nowe sensory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Battery -&gt; Battery Optimisation and select 'Don't optimise for Ruuvi Station'</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084151Z" creationid="simon.kleist" creationdate="20230519T084151Z">
+        <seg>Należy wybrać ustawienia Androida -&gt; Aplikacje -&gt; Ruuvi Station -&gt; Bateria -&gt; Optymalizacja baterii, a następnie zaznaczyć opcję "Nie optymalizuj dla Ruuvi Station".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Hectopascal (hPa)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084030Z" creationid="simon.kleist" creationdate="20230519T084030Z">
+        <seg>Hektopaskale (hPa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -907,6 +939,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T082531Z" creationid="AW" creationdate="20230505T082531Z">
         <seg>Jeśli jeszcze nie masz swojego, znajdziesz je na ruuvi.com/gateway</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>If you experience any issues with background scanning you should disable battery optimisation for Ruuvi Station.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084140Z" creationid="simon.kleist" creationdate="20230519T084140Z">
+        <seg>W przypadku wystąpienia problemów ze skanowaniem w tle należy wyłączyć optymalizację baterii Ruuvi Station.</seg>
       </tuv>
     </tu>
     <tu>
@@ -971,6 +1011,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202732Z" creationid="AW" creationdate="20230504T202732Z">
         <seg>Aby udostępnić czujnik, w pobliżu czujnika musi znajdować się router Ruuvi Gateway</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Inch of mercury (inHg)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084039Z" creationid="simon.kleist" creationdate="20230519T084039Z">
+        <seg>Cal słupa rtęci (inHg)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1135,6 +1183,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Millimetre of mercury (mmHg)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084042Z" creationid="simon.kleist" creationdate="20230519T084042Z">
+        <seg>Milimetr słupa rtęci (mmHg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Minutes</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083841Z" creationid="simon.kleist" creationdate="20230519T083841Z">
@@ -1247,6 +1303,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>No sensors added,\npress here to add sensors</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084027Z" creationid="simon.kleist" creationdate="20230519T084027Z">
+        <seg>Brak dodanych czujników. Aby dodać czujniki, należy nacisnąć tu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>No sensors found</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090258Z" creationid="JG" creationdate="20230428T090258Z">
@@ -1321,8 +1385,8 @@
       <tuv lang="en-UK">
         <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082613Z" creationid="d55" creationdate="20230428T083351Z">
-        <seg>Na urządzeniach Huawei przejdź do Ustawień Android -&gt; Aplikacje -&gt; Ruuvi Station -&gt; Szczegóły zużycia energii -&gt; Uruchomienie aplikacji.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084153Z" creationid="d55" creationdate="20230428T083351Z">
+        <seg>Na urządzeniach Xiaomi przejdź do Ustawień Android -&gt; Aplikacje -&gt; Zarządzanie aplikacjami -&gt; Ruuvi Station.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1407,6 +1471,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Pascal (Pa)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084045Z" creationid="simon.kleist" creationdate="20230519T084045Z">
+        <seg>Paskal (Pa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Please enable location permission in Settings to see sensors.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084025Z" creationid="simon.kleist" creationdate="20230519T084025Z">
+        <seg>Prosimy włączyć uprawnienia do lokalizacji w ustawieniach, aby wyświetlić czujniki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Prepare your sensor</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T083311Z" creationid="AW" creationdate="20230505T083311Z">
@@ -1435,6 +1515,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083418Z" creationid="d55" creationdate="20230428T083418Z">
         <seg>Jednostka ciśnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Reading history</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084107Z" creationid="simon.kleist" creationdate="20230519T084052Z">
+        <seg>Sczytywanie historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -1527,6 +1615,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>SCAN</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084114Z" creationid="simon.kleist" creationdate="20230519T084114Z">
+        <seg>SKANOWANIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>SKIP</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202008Z" creationid="AW" creationdate="20230504T202008Z">
@@ -1551,6 +1647,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Seconds</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084117Z" creationid="simon.kleist" creationdate="20230519T084117Z">
+        <seg>Sekundy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>See video tutorials on how to easily do this at home.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T082338Z" creationid="JG" creationdate="20230519T082338Z">
@@ -1567,10 +1671,26 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Select Picture</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084120Z" creationid="simon.kleist" creationdate="20230519T084120Z">
+        <seg>Wybierz obraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Send</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201609Z" creationid="AW" creationdate="20230504T201607Z">
         <seg>Wyślij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Send Email</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084131Z" creationid="simon.kleist" creationdate="20230519T084131Z">
+        <seg>Wyślij wiadomość e-mail</seg>
       </tuv>
     </tu>
     <tu>
@@ -1595,6 +1715,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085829Z" creationid="knadolna" creationdate="20230428T085829Z">
         <seg>Ustawienia czujnika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Sensor is already added</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084134Z" creationid="simon.kleist" creationdate="20230519T084134Z">
+        <seg>Czujnik został już dodany</seg>
       </tuv>
     </tu>
     <tu>
@@ -1655,6 +1783,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084135Z" creationid="simon.kleist" creationdate="20230519T084135Z">
+        <seg>Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Share</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194045Z" creationid="AW" creationdate="20230504T194045Z">
@@ -1691,6 +1827,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090806Z" creationid="knadolna" creationdate="20230428T090806Z">
         <seg>Wyloguj się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Signal strength (RSSI)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084112Z" creationid="simon.kleist" creationdate="20230519T084112Z">
+        <seg>Moc sygnału (RSSI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1963,6 +2107,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T083045Z" creationid="AW" creationdate="20230505T083045Z">
         <seg>Oznacza to, że prawdopodobnie działa na starej wersji firmware i zalecana jest jego aktualizacja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>This procedure may vary depending on your device vendor, model and Android version.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084143Z" creationid="simon.kleist" creationdate="20230519T084143Z">
+        <seg>Procedura może różnić się w zależności od dostawcy urządzenia, modelu lub wersji systemu Android.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2260,6 +2412,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194507Z" creationid="AW" creationdate="20230504T194507Z">
         <seg>żaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>sec</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084116Z" creationid="simon.kleist" creationdate="20230519T084116Z">
+        <seg>sek.</seg>
       </tuv>
     </tu>
     <tu>
