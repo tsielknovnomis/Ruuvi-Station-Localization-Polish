@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Added sensors: %1$,d</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082829Z" creationid="akossek" creationdate="20230519T082829Z">
+        <seg>Dodane sensory: %1$,d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>After Ruuvi Station uninstall and install, you may need to recalibrate.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T082510Z" creationid="JG" creationdate="20230519T082510Z">
@@ -419,6 +427,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T203315Z" creationid="AW" creationdate="20230504T203315Z">
         <seg>Błąd w zapisie danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Database size: %1$,d kB</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082935Z" creationid="akossek" creationdate="20230519T082935Z">
+        <seg>Rozmiar bazy danych: %1$,d kB</seg>
       </tuv>
     </tu>
     <tu>
@@ -831,6 +847,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>MORE TO READ</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T083054Z" creationid="akossek" creationdate="20230519T083054Z">
+        <seg>WIĘCEJ INFORMACJI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Measure environmental data: temperature, relative humidity and air pressure</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T084858Z" creationid="knadolna" creationdate="20230428T084858Z">
@@ -963,6 +987,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T082441Z" creationid="JG" creationdate="20230519T082441Z">
         <seg>Miej na uwadze, że dane kalibracji będą przechowywane lokalnie na urządzeniu mobilnym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Number of locally stored measurements: %1$,d</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082910Z" creationid="akossek" creationdate="20230519T082910Z">
+        <seg>Liczba pomiarów przechowywanych lokalnie: %1$,d</seg>
       </tuv>
     </tu>
     <tu>
@@ -1143,6 +1175,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Ruuvi's website: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: ruuvi.com/blog\nRuuvi on Twitter: twitter.com/ruuvicom</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T083011Z" creationid="akossek" creationdate="20230519T083011Z">
+        <seg>Strona internetowa Ruuvi: ruuvi.com\nForum Ruuvi: f.ruuvi.com\nBlog Ruuvi: ruuvi.com/blog\nRuuvi na Twitterze: twitter.com/ruuvicom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>SKIP</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202008Z" creationid="AW" creationdate="20230504T202008Z">
@@ -1307,6 +1347,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090958Z" creationid="JG" creationdate="20230428T090958Z">
         <seg>Zbyt niski poziom sygnału!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Simply add some sensors and you're ready to go.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082820Z" creationid="akossek" creationdate="20230519T082820Z">
+        <seg>Po prostu dodaj sensory i gotowe.</seg>
       </tuv>
     </tu>
     <tu>
