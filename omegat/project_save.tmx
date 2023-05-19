@@ -901,6 +901,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Every Ruuvi sensor can have only one owner.\n\nBenefits:\n\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\n\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\n\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\n\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085940Z" creationid="AW" creationdate="20230519T085940Z">
+        <seg>Każdy czujnik Ruuvi może mieć tylko jednego właściciela.\n\nKorzyści:\n\n ● Nazwy czujnika, obrazy w tle, ustawienia powiadomień i wyrównywania są zapisywane w chmurze\n\n ● Dostęp do czujnika przez internet (wymaga Ruuvi Gateway)\n\n ● Udostępnij czujnik rodzinie i przyjaciołom (wymaga Ruuvi Gateway)\n\n ● Przeglądaj historię użytkowania do 2 lat na stronie station.ruuvi.com (wymaga Ruuvi Gateway)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Experimental features</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T203635Z" creationid="AW" creationdate="20230504T203635Z">
@@ -2561,6 +2569,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230519T084209Z" creationid="AW" creationdate="20230519T084209Z">
         <seg>Czujnik wyświetlane są w kolejności alfabetycznej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>\n\nFor more info, check the documentation.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085601Z" creationid="AW" creationdate="20230519T085601Z">
+        <seg>\n\nW celu uzyskania dalszych informacji, zapoznaj się z dołączonymi instrukcjami.</seg>
       </tuv>
     </tu>
     <tu>
