@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Absolute (g/m³)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083408Z" creationid="simon.kleist" creationdate="20230519T083408Z">
+        <seg>Absolutna (g/m³)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Acceleration X</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T090235Z" creationid="JG" creationdate="20230428T090235Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082701Z" creationid="knadolna" creationdate="20230428T090840Z">
         <seg>Po zalogowaniu zostaniesz automatycznie oznaczony jako właściciel pobliskich czujników Ruuvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Air Humidity ({%@^%1$s})</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083407Z" creationid="simon.kleist" creationdate="20230519T083407Z">
+        <seg>Wilgotność powietrza ({%@^%1$s})</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,6 +463,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Days</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083403Z" creationid="simon.kleist" creationdate="20230519T083403Z">
+        <seg>Dni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Define how often the background scanning will run</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090027Z" creationid="a_kossek" creationdate="20230428T090027Z">
@@ -679,6 +703,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Hours</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083349Z" creationid="simon.kleist" creationdate="20230519T083349Z">
+        <seg>GODZINY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Humidity</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T075833Z" creationid="AW" creationdate="20230505T075833Z">
@@ -723,6 +755,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T084103Z" creationid="AW" creationdate="20230505T084103Z">
         <seg>Jeśli czujnik ma dwa przyciski, naciśnij przycisk R oraz B jednocześnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>If you’re experiencing problems and our manuals didn’t provide the help you need, check out our many troubleshooting topics, here: ruuvi.com/support</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083347Z" creationid="simon.kleist" creationdate="20230519T083347Z">
+        <seg>W przypadku problemów, które nie zostały opisane w instrukcjach, należy zapoznać się z naszymi licznymi tematami dotyczącymi rozwiązywania problemów na stronie: ruuvi.com/support</seg>
       </tuv>
     </tu>
     <tu>
@@ -1523,6 +1563,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194055Z" creationid="AW" creationdate="20230504T194055Z">
         <seg>Synchronizacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>TROUBLESHOOTING</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083348Z" creationid="simon.kleist" creationdate="20230519T083348Z">
+        <seg>ROZWIĄZYWANIE PROBLEÓW</seg>
       </tuv>
     </tu>
     <tu>
