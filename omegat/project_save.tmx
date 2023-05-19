@@ -1039,8 +1039,8 @@
       <tuv lang="en-UK">
         <seg>Humidity offset</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085112Z" creationid="AW" creationdate="20230519T085112Z">
-        <seg>Wyrównianie wilgotności</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091338Z" creationid="AW" creationdate="20230519T085112Z">
+        <seg>Wyrównanie wilgotności</seg>
       </tuv>
     </tu>
     <tu>
@@ -1223,8 +1223,8 @@
       <tuv lang="en-UK">
         <seg>It will be highlighted as hyperlink in app</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082644Z" creationid="JG" creationdate="20230519T082644Z">
-        <seg>Będzie podświetlony jako hiperlink w aplikacji </seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091255Z" creationid="JG" creationdate="20230519T082644Z">
+        <seg>Będzie podświetlony jako hiperłącze w aplikacji </seg>
       </tuv>
     </tu>
     <tu>
@@ -1535,8 +1535,8 @@
       <tuv lang="en-UK">
         <seg>Offset correction</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085251Z" creationid="AW" creationdate="20230519T085151Z">
-        <seg>Korekta wyrówniania</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091328Z" creationid="AW" creationdate="20230519T085151Z">
+        <seg>Korekta wyrównania</seg>
       </tuv>
     </tu>
     <tu>
@@ -2191,8 +2191,8 @@
       <tuv lang="en-UK">
         <seg>TROUBLESHOOTING</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083348Z" creationid="simon.kleist" creationdate="20230519T083348Z">
-        <seg>ROZWIĄZYWANIE PROBLEÓW</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091356Z" creationid="simon.kleist" creationdate="20230519T083348Z">
+        <seg>ROZWIĄZYWANIE PROBLEMÓW</seg>
       </tuv>
     </tu>
     <tu>
@@ -2239,8 +2239,8 @@
       <tuv lang="en-UK">
         <seg>Temperature offset</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085032Z" creationid="AW" creationdate="20230505T075646Z">
-        <seg>Wyrównianie temperatury</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091333Z" creationid="AW" creationdate="20230505T075646Z">
+        <seg>Wyrównanie temperatury</seg>
       </tuv>
     </tu>
     <tu>
