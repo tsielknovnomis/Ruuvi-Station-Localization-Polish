@@ -1248,14 +1248,6 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
-        <seg>It will be highlighted as hyperlink in app</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091255Z" creationid="JG" creationdate="20230519T082644Z">
-        <seg>Będzie podświetlony jako hiperłącze w aplikacji </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-UK">
         <seg>Just like Ruuvi sensors, Ruuvi Station is also open-source: github.com/ruuvi</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="akossek" changedate="20230519T083132Z" creationid="akossek" creationdate="20230519T083132Z">
@@ -2352,6 +2344,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>The claimed sensors will be restored after an app re-install.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145415Z" creationid="SvK" creationdate="20230519T145415Z">
+        <seg>Reklamowane czujniki zostaną przywrócone po ponownej instalacji aplikacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>The claimed sensors will be restored after an app re-install.\n\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091100Z" creationid="knadolna" creationdate="20230428T091156Z">
@@ -2444,14 +2444,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202403Z" creationid="AW" creationdate="20230504T202403Z">
         <seg>Token wygasł</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-UK">
-        <seg>Translated text here should be exact part of HumidityCalibration.Description.text (calibration_humidity for Android).</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082616Z" creationid="JG" creationdate="20230519T082616Z">
-        <seg>Przetłumaczony tekst powinien być dokładną częścią HumidityCalibration.Description.text (calibration_humidity dla Androida).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2580,6 +2572,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230505T084202Z" creationid="AW" creationdate="20230504T192912Z">
         <seg>Po wylogowaniu czujniki użytkownika, które zostały zastrzeżone na stronie Ustawienia czujników, zostaną automatycznie usunięte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>With a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145453Z" creationid="SvK" creationdate="20230519T145453Z">
+        <seg>Dzięki routerowi Ruuvi Gateway będziesz mógł zdalnie monitorować zgłoszone czujniki i udostępniać je swoim znajomym.</seg>
       </tuv>
     </tu>
     <tu>
