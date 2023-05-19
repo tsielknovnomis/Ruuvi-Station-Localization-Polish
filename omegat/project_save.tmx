@@ -231,6 +231,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082704Z" creationid="JG" creationdate="20230519T082704Z">
+        <seg>Aparat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082754Z" creationid="JG" creationdate="20230519T082754Z">
+        <seg>Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Celsius (℃)</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084117Z" creationid="d55" creationdate="20230428T084117Z">
@@ -347,6 +363,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T074456Z" creationid="AW" creationdate="20230505T074456Z">
         <seg>Poprawiona wartość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Could not start camera</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082737Z" creationid="JG" creationdate="20230519T082737Z">
+        <seg>Nie można uruchomić aparatu</seg>
       </tuv>
     </tu>
     <tu>
@@ -755,6 +779,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230505T084319Z" creationid="knadolna" creationdate="20230428T085933Z">
         <seg>Czy adres URL jest poprawny?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>It will be highlighted as hyperlink in app</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082644Z" creationid="JG" creationdate="20230519T082644Z">
+        <seg>Będzie podświetlony jako hiperlink w aplikacji </seg>
       </tuv>
     </tu>
     <tu>
