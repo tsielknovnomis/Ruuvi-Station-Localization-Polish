@@ -5,7 +5,6 @@
   <body>
 <!-- Default translations -->
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>%</seg>
       </tuv>
@@ -14,7 +13,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>%1$,.0f %2$s</seg>
       </tuv>
@@ -23,7 +21,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>%1$,.2f %2$s</seg>
       </tuv>
@@ -398,6 +395,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T083337Z" creationid="JG" creationdate="20230519T083337Z">
         <seg>Funkcja wykresów działa najlepiej z włączonym skanowaniem w tle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Check your email for an activation code.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T085923Z" creationid="akossek" creationdate="20230519T085923Z">
+        <seg>Sprawdź swoją skrzynkę mailową, aby uzyskać kod aktywacyjny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1495,7 +1500,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>OK</seg>
       </tuv>
@@ -1624,7 +1628,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>Pa</seg>
       </tuv>
@@ -2586,7 +2589,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>g/m³</seg>
       </tuv>
@@ -2595,7 +2597,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>hPa</seg>
       </tuv>
@@ -2604,7 +2605,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>inHg</seg>
       </tuv>
@@ -2613,7 +2613,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>min</seg>
       </tuv>
@@ -2622,7 +2621,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>mmHg</seg>
       </tuv>
@@ -2647,7 +2645,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>s</seg>
       </tuv>
@@ -2672,7 +2669,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en-UK">
         <seg>°</seg>
       </tuv>
