@@ -999,8 +999,8 @@
       <tuv lang="en-UK">
         <seg>Go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Battery -&gt; Battery Optimisation and select 'Don't optimise for Ruuvi Station'</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084151Z" creationid="simon.kleist" creationdate="20230519T084151Z">
-        <seg>Należy wybrać ustawienia Androida -&gt; Aplikacje -&gt; Ruuvi Station -&gt; Bateria -&gt; Optymalizacja baterii, a następnie zaznaczyć opcję "Nie optymalizuj dla Ruuvi Station".</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T090847Z" creationid="simon.kleist" creationdate="20230519T084151Z">
+        <seg>Należy wybrać ustawienia Androida -&gt; Aplikacje -&gt; Ruuvi Station -&gt; Bateria -&gt; Optymalizacja baterii, a następnie zaznaczyć opcję „Nie optymalizuj dla Ruuvi Station”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1111,16 +1111,16 @@
       <tuv lang="en-UK">
         <seg>In normal use, it's not necessary to adjust the offset.\n\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\n\nCalibration tips are available on ruuvi.com/support</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203817Z" creationid="AW" creationdate="20230504T203817Z">
-        <seg>W codziennym użytkowaniu nie jest konieczna regulacja offsetu. Jeśli jesteś zaawansowanym użytkownikiem i chciałbyś ręcznie skonfigurować fabrycznie skalibrowane czujniki, jest to możliwe. Wskazówki dotyczące kalibracji są dostępne na stronie ruuvi.com/support.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091017Z" creationid="AW" creationdate="20230504T203817Z">
+        <seg>W codziennym użytkowaniu nie jest konieczna regulacja wyrównania. Jeśli jesteś zaawansowanym użytkownikiem i chciałbyś ręcznie skonfigurować fabrycznie skalibrowane czujniki, jest to możliwe. Wskazówki dotyczące kalibracji są dostępne na stronie ruuvi.com/support.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>In order to measure relative humidity as accurately as possible, a sodium chloride (salt) calibration is recommended.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082211Z" creationid="JG" creationdate="20230519T082211Z">
-        <seg>Aby jak najdokładniej zmierzyć wilogtność względną zaleca się kalibrację chlorku sodu (soli). </seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T090759Z" creationid="JG" creationdate="20230519T082211Z">
+        <seg>Aby jak najdokładniej zmierzyć wilgotność względną, zaleca się kalibrację chlorku sodu (soli). </seg>
       </tuv>
     </tu>
     <tu>
@@ -2575,8 +2575,8 @@
       <tuv lang="en-UK">
         <seg>Your sensors will be in alphabetical order.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T084209Z" creationid="AW" creationdate="20230519T084209Z">
-        <seg>Czujnik wyświetlane są w kolejności alfabetycznej.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T090642Z" creationid="AW" creationdate="20230519T084209Z">
+        <seg>Czujniki wyświetlane są w kolejności alfabetycznej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2592,8 +2592,8 @@
       <tuv lang="en-UK">
         <seg>\n\nPlease click 'allow all the time' if you'd like to use the background scanning feature.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083943Z" creationid="simon.kleist" creationdate="20230519T083943Z">
-        <seg>\n\nAby użytkować tę funkcję, należy wybrać "zezwalaj zawsze".</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T090822Z" creationid="simon.kleist" creationdate="20230519T083943Z">
+        <seg>\n\nAby użytkować tę funkcję, należy wybrać „zezwalaj zawsze”.</seg>
       </tuv>
     </tu>
     <tu>
