@@ -5,6 +5,33 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>%</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T084951Z" creationid="magdalenasek" creationdate="20230428T084951Z">
+        <seg>%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>%1$,.0f %2$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T090718Z" creationid="magdalenasek" creationdate="20230428T090718Z">
+        <seg>%1$,.0f %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>%1$,.2f %2$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T084925Z" creationid="magdalenasek" creationdate="20230428T084925Z">
+        <seg>%1$,.2f %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-UK">
         <seg>%1$,d measurements read, saving..</seg>
       </tuv>
@@ -765,6 +792,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T085647Z" creationid="simon.kleist" creationdate="20230519T085647Z">
+        <seg>E-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Email sent</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091523Z" creationid="knadolna" creationdate="20230428T091518Z">
@@ -1213,6 +1248,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Login</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T085734Z" creationid="simon.kleist" creationdate="20230519T085734Z">
+        <seg>Logowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Login to\nRuuvi\nStation</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201911Z" creationid="AW" creationdate="20230504T201911Z">
@@ -1444,6 +1487,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T085314Z" creationid="magdalenasek" creationdate="20230428T085314Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-UK">
         <seg>OPERATIONS MANUAL</seg>
       </tuv>
@@ -1561,6 +1613,15 @@
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083341Z" creationid="simon.kleist" creationdate="20230519T083341Z">
         <seg>POLITYKA PRYWATNOŚCI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>Pa</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T090701Z" creationid="magdalenasek" creationdate="20230428T090701Z">
+        <seg>Pa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2517,6 +2578,51 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>g/m³</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T084837Z" creationid="magdalenasek" creationdate="20230428T084837Z">
+        <seg>g/m³</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>hPa</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T090515Z" creationid="magdalenasek" creationdate="20230428T090515Z">
+        <seg>hPa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>inHg</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T090618Z" creationid="magdalenasek" creationdate="20230428T090618Z">
+        <seg>inHg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>min</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T085151Z" creationid="magdalenasek" creationdate="20230428T085151Z">
+        <seg>min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>mmHg</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T090640Z" creationid="magdalenasek" creationdate="20230428T090640Z">
+        <seg>mmHg</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-UK">
         <seg>never</seg>
       </tuv>
@@ -2533,6 +2639,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T090833Z" creationid="magdalenasek" creationdate="20230428T090833Z">
+        <seg>s</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-UK">
         <seg>sec</seg>
       </tuv>
@@ -2546,6 +2661,15 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T082939Z" creationid="AW" creationdate="20230505T082939Z">
         <seg>{%@^%1$s} temu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en-UK">
+        <seg>°</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T084922Z" creationid="magdalenasek" creationdate="20230428T084922Z">
+        <seg>°</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
