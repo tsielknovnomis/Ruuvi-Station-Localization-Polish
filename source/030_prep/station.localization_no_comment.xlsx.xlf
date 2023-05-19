@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="xl/sharedStrings.xml" source-language="en-UK" target-language="pl-PL" datatype="x-undefined">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Sheet1!J4" xml:space="preserve">
+<source xml:lang="en-UK">Confirm</source>
+<target xml:lang="pl-PL">Confirm</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Sheet1!J5" xml:space="preserve">
+<source xml:lang="en-UK">Remove</source>
+<target xml:lang="pl-PL">Remove</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Sheet1!J61" xml:space="preserve">
+<source xml:lang="en-UK">Error</source>
+<target xml:lang="pl-PL">Error</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="Sheet1!J97" xml:space="preserve">
+<source xml:lang="en-UK">English</source>
+<target xml:lang="pl-PL">English</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="Sheet1!J98" xml:space="preserve">
+<source xml:lang="en-UK">Suomi</source>
+<target xml:lang="pl-PL">Suomi</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" resname="Sheet1!J99" xml:space="preserve">
+<source xml:lang="en-UK">Русский</source>
+<target xml:lang="pl-PL">Русский</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="Sheet1!J100" xml:space="preserve">
+<source xml:lang="en-UK">Svenska</source>
+<target xml:lang="pl-PL">Svenska</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" resname="Sheet1!J101" xml:space="preserve">
+<source xml:lang="en-UK">Français</source>
+<target xml:lang="pl-PL">Français</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="Sheet1!J120" xml:space="preserve">
+<source xml:lang="en-UK">Language</source>
+<target xml:lang="pl-PL">Language</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" resname="Sheet1!J150" xml:space="preserve">
+<source xml:lang="en-UK">Name</source>
+<target xml:lang="pl-PL">Name</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="Sheet1!J154" xml:space="preserve">
+<source xml:lang="en-UK">Data Format</source>
+<target xml:lang="pl-PL">Data Format</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" resname="Sheet1!J158" xml:space="preserve">
+<source xml:lang="en-UK">Tx Power</source>
+<target xml:lang="pl-PL">Tx Power</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="Sheet1!J159" xml:space="preserve">
+<source xml:lang="en-UK">Movement Counter</source>
+<target xml:lang="pl-PL">Movement Counter</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="Sheet1!J160" xml:space="preserve">
+<source xml:lang="en-UK">Measurement Sequence Number</source>
+<target xml:lang="pl-PL">Measurement Sequence Number</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="Sheet1!J176" xml:space="preserve">
+<source xml:lang="en-UK">Set custom description...</source>
+<target xml:lang="pl-PL">Set custom description...</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" resname="Sheet1!J183" xml:space="preserve">
+<source xml:lang="en-UK">FIRMWARE</source>
+<target xml:lang="pl-PL">FIRMWARE</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="Sheet1!J184" xml:space="preserve">
+<source xml:lang="en-UK">Update Firmware</source>
+<target xml:lang="pl-PL">Update Firmware</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" resname="Sheet1!J221" xml:space="preserve">
+<source xml:lang="en-UK">Acceleration X</source>
+<target xml:lang="pl-PL">Acceleration X</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="Sheet1!J222" xml:space="preserve">
+<source xml:lang="en-UK">Acceleration Y</source>
+<target xml:lang="pl-PL">Acceleration Y</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" resname="Sheet1!J223" xml:space="preserve">
+<source xml:lang="en-UK">Acceleration Z</source>
+<target xml:lang="pl-PL">Acceleration Z</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="Sheet1!J224" xml:space="preserve">
+<source xml:lang="en-UK">No sensors found</source>
+<target xml:lang="pl-PL">No sensors found</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" resname="Sheet1!J225" xml:space="preserve">
+<source xml:lang="en-UK">Nearby Ruuvi sensors</source>
+<target xml:lang="pl-PL">Nearby Ruuvi sensors</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="Sheet1!J226" xml:space="preserve">
+<source xml:lang="en-UK">ago</source>
+<target xml:lang="pl-PL">ago</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" resname="Sheet1!J227" xml:space="preserve">
+<source xml:lang="en-UK">Disable this alarm</source>
+<target xml:lang="pl-PL">Disable this alarm</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu25" resname="Sheet1!J228" xml:space="preserve">
+<source xml:lang="en-UK">Movement</source>
+<target xml:lang="pl-PL">Movement</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu26" resname="Sheet1!J229" xml:space="preserve">
+<source xml:lang="en-UK">Alert when sensor is moved</source>
+<target xml:lang="pl-PL">Alert when sensor is moved</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu27" resname="Sheet1!J230" xml:space="preserve">
+<source xml:lang="en-UK">Air Humidity is too high!</source>
+<target xml:lang="pl-PL">Air Humidity is too high!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu28" resname="Sheet1!J231" xml:space="preserve">
+<source xml:lang="en-UK">Air Humidity is too low!</source>
+<target xml:lang="pl-PL">Air Humidity is too low!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu29" resname="Sheet1!J232" xml:space="preserve">
+<source xml:lang="en-UK">Movement detected!</source>
+<target xml:lang="pl-PL">Movement detected!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu30" resname="Sheet1!J233" xml:space="preserve">
+<source xml:lang="en-UK">Air Pressure is too high!</source>
+<target xml:lang="pl-PL">Air Pressure is too high!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu31" resname="Sheet1!J234" xml:space="preserve">
+<source xml:lang="en-UK">Air Pressure is too low!</source>
+<target xml:lang="pl-PL">Air Pressure is too low!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu32" resname="Sheet1!J235" xml:space="preserve">
+<source xml:lang="en-UK">Signal strength is too high!</source>
+<target xml:lang="pl-PL">Signal strength is too high!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu33" resname="Sheet1!J236" xml:space="preserve">
+<source xml:lang="en-UK">Signal strength is too low!</source>
+<target xml:lang="pl-PL">Signal strength is too low!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu34" resname="Sheet1!J237" xml:space="preserve">
+<source xml:lang="en-UK">Temperature is too high!</source>
+<target xml:lang="pl-PL">Temperature is too high!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu35" resname="Sheet1!J238" xml:space="preserve">
+<source xml:lang="en-UK">Temperature is too low!</source>
+<target xml:lang="pl-PL">Temperature is too low!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu36" resname="Sheet1!J239" xml:space="preserve">
+<source xml:lang="en-UK">Off</source>
+<target xml:lang="pl-PL">Off</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu37" resname="Sheet1!J240" xml:space="preserve">
+<source xml:lang="en-UK">Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}</source>
+<target xml:lang="pl-PL">Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu38" resname="Sheet1!J241" xml:space="preserve">
+<source xml:lang="en-UK">ALERTS</source>
+<target xml:lang="pl-PL">ALERTS</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu39" resname="Sheet1!J242" xml:space="preserve">
+<source xml:lang="en-UK">BACKGROUND\nIMAGE</source>
+<target xml:lang="pl-PL">BACKGROUND\nIMAGE</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu40" resname="Sheet1!J243" xml:space="preserve">
+<source xml:lang="en-UK">You can disable background scanning in Settings</source>
+<target xml:lang="pl-PL">You can disable background scanning in Settings</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu41" resname="Sheet1!J244" xml:space="preserve">
+<source xml:lang="en-UK">Scanning every</source>
+<target xml:lang="pl-PL">Scanning every</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu42" resname="Sheet1!J245" xml:space="preserve">
+<source xml:lang="en-UK">Battery Voltage</source>
+<target xml:lang="pl-PL">Battery Voltage</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu43" resname="Sheet1!J246" xml:space="preserve">
+<source xml:lang="en-UK">Calibrate</source>
+<target xml:lang="pl-PL">Calibrate</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu44" resname="Sheet1!J247" xml:space="preserve">
+<source xml:lang="en-UK">Calibrated: {%@^%1$s}</source>
+<target xml:lang="pl-PL">Calibrated: {%@^%1$s}</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu45" resname="Sheet1!J248" xml:space="preserve">
+<source xml:lang="en-UK">Calibration done!</source>
+<target xml:lang="pl-PL">Calibration done!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu46" resname="Sheet1!J249" xml:space="preserve">
+<source xml:lang="en-UK">%1$d%% -> 75%%</source>
+<target xml:lang="pl-PL">%1$d%% -> 75%%</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu47" resname="Sheet1!J250" xml:space="preserve">
+<source xml:lang="en-UK">In order to measure relative humidity as accurately as possible, a sodium chloride (salt) calibration is recommended. See video tutorials on how to easily do this at home.</source>
+<target xml:lang="pl-PL">In order to measure relative humidity as accurately as possible, a sodium chloride (salt) calibration is recommended. See video tutorials on how to easily do this at home.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu48" resname="Sheet1!J251" xml:space="preserve">
+<source xml:lang="en-UK">Calibrate hygrometer</source>
+<target xml:lang="pl-PL">Calibrate hygrometer</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu49" resname="Sheet1!J252" xml:space="preserve">
+<source xml:lang="en-UK">Note that calibration data will be stored locally in your mobile device. After Ruuvi Station uninstall and install, you may need to recalibrate.</source>
+<target xml:lang="pl-PL">Note that calibration data will be stored locally in your mobile device. After Ruuvi Station uninstall and install, you may need to recalibrate.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu50" resname="Sheet1!J253" xml:space="preserve">
+<source xml:lang="en-UK">video tutorials</source>
+<target xml:lang="pl-PL">video tutorials</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu51" resname="Sheet1!J254" xml:space="preserve">
+<source xml:lang="en-UK">https://www.youtube.com/results?search_query=hygrometer+salt+calibration</source>
+<target xml:lang="pl-PL">https://www.youtube.com/results?search_query=hygrometer+salt+calibration</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu52" resname="Sheet1!J255" xml:space="preserve">
+<source xml:lang="en-UK">Camera</source>
+<target xml:lang="pl-PL">Camera</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu53" resname="Sheet1!J256" xml:space="preserve">
+<source xml:lang="en-UK">Could not start camera</source>
+<target xml:lang="pl-PL">Could not start camera</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu54" resname="Sheet1!J257" xml:space="preserve">
+<source xml:lang="en-UK">Cancel</source>
+<target xml:lang="pl-PL">Cancel</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu55" resname="Sheet1!J258" xml:space="preserve">
+<source xml:lang="en-UK">Charts feature works best with background scanning enabled.</source>
+<target xml:lang="pl-PL">Charts feature works best with background scanning enabled.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu56" resname="Sheet1!J259" xml:space="preserve">
+<source xml:lang="en-UK">Would you like to enable background scanning?</source>
+<target xml:lang="pl-PL">Would you like to enable background scanning?</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu57" resname="Sheet1!J260" xml:space="preserve">
+<source xml:lang="en-UK">Clear</source>
+<target xml:lang="pl-PL">Clear</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu58" resname="Sheet1!J261" xml:space="preserve">
+<source xml:lang="en-UK">Clear the local historical data from the app?</source>
+<target xml:lang="pl-PL">Clear the local historical data from the app?</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu59" resname="Sheet1!J262" xml:space="preserve">
+<source xml:lang="en-UK">Close</source>
+<target xml:lang="pl-PL">Close</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu60" resname="Sheet1!J263" xml:space="preserve">
+<source xml:lang="en-UK">Synchronising...</source>
+<target xml:lang="pl-PL">Synchronising...</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu61" resname="Sheet1!J264" xml:space="preserve">
+<source xml:lang="en-UK">Connecting...</source>
+<target xml:lang="pl-PL">Connecting...</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu62" resname="Sheet1!J265" xml:space="preserve">
+<source xml:lang="en-UK">Dashboard</source>
+<target xml:lang="pl-PL">Dashboard</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu63" resname="Sheet1!J266" xml:space="preserve">
+<source xml:lang="en-UK">Use dashboard view to see multiple sensors at a glance. Restart the app after enabling it.</source>
+<target xml:lang="pl-PL">Use dashboard view to see multiple sensors at a glance. Restart the app after enabling it.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu64" resname="Sheet1!J267" xml:space="preserve">
+<source xml:lang="en-UK">Your dashboard \nis empty</source>
+<target xml:lang="pl-PL">Your dashboard \nis empty</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu65" resname="Sheet1!J268" xml:space="preserve">
+<source xml:lang="en-UK">%1$,d measurements read, saving..</source>
+<target xml:lang="pl-PL">%1$,d measurements read, saving..</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu66" resname="Sheet1!J269" xml:space="preserve">
+<source xml:lang="en-UK">Disconnected</source>
+<target xml:lang="pl-PL">Disconnected</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu67" resname="Sheet1!J270" xml:space="preserve">
+<source xml:lang="en-UK">EXPORT</source>
+<target xml:lang="pl-PL">EXPORT</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu68" resname="Sheet1!J271" xml:space="preserve">
+<source xml:lang="en-UK">File type not supported</source>
+<target xml:lang="pl-PL">File type not supported</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu69" resname="Sheet1!J272" xml:space="preserve">
+<source xml:lang="en-UK">Gallery</source>
+<target xml:lang="pl-PL">Gallery</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu70" resname="Sheet1!J273" xml:space="preserve">
+<source xml:lang="en-UK">Disabled</source>
+<target xml:lang="pl-PL">Disabled</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu71" resname="Sheet1!J274" xml:space="preserve">
+<source xml:lang="en-UK">Data Forwarding URL</source>
+<target xml:lang="pl-PL">Data Forwarding URL</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu72" resname="Sheet1!J275" xml:space="preserve">
+<source xml:lang="en-UK">https://your.gateway/...</source>
+<target xml:lang="pl-PL">https://your.gateway/...</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu73" resname="Sheet1!J276" xml:space="preserve">
+<source xml:lang="en-UK">h</source>
+<target xml:lang="pl-PL">h</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu74" resname="Sheet1!J277" xml:space="preserve">
+<source xml:lang="en-UK">Ruuvi Station is an easy-to-use but powerful tool to supercharge your Ruuvi sensors. Simply add some sensors and you're ready to go.</source>
+<target xml:lang="pl-PL">Ruuvi Station is an easy-to-use but powerful tool to supercharge your Ruuvi sensors. Simply add some sensors and you're ready to go.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu75" resname="Sheet1!J278" xml:space="preserve">
+<source xml:lang="en-UK">ABOUT / HELP</source>
+<target xml:lang="pl-PL">ABOUT / HELP</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu76" resname="Sheet1!J279" xml:space="preserve">
+<source xml:lang="en-UK">Added sensors: %1$,d</source>
+<target xml:lang="pl-PL">Added sensors: %1$,d</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu77" resname="Sheet1!J280" xml:space="preserve">
+<source xml:lang="en-UK">Number of locally stored measurements: %1$,d</source>
+<target xml:lang="pl-PL">Number of locally stored measurements: %1$,d</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu78" resname="Sheet1!J283" xml:space="preserve">
+<source xml:lang="en-UK">Database size: %1$,d kB</source>
+<target xml:lang="pl-PL">Database size: %1$,d kB</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu79" resname="Sheet1!J284" xml:space="preserve">
+<source xml:lang="en-UK">Ruuvi's website: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: ruuvi.com/blog\nRuuvi on Twitter: twitter.com/ruuvicom</source>
+<target xml:lang="pl-PL">Ruuvi's website: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: ruuvi.com/blog\nRuuvi on Twitter: twitter.com/ruuvicom</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu80" resname="Sheet1!J285" xml:space="preserve">
+<source xml:lang="en-UK">MORE TO READ</source>
+<target xml:lang="pl-PL">MORE TO READ</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu81" resname="Sheet1!J286" xml:space="preserve">
+<source xml:lang="en-UK">Just like Ruuvi sensors, Ruuvi Station is also open-source: github.com/ruuvi</source>
+<target xml:lang="pl-PL">Just like Ruuvi sensors, Ruuvi Station is also open-source: github.com/ruuvi</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu82" resname="Sheet1!J287" xml:space="preserve">
+<source xml:lang="en-UK">OPEN-SOURCE</source>
+<target xml:lang="pl-PL">OPEN-SOURCE</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu83" resname="Sheet1!J288" xml:space="preserve">
+<source xml:lang="en-UK">We've designed the app to be self-explanatory but comprehensive manuals are also available for both Ruuvi sensors and Ruuvi Station: ruuvi.com/support</source>
+<target xml:lang="pl-PL">We've designed the app to be self-explanatory but comprehensive manuals are also available for both Ruuvi sensors and Ruuvi Station: ruuvi.com/support</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu84" resname="Sheet1!J289" xml:space="preserve">
+<source xml:lang="en-UK">OPERATIONS MANUAL</source>
+<target xml:lang="pl-PL">OPERATIONS MANUAL</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu85" resname="Sheet1!J290" xml:space="preserve">
+<source xml:lang="en-UK">By using the application, you accept Ruuvi's standard terms and conditions: ruuvi.com/terms</source>
+<target xml:lang="pl-PL">By using the application, you accept Ruuvi's standard terms and conditions: ruuvi.com/terms</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu86" resname="Sheet1!J291" xml:space="preserve">
+<source xml:lang="en-UK">PRIVACY POLICY</source>
+<target xml:lang="pl-PL">PRIVACY POLICY</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu87" resname="Sheet1!J292" xml:space="preserve">
+<source xml:lang="en-UK">Seen sensors: %1$,d</source>
+<target xml:lang="pl-PL">Seen sensors: %1$,d</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu88" resname="Sheet1!J294" xml:space="preserve">
+<source xml:lang="en-UK">If you’re experiencing problems and our manuals didn’t provide the help you need, check out our many troubleshooting topics, here: ruuvi.com/support</source>
+<target xml:lang="pl-PL">If you’re experiencing problems and our manuals didn’t provide the help you need, check out our many troubleshooting topics, here: ruuvi.com/support</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu89" resname="Sheet1!J295" xml:space="preserve">
+<source xml:lang="en-UK">TROUBLESHOOTING</source>
+<target xml:lang="pl-PL">TROUBLESHOOTING</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu90" resname="Sheet1!J296" xml:space="preserve">
+<source xml:lang="en-UK">Hours</source>
+<target xml:lang="pl-PL">Hours</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu91" resname="Sheet1!J297" xml:space="preserve">
+<source xml:lang="en-UK">Days</source>
+<target xml:lang="pl-PL">Days</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu92" resname="Sheet1!J298" xml:space="preserve">
+<source xml:lang="en-UK">Air Humidity ({%@^%1$s})</source>
+<target xml:lang="pl-PL">Air Humidity ({%@^%1$s})</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu93" resname="Sheet1!J299" xml:space="preserve">
+<source xml:lang="en-UK">Absolute (g/m³)</source>
+<target xml:lang="pl-PL">Absolute (g/m³)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu94" resname="Sheet1!J300" xml:space="preserve">
+<source xml:lang="en-UK">g/m³</source>
+<target xml:lang="pl-PL">g/m³</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu95" resname="Sheet1!J301" xml:space="preserve">
+<source xml:lang="en-UK">Dew point (°)</source>
+<target xml:lang="pl-PL">Dew point (°)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu96" resname="Sheet1!J302" xml:space="preserve">
+<source xml:lang="en-UK">°</source>
+<target xml:lang="pl-PL">°</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu97" resname="Sheet1!J303" xml:space="preserve">
+<source xml:lang="en-UK">%1$,.2f %2$s</source>
+<target xml:lang="pl-PL">%1$,.2f %2$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu98" resname="Sheet1!J304" xml:space="preserve">
+<source xml:lang="en-UK">Relative (%)</source>
+<target xml:lang="pl-PL">Relative (%)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu99" resname="Sheet1!J305" xml:space="preserve">
+<source xml:lang="en-UK">%</source>
+<target xml:lang="pl-PL">%</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu100" resname="Sheet1!J306" xml:space="preserve">
+<source xml:lang="en-UK">MAC Address</source>
+<target xml:lang="pl-PL">MAC Address</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu101" resname="Sheet1!J307" xml:space="preserve">
+<source xml:lang="en-UK">MAC address copied to clipboard</source>
+<target xml:lang="pl-PL">MAC address copied to clipboard</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu102" resname="Sheet1!J308" xml:space="preserve">
+<source xml:lang="en-UK">About / Help</source>
+<target xml:lang="pl-PL">About / Help</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu103" resname="Sheet1!J309" xml:space="preserve">
+<source xml:lang="en-UK">Add a New Sensor</source>
+<target xml:lang="pl-PL">Add a New Sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu104" resname="Sheet1!J310" xml:space="preserve">
+<source xml:lang="en-UK">App Settings</source>
+<target xml:lang="pl-PL">App Settings</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu105" resname="Sheet1!J311" xml:space="preserve">
+<source xml:lang="en-UK">Get More Sensors</source>
+<target xml:lang="pl-PL">Get More Sensors</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu106" resname="Sheet1!J312" xml:space="preserve">
+<source xml:lang="en-UK">Send Feedback</source>
+<target xml:lang="pl-PL">Send Feedback</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu107" resname="Sheet1!J313" xml:space="preserve">
+<source xml:lang="en-UK">min</source>
+<target xml:lang="pl-PL">min</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu108" resname="Sheet1!J314" xml:space="preserve">
+<source xml:lang="en-UK">Minutes</source>
+<target xml:lang="pl-PL">Minutes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu109" resname="Sheet1!J315" xml:space="preserve">
+<source xml:lang="en-UK">MORE INFO</source>
+<target xml:lang="pl-PL">MORE INFO</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu110" resname="Sheet1!J316" xml:space="preserve">
+<source xml:lang="en-UK">NAME</source>
+<target xml:lang="pl-PL">NAME</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu111" resname="Sheet1!J317" xml:space="preserve">
+<source xml:lang="en-UK">Close the navigation drawer</source>
+<target xml:lang="pl-PL">Close the navigation drawer</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu112" resname="Sheet1!J318" xml:space="preserve">
+<source xml:lang="en-UK">Open the navigation drawer</source>
+<target xml:lang="pl-PL">Open the navigation drawer</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu113" resname="Sheet1!J319" xml:space="preserve">
+<source xml:lang="en-UK">No</source>
+<target xml:lang="pl-PL">No</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu114" resname="Sheet1!J320" xml:space="preserve">
+<source xml:lang="en-UK">No new data points available</source>
+<target xml:lang="pl-PL">No new data points available</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu115" resname="Sheet1!J321" xml:space="preserve">
+<source xml:lang="en-UK">OK</source>
+<target xml:lang="pl-PL">OK</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu116" resname="Sheet1!J322" xml:space="preserve">
+<source xml:lang="en-UK">Enable Background Scanning</source>
+<target xml:lang="pl-PL">Enable Background Scanning</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu117" resname="Sheet1!J323" xml:space="preserve">
+<source xml:lang="en-UK">In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \n\nPlease click 'allow all the time' if you'd like to use the background scanning feature. \n\nRuuvi doesn't track your movements. You're safe.</source>
+<target xml:lang="pl-PL">In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \n\nPlease click 'allow all the time' if you'd like to use the background scanning feature. \n\nRuuvi doesn't track your movements. You're safe.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu118" resname="Sheet1!J324" xml:space="preserve">
+<source xml:lang="en-UK">In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \n\nRuuvi doesn't track your movements. You're safe.</source>
+<target xml:lang="pl-PL">In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \n\nRuuvi doesn't track your movements. You're safe.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu119" resname="Sheet1!J325" xml:space="preserve">
+<source xml:lang="en-UK">Enable Bluetooth Scanning</source>
+<target xml:lang="pl-PL">Enable Bluetooth Scanning</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu120" resname="Sheet1!J326" xml:space="preserve">
+<source xml:lang="en-UK">Please enable location permission in Settings to see sensors.</source>
+<target xml:lang="pl-PL">Please enable location permission in Settings to see sensors.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu121" resname="Sheet1!J327" xml:space="preserve">
+<source xml:lang="en-UK">No sensors added,\npress here to add sensors</source>
+<target xml:lang="pl-PL">No sensors added,\npress here to add sensors</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu122" resname="Sheet1!J328" xml:space="preserve">
+<source xml:lang="en-UK">Air Pressure ({%@^%1$s})</source>
+<target xml:lang="pl-PL">Air Pressure ({%@^%1$s})</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu123" resname="Sheet1!J329" xml:space="preserve">
+<source xml:lang="en-UK">Hectopascal (hPa)</source>
+<target xml:lang="pl-PL">Hectopascal (hPa)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu124" resname="Sheet1!J330" xml:space="preserve">
+<source xml:lang="en-UK">hPa</source>
+<target xml:lang="pl-PL">hPa</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu125" resname="Sheet1!J331" xml:space="preserve">
+<source xml:lang="en-UK">Inch of mercury (inHg)</source>
+<target xml:lang="pl-PL">Inch of mercury (inHg)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu126" resname="Sheet1!J332" xml:space="preserve">
+<source xml:lang="en-UK">inHg</source>
+<target xml:lang="pl-PL">inHg</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu127" resname="Sheet1!J333" xml:space="preserve">
+<source xml:lang="en-UK">Millimetre of mercury (mmHg)</source>
+<target xml:lang="pl-PL">Millimetre of mercury (mmHg)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu128" resname="Sheet1!J334" xml:space="preserve">
+<source xml:lang="en-UK">mmHg</source>
+<target xml:lang="pl-PL">mmHg</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu129" resname="Sheet1!J335" xml:space="preserve">
+<source xml:lang="en-UK">Pascal (Pa)</source>
+<target xml:lang="pl-PL">Pascal (Pa)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu130" resname="Sheet1!J336" xml:space="preserve">
+<source xml:lang="en-UK">Pa</source>
+<target xml:lang="pl-PL">Pa</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu131" resname="Sheet1!J337" xml:space="preserve">
+<source xml:lang="en-UK">%1$,.2f %2$s</source>
+<target xml:lang="pl-PL">%1$,.2f %2$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu132" resname="Sheet1!J338" xml:space="preserve">
+<source xml:lang="en-UK">%1$,.0f %2$s</source>
+<target xml:lang="pl-PL">%1$,.0f %2$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu133" resname="Sheet1!J339" xml:space="preserve">
+<source xml:lang="en-UK">Reading history</source>
+<target xml:lang="pl-PL">Reading history</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu134" resname="Sheet1!J340" xml:space="preserve">
+<source xml:lang="en-UK">Firmware not supported</source>
+<target xml:lang="pl-PL">Firmware not supported</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu135" resname="Sheet1!J341" xml:space="preserve">
+<source xml:lang="en-UK">Signal strength (RSSI)</source>
+<target xml:lang="pl-PL">Signal strength (RSSI)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu136" resname="Sheet1!J342" xml:space="preserve">
+<source xml:lang="en-UK">s</source>
+<target xml:lang="pl-PL">s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu137" resname="Sheet1!J343" xml:space="preserve">
+<source xml:lang="en-UK">SCAN</source>
+<target xml:lang="pl-PL">SCAN</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu138" resname="Sheet1!J344" xml:space="preserve">
+<source xml:lang="en-UK">sec</source>
+<target xml:lang="pl-PL">sec</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu139" resname="Sheet1!J345" xml:space="preserve">
+<source xml:lang="en-UK">Seconds</source>
+<target xml:lang="pl-PL">Seconds</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu140" resname="Sheet1!J346" xml:space="preserve">
+<source xml:lang="en-UK">Select Picture</source>
+<target xml:lang="pl-PL">Select Picture</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu141" resname="Sheet1!J347" xml:space="preserve">
+<source xml:lang="en-UK">Send Email</source>
+<target xml:lang="pl-PL">Send Email</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu142" resname="Sheet1!J348" xml:space="preserve">
+<source xml:lang="en-UK">Sensor is already added</source>
+<target xml:lang="pl-PL">Sensor is already added</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu143" resname="Sheet1!J349" xml:space="preserve">
+<source xml:lang="en-UK">Settings</source>
+<target xml:lang="pl-PL">Settings</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu144" resname="Sheet1!J350" xml:space="preserve">
+<source xml:lang="en-UK">If you experience any issues with background scanning you should disable battery optimisation for Ruuvi Station. This procedure may vary depending on your device vendor, model and Android version.</source>
+<target xml:lang="pl-PL">If you experience any issues with background scanning you should disable battery optimisation for Ruuvi Station. This procedure may vary depending on your device vendor, model and Android version.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu145" resname="Sheet1!J351" xml:space="preserve">
+<source xml:lang="en-UK">Go to Android Settings -> Apps -> Ruuvi Station -> Battery -> Battery Optimisation and select 'Don't optimise for Ruuvi Station'</source>
+<target xml:lang="pl-PL">Go to Android Settings -> Apps -> Ruuvi Station -> Battery -> Battery Optimisation and select 'Don't optimise for Ruuvi Station'</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu146" resname="Sheet1!J352" xml:space="preserve">
+<source xml:lang="en-UK">On Huawei devices go to Android Settings -> Apps -> Ruuvi Station -> Power usage details -> App launch. Disable 'Manage Automatically' and enable options: 'Auto-Launch', 'Secondary Launch' and 'Run in background'.</source>
+<target xml:lang="pl-PL">On Huawei devices go to Android Settings -> Apps -> Ruuvi Station -> Power usage details -> App launch. Disable 'Manage Automatically' and enable options: 'Auto-Launch', 'Secondary Launch' and 'Run in background'.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu147" resname="Sheet1!J353" xml:space="preserve">
+<source xml:lang="en-UK">On Samsung devices go to Android Settings -> Battery -> App power saving detail and set option 'Turned off' for Ruuvi Station.</source>
+<target xml:lang="pl-PL">On Samsung devices go to Android Settings -> Battery -> App power saving detail and set option 'Turned off' for Ruuvi Station.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu148" resname="Sheet1!J354" xml:space="preserve">
+<source xml:lang="en-UK">On Samsung devices go to Android Settings -> Device Maintenance (or Device Care) -> Battery. Disable 'Put unused apps to sleep'. Disable 'Auto-disable unused apps'. Remove Ruuvi Station from the list of sleeping apps. Disable background restrictions for Ruuvi Station.</source>
+<target xml:lang="pl-PL">On Samsung devices go to Android Settings -> Device Maintenance (or Device Care) -> Battery. Disable 'Put unused apps to sleep'. Disable 'Auto-disable unused apps'. Remove Ruuvi Station from the list of sleeping apps. Disable background restrictions for Ruuvi Station.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu149" resname="Sheet1!J355" xml:space="preserve">
+<source xml:lang="en-UK">Background scan important note</source>
+<target xml:lang="pl-PL">Background scan important note</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu150" resname="Sheet1!J356" xml:space="preserve">
+<source xml:lang="en-UK">On Xiaomi devices go to Android Settings -> Apps -> Manage apps -> Ruuvi Station. Enable Autostart and set Battery Saver to 'No restrictions'.</source>
+<target xml:lang="pl-PL">On Xiaomi devices go to Android Settings -> Apps -> Manage apps -> Ruuvi Station. Enable Autostart and set Battery Saver to 'No restrictions'.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu151" resname="Sheet1!J357" xml:space="preserve">
+<source xml:lang="en-UK">Continuous background scanning</source>
+<target xml:lang="pl-PL">Continuous background scanning</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu152" resname="Sheet1!J358" xml:space="preserve">
+<source xml:lang="en-UK">Continuous background scanning mode is enabled.\nData logging interval: %1$s</source>
+<target xml:lang="pl-PL">Continuous background scanning mode is enabled.\nData logging interval: %1$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu153" resname="Sheet1!J359" xml:space="preserve">
+<source xml:lang="en-UK">No background scanning</source>
+<target xml:lang="pl-PL">No background scanning</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu154" resname="Sheet1!J360" xml:space="preserve">
+<source xml:lang="en-UK">No background scanning mode is enabled</source>
+<target xml:lang="pl-PL">No background scanning mode is enabled</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu155" resname="Sheet1!J361" xml:space="preserve">
+<source xml:lang="en-UK">Background Scanning Settings</source>
+<target xml:lang="pl-PL">Background Scanning Settings</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu156" resname="Sheet1!J362" xml:space="preserve">
+<source xml:lang="en-UK">This feature enables background scanning, meaning that your phone will periodically search for beacons, even when you are not using it.</source>
+<target xml:lang="pl-PL">This feature enables background scanning, meaning that your phone will periodically search for beacons, even when you are not using it.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu157" resname="Sheet1!J363" xml:space="preserve">
+<source xml:lang="en-UK">The app will periodically search for beacons using a service (with notifications), allowing for very frequent and reliable scanning, even when you are not using it.</source>
+<target xml:lang="pl-PL">The app will periodically search for beacons using a service (with notifications), allowing for very frequent and reliable scanning, even when you are not using it.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu158" resname="Sheet1!J364" xml:space="preserve">
+<source xml:lang="en-UK">Data logging interval</source>
+<target xml:lang="pl-PL">Data logging interval</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu159" resname="Sheet1!J365" xml:space="preserve">
+<source xml:lang="en-UK">Define how often the background scanning will run</source>
+<target xml:lang="pl-PL">Define how often the background scanning will run</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu160" resname="Sheet1!J366" xml:space="preserve">
+<source xml:lang="en-UK">Chart Settings</source>
+<target xml:lang="pl-PL">Chart Settings</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu161" resname="Sheet1!J367" xml:space="preserve">
+<source xml:lang="en-UK">Display all data in chart</source>
+<target xml:lang="pl-PL">Display all data in chart</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu162" resname="Sheet1!J368" xml:space="preserve">
+<source xml:lang="en-UK">Enabling it may cause charts to update slowly</source>
+<target xml:lang="pl-PL">Enabling it may cause charts to update slowly</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu163" resname="Sheet1!J369" xml:space="preserve">
+<source xml:lang="en-UK">Configure interval between points shown on chart</source>
+<target xml:lang="pl-PL">Configure interval between points shown on chart</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu164" resname="Sheet1!J370" xml:space="preserve">
+<source xml:lang="en-UK">Draw dots in chart</source>
+<target xml:lang="pl-PL">Draw dots in chart</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu165" resname="Sheet1!J371" xml:space="preserve">
+<source xml:lang="en-UK">Small dots will help to understand when measurements were collected</source>
+<target xml:lang="pl-PL">Small dots will help to understand when measurements were collected</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu166" resname="Sheet1!J372" xml:space="preserve">
+<source xml:lang="en-UK">Chart Interval</source>
+<target xml:lang="pl-PL">Chart Interval</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu167" resname="Sheet1!J373" xml:space="preserve">
+<source xml:lang="en-UK">Set interval between points for chart from 1 to 60 minutes. Smaller values mean a more accurate chart, but also a higher performance requirement for your device</source>
+<target xml:lang="pl-PL">Set interval between points for chart from 1 to 60 minutes. Smaller values mean a more accurate chart, but also a higher performance requirement for your device</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu168" resname="Sheet1!J374" xml:space="preserve">
+<source xml:lang="en-UK">Chart history view period</source>
+<target xml:lang="pl-PL">Chart history view period</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu169" resname="Sheet1!J375" xml:space="preserve">
+<source xml:lang="en-UK">Configure the period of history to be shown on chart from 1 to 10 days</source>
+<target xml:lang="pl-PL">Configure the period of history to be shown on chart from 1 to 10 days</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu170" resname="Sheet1!J376" xml:space="preserve">
+<source xml:lang="en-UK">Data Forwarding Settings</source>
+<target xml:lang="pl-PL">Data Forwarding Settings</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu171" resname="Sheet1!J377" xml:space="preserve">
+<source xml:lang="en-UK">When you add a URL here, the app will execute an HTTP POST with the linked sensors when it does background scanning. \n\nFor more info, check the documentation.</source>
+<target xml:lang="pl-PL">When you add a URL here, the app will execute an HTTP POST with the linked sensors when it does background scanning. \n\nFor more info, check the documentation.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu172" resname="Sheet1!J378" xml:space="preserve">
+<source xml:lang="en-UK">check the documentation.</source>
+<target xml:lang="pl-PL">check the documentation.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu173" resname="Sheet1!J379" xml:space="preserve">
+<source xml:lang="en-UK">https://docs.ruuvi.com/ruuvi-station-app/gateway</source>
+<target xml:lang="pl-PL">https://docs.ruuvi.com/ruuvi-station-app/gateway</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu174" resname="Sheet1!J380" xml:space="preserve">
+<source xml:lang="en-UK">Device identifier</source>
+<target xml:lang="pl-PL">Device identifier</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu175" resname="Sheet1!J381" xml:space="preserve">
+<source xml:lang="en-UK">Test data forwarding</source>
+<target xml:lang="pl-PL">Test data forwarding</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu176" resname="Sheet1!J382" xml:space="preserve">
+<source xml:lang="en-UK">Humidity Unit</source>
+<target xml:lang="pl-PL">Humidity Unit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu177" resname="Sheet1!J383" xml:space="preserve">
+<source xml:lang="en-UK">Choose the humidity unit you want to be displayed</source>
+<target xml:lang="pl-PL">Choose the humidity unit you want to be displayed</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu178" resname="Sheet1!J384" xml:space="preserve">
+<source xml:lang="en-UK">Pressure Unit</source>
+<target xml:lang="pl-PL">Pressure Unit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu179" resname="Sheet1!J385" xml:space="preserve">
+<source xml:lang="en-UK">Choose the pressure unit you want to be displayed</source>
+<target xml:lang="pl-PL">Choose the pressure unit you want to be displayed</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu180" resname="Sheet1!J386" xml:space="preserve">
+<source xml:lang="en-UK">Temperature Unit</source>
+<target xml:lang="pl-PL">Temperature Unit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu181" resname="Sheet1!J387" xml:space="preserve">
+<source xml:lang="en-UK">Choose the temperature unit you want to be displayed</source>
+<target xml:lang="pl-PL">Choose the temperature unit you want to be displayed</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu182" resname="Sheet1!J388" xml:space="preserve">
+<source xml:lang="en-UK">%1$,d %2$s</source>
+<target xml:lang="pl-PL">%1$,d %2$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu183" resname="Sheet1!J389" xml:space="preserve">
+<source xml:lang="en-UK">- %1$s</source>
+<target xml:lang="pl-PL">- %1$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu184" resname="Sheet1!J390" xml:space="preserve">
+<source xml:lang="en-UK">dBm</source>
+<target xml:lang="pl-PL">dBm</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu185" resname="Sheet1!J391" xml:space="preserve">
+<source xml:lang="en-UK">Something went wrong</source>
+<target xml:lang="pl-PL">Something went wrong</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu186" resname="Sheet1!J392" xml:space="preserve">
+<source xml:lang="en-UK">SYNC</source>
+<target xml:lang="pl-PL">SYNC</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu187" resname="Sheet1!J393" xml:space="preserve">
+<source xml:lang="en-UK">Sync complete</source>
+<target xml:lang="pl-PL">Sync complete</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu188" resname="Sheet1!J394" xml:space="preserve">
+<source xml:lang="en-UK">Download history data from the sensor?</source>
+<target xml:lang="pl-PL">Download history data from the sensor?</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu189" resname="Sheet1!J396" xml:space="preserve">
+<source xml:lang="en-UK">Sensor not found, is it in range?</source>
+<target xml:lang="pl-PL">Sensor not found, is it in range?</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu190" resname="Sheet1!J397" xml:space="preserve">
+<source xml:lang="en-UK">Remove sensor</source>
+<target xml:lang="pl-PL">Remove sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu191" resname="Sheet1!J398" xml:space="preserve">
+<source xml:lang="en-UK">Do you want to remove the sensor? You can add it again later, if needed.</source>
+<target xml:lang="pl-PL">Do you want to remove the sensor? You can add it again later, if needed.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu192" resname="Sheet1!J399" xml:space="preserve">
+<source xml:lang="en-UK">Temperature ({%@^%1$s})</source>
+<target xml:lang="pl-PL">Temperature ({%@^%1$s})</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu193" resname="Sheet1!J400" xml:space="preserve">
+<source xml:lang="en-UK">Celsius (℃)</source>
+<target xml:lang="pl-PL">Celsius (℃)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu194" resname="Sheet1!J401" xml:space="preserve">
+<source xml:lang="en-UK">°C</source>
+<target xml:lang="pl-PL">°C</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu195" resname="Sheet1!J402" xml:space="preserve">
+<source xml:lang="en-UK">Fahrenheit (℉)</source>
+<target xml:lang="pl-PL">Fahrenheit (℉)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu196" resname="Sheet1!J403" xml:space="preserve">
+<source xml:lang="en-UK">°F</source>
+<target xml:lang="pl-PL">°F</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu197" resname="Sheet1!J404" xml:space="preserve">
+<source xml:lang="en-UK">Kelvin (K)</source>
+<target xml:lang="pl-PL">Kelvin (K)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu198" resname="Sheet1!J405" xml:space="preserve">
+<source xml:lang="en-UK">K</source>
+<target xml:lang="pl-PL">K</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu199" resname="Sheet1!J406" xml:space="preserve">
+<source xml:lang="en-UK">%1$,.2f%2$s</source>
+<target xml:lang="pl-PL">%1$,.2f%2$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu200" resname="Sheet1!J407" xml:space="preserve">
+<source xml:lang="en-UK">Updated {%@^%1$s}</source>
+<target xml:lang="pl-PL">Updated {%@^%1$s}</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu201" resname="Sheet1!J409" xml:space="preserve">
+<source xml:lang="en-UK">Version: %1$s</source>
+<target xml:lang="pl-PL">Version: %1$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu202" resname="Sheet1!J410" xml:space="preserve">
+<source xml:lang="en-UK">%1$s %2$s</source>
+<target xml:lang="pl-PL">%1$s %2$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu203" resname="Sheet1!J411" xml:space="preserve">
+<source xml:lang="en-UK">V</source>
+<target xml:lang="pl-PL">V</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu204" resname="Sheet1!J412" xml:space="preserve">
+<source xml:lang="en-UK">Swipe to see what Ruuvi Station can do for you</source>
+<target xml:lang="pl-PL">Swipe to see what Ruuvi Station can do for you</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu205" resname="Sheet1!J413" xml:space="preserve">
+<source xml:lang="en-UK">Measure environmental data: temperature, relative humidity and air pressure</source>
+<target xml:lang="pl-PL">Measure environmental data: temperature, relative humidity and air pressure</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu206" resname="Sheet1!J414" xml:space="preserve">
+<source xml:lang="en-UK">Access data for each linked sensor in real time and explore history graphs</source>
+<target xml:lang="pl-PL">Access data for each linked sensor in real time and explore history graphs</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu207" resname="Sheet1!J415" xml:space="preserve">
+<source xml:lang="en-UK">Set alerts and get notified whenever your limits are hit</source>
+<target xml:lang="pl-PL">Set alerts and get notified whenever your limits are hit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu208" resname="Sheet1!J416" xml:space="preserve">
+<source xml:lang="en-UK">Let the app act as a gateway</source>
+<target xml:lang="pl-PL">Let the app act as a gateway</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu209" resname="Sheet1!J417" xml:space="preserve">
+<source xml:lang="en-UK">Press SCAN to find and add nearby sensors to your Ruuvi Station</source>
+<target xml:lang="pl-PL">Press SCAN to find and add nearby sensors to your Ruuvi Station</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu210" resname="Sheet1!J418" xml:space="preserve">
+<source xml:lang="en-UK">Yes</source>
+<target xml:lang="pl-PL">Yes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu211" resname="Sheet1!J419" xml:space="preserve">
+<source xml:lang="en-UK">Ruuvi Station</source>
+<target xml:lang="pl-PL">Ruuvi Station</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu212" resname="Sheet1!J420" xml:space="preserve">
+<source xml:lang="en-UK">.csv created, opening share menu</source>
+<target xml:lang="pl-PL">.csv created, opening share menu</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu213" resname="Sheet1!J421" xml:space="preserve">
+<source xml:lang="en-UK">Failed to create CSV file</source>
+<target xml:lang="pl-PL">Failed to create CSV file</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu214" resname="Sheet1!J422" xml:space="preserve">
+<source xml:lang="en-UK">Sensor %1$s CSV export</source>
+<target xml:lang="pl-PL">Sensor %1$s CSV export</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu215" resname="Sheet1!J423" xml:space="preserve">
+<source xml:lang="en-UK">Sensor Settings</source>
+<target xml:lang="pl-PL">Sensor Settings</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu216" resname="Sheet1!J424" xml:space="preserve">
+<source xml:lang="en-UK">Nope, it did not work. Is the URL correct?</source>
+<target xml:lang="pl-PL">Nope, it did not work. Is the URL correct?</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu217" resname="Sheet1!J425" xml:space="preserve">
+<source xml:lang="en-UK">Data forwarding works! Response code: %1$d</source>
+<target xml:lang="pl-PL">Data forwarding works! Response code: %1$d</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu218" resname="Sheet1!J426" xml:space="preserve">
+<source xml:lang="en-UK">Nope, it did not work. Response code: %1$d</source>
+<target xml:lang="pl-PL">Nope, it did not work. Response code: %1$d</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu219" resname="Sheet1!J427" xml:space="preserve">
+<source xml:lang="en-UK">Testing...</source>
+<target xml:lang="pl-PL">Testing...</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu220" resname="Sheet1!J428" xml:space="preserve">
+<source xml:lang="en-UK">Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage</source>
+<target xml:lang="pl-PL">Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu221" resname="Sheet1!J429" xml:space="preserve">
+<source xml:lang="en-UK">Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number</source>
+<target xml:lang="pl-PL">Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu222" resname="Sheet1!J430" xml:space="preserve">
+<source xml:lang="en-UK">Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI</source>
+<target xml:lang="pl-PL">Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu223" resname="Sheet1!J431" xml:space="preserve">
+<source xml:lang="en-UK">Mute for an hour</source>
+<target xml:lang="pl-PL">Mute for an hour</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu224" resname="Sheet1!J432" xml:space="preserve">
+<source xml:lang="en-UK">%1$,.3f g</source>
+<target xml:lang="pl-PL">%1$,.3f g</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu225" resname="Sheet1!J433" xml:space="preserve">
+<source xml:lang="en-UK">%1$,.0f dBm</source>
+<target xml:lang="pl-PL">%1$,.0f dBm</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu226" resname="Sheet1!J435" xml:space="preserve">
+<source xml:lang="en-UK">Sign in</source>
+<target xml:lang="pl-PL">Sign in</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu227" resname="Sheet1!J436" xml:space="preserve">
+<source xml:lang="en-UK">Sign out</source>
+<target xml:lang="pl-PL">Sign out</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu228" resname="Sheet1!J437" xml:space="preserve">
+<source xml:lang="en-UK">After signing in, you will automatically be marked as the owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\n\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.</source>
+<target xml:lang="pl-PL">After signing in, you will automatically be marked as the owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\n\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu229" resname="Sheet1!J438" xml:space="preserve">
+<source xml:lang="en-UK">Benefits of the Ruuvi cloud service</source>
+<target xml:lang="pl-PL">Benefits of the Ruuvi cloud service</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu230" resname="Sheet1!J439" xml:space="preserve">
+<source xml:lang="en-UK">Email</source>
+<target xml:lang="pl-PL">Email</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu231" resname="Sheet1!J440" xml:space="preserve">
+<source xml:lang="en-UK">Login</source>
+<target xml:lang="pl-PL">Login</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu232" resname="Sheet1!J441" xml:space="preserve">
+<source xml:lang="en-UK">Request a code</source>
+<target xml:lang="pl-PL">Request a code</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu233" resname="Sheet1!J442" xml:space="preserve">
+<source xml:lang="en-UK">Submit</source>
+<target xml:lang="pl-PL">Submit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu234" resname="Sheet1!J443" xml:space="preserve">
+<source xml:lang="en-UK">Enter code manually</source>
+<target xml:lang="pl-PL">Enter code manually</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu235" resname="Sheet1!J444" xml:space="preserve">
+<source xml:lang="en-UK">Email sent</source>
+<target xml:lang="pl-PL">Email sent</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu236" resname="Sheet1!J445" xml:space="preserve">
+<source xml:lang="en-UK">Check your email for an activation code.</source>
+<target xml:lang="pl-PL">Check your email for an activation code.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu237" resname="Sheet1!J446" xml:space="preserve">
+<source xml:lang="en-UK">Code</source>
+<target xml:lang="pl-PL">Code</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu238" resname="Sheet1!J447" xml:space="preserve">
+<source xml:lang="en-UK">When you sign out, sensors the ownerships of which you've claimed on the sensor Settings page will be automatically removed from the app. When you sign in again using the same email address, the sensors will be returned from the cloud.\n\nDo you want to sign out?</source>
+<target xml:lang="pl-PL">When you sign out, sensors the ownerships of which you've claimed on the sensor Settings page will be automatically removed from the app. When you sign in again using the same email address, the sensors will be returned from the cloud.\n\nDo you want to sign out?</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu239" resname="Sheet1!J448" xml:space="preserve">
+<source xml:lang="en-UK">Claim ownership</source>
+<target xml:lang="pl-PL">Claim ownership</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu240" resname="Sheet1!J450" xml:space="preserve">
+<source xml:lang="en-UK">Share</source>
+<target xml:lang="pl-PL">Share</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu241" resname="Sheet1!J451" xml:space="preserve">
+<source xml:lang="en-UK">Syncing...</source>
+<target xml:lang="pl-PL">Syncing...</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu242" resname="Sheet1!J453" xml:space="preserve">
+<source xml:lang="en-UK">Synchronised: {%@^%1$s}</source>
+<target xml:lang="pl-PL">Synchronised: {%@^%1$s}</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu243" resname="Sheet1!J454" xml:space="preserve">
+<source xml:lang="en-UK">never</source>
+<target xml:lang="pl-PL">never</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu244" resname="Sheet1!J455" xml:space="preserve">
+<source xml:lang="en-UK">none</source>
+<target xml:lang="pl-PL">none</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu245" resname="Sheet1!J456" xml:space="preserve">
+<source xml:lang="en-UK">User: {%@^%1$s}</source>
+<target xml:lang="pl-PL">User: {%@^%1$s}</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu246" resname="Sheet1!J457" xml:space="preserve">
+<source xml:lang="en-UK">Synchronised successfully!</source>
+<target xml:lang="pl-PL">Synchronised successfully!</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu247" resname="Sheet1!J458" xml:space="preserve">
+<source xml:lang="en-UK">Synchronisation failed: %1$s</source>
+<target xml:lang="pl-PL">Synchronisation failed: %1$s</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu248" resname="Sheet1!J459" xml:space="preserve">
+<source xml:lang="en-UK">Synchronisation failed: need to log in first</source>
+<target xml:lang="pl-PL">Synchronisation failed: need to log in first</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu249" resname="Sheet1!J460" xml:space="preserve">
+<source xml:lang="en-UK">Share sensor</source>
+<target xml:lang="pl-PL">Share sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu250" resname="Sheet1!J461" xml:space="preserve">
+<source xml:lang="en-UK">You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\n\nReceiver will be notified by email. If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\n\nNote that the sensor's custom name and background image will be shared. The name and image sync is one time only, and after this, they can be privately customised by the receiver. Offset values (if any) set by the owner, will be automatically synced, and the receiver will always see the final corrected values.</source>
+<target xml:lang="pl-PL">You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\n\nReceiver will be notified by email. If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\n\nNote that the sensor's custom name and background image will be shared. The name and image sync is one time only, and after this, they can be privately customised by the receiver. Offset values (if any) set by the owner, will be automatically synced, and the receiver will always see the final corrected values.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu251" resname="Sheet1!J462" xml:space="preserve">
+<source xml:lang="en-UK">Add friend</source>
+<target xml:lang="pl-PL">Add friend</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu252" resname="Sheet1!J464" xml:space="preserve">
+<source xml:lang="en-UK">Already shared {%d^%1$,d}/{%d^%2$,d}</source>
+<target xml:lang="pl-PL">Already shared {%d^%1$,d}/{%d^%2$,d}</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu253" resname="Sheet1!J465" xml:space="preserve">
+<source xml:lang="en-UK">Send</source>
+<target xml:lang="pl-PL">Send</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu254" resname="Sheet1!J467" xml:space="preserve">
+<source xml:lang="en-UK">Do you want to unshare sensor for {%@^%1$s}?</source>
+<target xml:lang="pl-PL">Do you want to unshare sensor for {%@^%1$s}?</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu255" resname="Sheet1!J468" xml:space="preserve">
+<source xml:lang="en-UK">NETWORK INFO</source>
+<target xml:lang="pl-PL">NETWORK INFO</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu256" resname="Sheet1!J469" xml:space="preserve">
+<source xml:lang="en-UK">Owner</source>
+<target xml:lang="pl-PL">Owner</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu257" resname="Sheet1!J470" xml:space="preserve">
+<source xml:lang="en-UK">Ruuvi cloud status</source>
+<target xml:lang="pl-PL">Ruuvi cloud status</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu258" resname="Sheet1!J471" xml:space="preserve">
+<source xml:lang="en-UK">Login to\nRuuvi\nStation</source>
+<target xml:lang="pl-PL">Login to\nRuuvi\nStation</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu259" resname="Sheet1!J472" xml:space="preserve">
+<source xml:lang="en-UK">To enjoy all the features, create a free account or login to your existing Ruuvi account by entering your email address.</source>
+<target xml:lang="pl-PL">To enjoy all the features, create a free account or login to your existing Ruuvi account by entering your email address.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu260" resname="Sheet1!J473" xml:space="preserve">
+<source xml:lang="en-UK">SKIP</source>
+<target xml:lang="pl-PL">SKIP</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu261" resname="Sheet1!J474" xml:space="preserve">
+<source xml:lang="en-UK">beta</source>
+<target xml:lang="pl-PL">beta</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu262" resname="Sheet1!J476" xml:space="preserve">
+<source xml:lang="en-UK">Forbidden</source>
+<target xml:lang="pl-PL">Forbidden</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu263" resname="Sheet1!J477" xml:space="preserve">
+<source xml:lang="en-UK">Unauthorised</source>
+<target xml:lang="pl-PL">Unauthorised</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu264" resname="Sheet1!J478" xml:space="preserve">
+<source xml:lang="en-UK">Internal error</source>
+<target xml:lang="pl-PL">Internal error</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu265" resname="Sheet1!J479" xml:space="preserve">
+<source xml:lang="en-UK">Invalid request format</source>
+<target xml:lang="pl-PL">Invalid request format</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu266" resname="Sheet1!J480" xml:space="preserve">
+<source xml:lang="en-UK">User not found</source>
+<target xml:lang="pl-PL">User not found</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu267" resname="Sheet1!J481" xml:space="preserve">
+<source xml:lang="en-UK">Sensor not found</source>
+<target xml:lang="pl-PL">Sensor not found</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu268" resname="Sheet1!J482" xml:space="preserve">
+<source xml:lang="en-UK">Token is expired</source>
+<target xml:lang="pl-PL">Token is expired</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu269" resname="Sheet1!J483" xml:space="preserve">
+<source xml:lang="en-UK">Subscription is not found</source>
+<target xml:lang="pl-PL">Subscription is not found</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu270" resname="Sheet1!J484" xml:space="preserve">
+<source xml:lang="en-UK">The share limit is reached</source>
+<target xml:lang="pl-PL">The share limit is reached</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu271" resname="Sheet1!J485" xml:space="preserve">
+<source xml:lang="en-UK">Sensor share limit is reached</source>
+<target xml:lang="pl-PL">Sensor share limit is reached</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu272" resname="Sheet1!J486" xml:space="preserve">
+<source xml:lang="en-UK">In order to share the sensor, you need to have a Ruuvi Gateway router nearby the sensor</source>
+<target xml:lang="pl-PL">In order to share the sensor, you need to have a Ruuvi Gateway router nearby the sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu273" resname="Sheet1!J487" xml:space="preserve">
+<source xml:lang="en-UK">This sensor is already shared</source>
+<target xml:lang="pl-PL">This sensor is already shared</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu274" resname="Sheet1!J488" xml:space="preserve">
+<source xml:lang="en-UK">Unable to send e-mail</source>
+<target xml:lang="pl-PL">Unable to send e-mail</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu275" resname="Sheet1!J489" xml:space="preserve">
+<source xml:lang="en-UK">Missing argument</source>
+<target xml:lang="pl-PL">Missing argument</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu276" resname="Sheet1!J490" xml:space="preserve">
+<source xml:lang="en-UK">Invalid density mode</source>
+<target xml:lang="pl-PL">Invalid density mode</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu277" resname="Sheet1!J491" xml:space="preserve">
+<source xml:lang="en-UK">Invalid sort mode</source>
+<target xml:lang="pl-PL">Invalid sort mode</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu278" resname="Sheet1!J492" xml:space="preserve">
+<source xml:lang="en-UK">Invalid time range</source>
+<target xml:lang="pl-PL">Invalid time range</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu279" resname="Sheet1!J493" xml:space="preserve">
+<source xml:lang="en-UK">Invalid e-mail address</source>
+<target xml:lang="pl-PL">Invalid e-mail address</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu280" resname="Sheet1!J494" xml:space="preserve">
+<source xml:lang="en-UK">Invalid MAC-address</source>
+<target xml:lang="pl-PL">Invalid MAC-address</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu281" resname="Sheet1!J495" xml:space="preserve">
+<source xml:lang="en-UK">Data storage error</source>
+<target xml:lang="pl-PL">Data storage error</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu282" resname="Sheet1!J496" xml:space="preserve">
+<source xml:lang="en-UK">No user</source>
+<target xml:lang="pl-PL">No user</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu283" resname="Sheet1!J497" xml:space="preserve">
+<source xml:lang="en-UK">Experimental features</source>
+<target xml:lang="pl-PL">Experimental features</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu284" resname="Sheet1!J498" xml:space="preserve">
+<source xml:lang="en-UK">In normal use, it's not necessary to adjust the offset.\n\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\n\nCalibration tips are available on ruuvi.com/support</source>
+<target xml:lang="pl-PL">In normal use, it's not necessary to adjust the offset.\n\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\n\nCalibration tips are available on ruuvi.com/support</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu285" resname="Sheet1!J499" xml:space="preserve">
+<source xml:lang="en-UK">ruuvi.com/support</source>
+<target xml:lang="pl-PL">ruuvi.com/support</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu286" resname="Sheet1!J500" xml:space="preserve">
+<source xml:lang="en-UK">http://ruuvi.com/support</source>
+<target xml:lang="pl-PL">http://ruuvi.com/support</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu287" resname="Sheet1!J501" xml:space="preserve">
+<source xml:lang="en-UK">Clear calibration settings?</source>
+<target xml:lang="pl-PL">Clear calibration settings?</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu288" resname="Sheet1!J502" xml:space="preserve">
+<source xml:lang="en-UK">(Offset {%@^%1$s})</source>
+<target xml:lang="pl-PL">(Offset {%@^%1$s})</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu289" resname="Sheet1!J503" xml:space="preserve">
+<source xml:lang="en-UK">Calibration setup</source>
+<target xml:lang="pl-PL">Calibration setup</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu290" resname="Sheet1!J504" xml:space="preserve">
+<source xml:lang="en-UK">Enter the expected temperature value from sensor under current conditions ({%@^%1$s}): </source>
+<target xml:lang="pl-PL">Enter the expected temperature value from sensor under current conditions ({%@^%1$s}): </target>
+</trans-unit>
+<trans-unit id="P147242AB-tu291" resname="Sheet1!J505" xml:space="preserve">
+<source xml:lang="en-UK">Enter the expected pressure value from sensor under current conditions ({%@^%1$s}): </source>
+<target xml:lang="pl-PL">Enter the expected pressure value from sensor under current conditions ({%@^%1$s}): </target>
+</trans-unit>
+<trans-unit id="P147242AB-tu292" resname="Sheet1!J506" xml:space="preserve">
+<source xml:lang="en-UK">Enter the expected humidity value from sensor under current conditions ({%@^%1$s}): </source>
+<target xml:lang="pl-PL">Enter the expected humidity value from sensor under current conditions ({%@^%1$s}): </target>
+</trans-unit>
+<trans-unit id="P147242AB-tu293" resname="Sheet1!J507" xml:space="preserve">
+<source xml:lang="en-UK">Original measured value</source>
+<target xml:lang="pl-PL">Original measured value</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu294" resname="Sheet1!J508" xml:space="preserve">
+<source xml:lang="en-UK">Corrected value</source>
+<target xml:lang="pl-PL">Corrected value</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu295" resname="Sheet1!J509" xml:space="preserve">
+<source xml:lang="en-UK">Temperature offset</source>
+<target xml:lang="pl-PL">Temperature offset</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu296" resname="Sheet1!J510" xml:space="preserve">
+<source xml:lang="en-UK">Humidity offset</source>
+<target xml:lang="pl-PL">Humidity offset</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu297" resname="Sheet1!J511" xml:space="preserve">
+<source xml:lang="en-UK">Pressure offset</source>
+<target xml:lang="pl-PL">Pressure offset</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu298" resname="Sheet1!J512" xml:space="preserve">
+<source xml:lang="en-UK">Offset correction</source>
+<target xml:lang="pl-PL">Offset correction</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu299" resname="Sheet1!J513" xml:space="preserve">
+<source xml:lang="en-UK">Synchronising</source>
+<target xml:lang="pl-PL">Synchronising</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu300" resname="Sheet1!J515" xml:space="preserve">
+<source xml:lang="en-UK">Temperature</source>
+<target xml:lang="pl-PL">Temperature</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu301" resname="Sheet1!J516" xml:space="preserve">
+<source xml:lang="en-UK">Humidity</source>
+<target xml:lang="pl-PL">Humidity</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu302" resname="Sheet1!J517" xml:space="preserve">
+<source xml:lang="en-UK">Pressure</source>
+<target xml:lang="pl-PL">Pressure</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu303" resname="Sheet1!J534" xml:space="preserve">
+<source xml:lang="en-UK">{%@^%1$s} ago</source>
+<target xml:lang="pl-PL">{%@^%1$s} ago</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu304" resname="Sheet1!J535" xml:space="preserve">
+<source xml:lang="en-UK">Only sensors within range of your Ruuvi Gateway can be shared. If you don't have one yet, get it on ruuvi.com/gateway</source>
+<target xml:lang="pl-PL">Only sensors within range of your Ruuvi Gateway can be shared. If you don't have one yet, get it on ruuvi.com/gateway</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu305" resname="Sheet1!J572" xml:space="preserve">
+<source xml:lang="en-UK">Firmware Update</source>
+<target xml:lang="pl-PL">Firmware Update</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu306" resname="Sheet1!J573" xml:space="preserve">
+<source xml:lang="en-UK">Latest available Ruuvi Firmware version:</source>
+<target xml:lang="pl-PL">Latest available Ruuvi Firmware version:</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu307" resname="Sheet1!J574" xml:space="preserve">
+<source xml:lang="en-UK">Current version:</source>
+<target xml:lang="pl-PL">Current version:</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu308" resname="Sheet1!J575" xml:space="preserve">
+<source xml:lang="en-UK">Your sensor doesn't report its current firmware version. This means that it's probably running an old firmware version and updating it is recommended</source>
+<target xml:lang="pl-PL">Your sensor doesn't report its current firmware version. This means that it's probably running an old firmware version and updating it is recommended</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu309" resname="Sheet1!J576" xml:space="preserve">
+<source xml:lang="en-UK">You are running the latest firmware version, no need to update</source>
+<target xml:lang="pl-PL">You are running the latest firmware version, no need to update</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu310" resname="Sheet1!J577" xml:space="preserve">
+<source xml:lang="en-UK">Start update process</source>
+<target xml:lang="pl-PL">Start update process</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu311" resname="Sheet1!J578" xml:space="preserve">
+<source xml:lang="en-UK">Downloading the latest firmware to be updated...</source>
+<target xml:lang="pl-PL">Downloading the latest firmware to be updated...</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu312" resname="Sheet1!J579" xml:space="preserve">
+<source xml:lang="en-UK">Prepare your sensor</source>
+<target xml:lang="pl-PL">Prepare your sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu313" resname="Sheet1!J580" xml:space="preserve">
+<source xml:lang="en-UK">1. Open the cover of your Ruuvi sensor</source>
+<target xml:lang="pl-PL">1. Open the cover of your Ruuvi sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu314" resname="Sheet1!J581" xml:space="preserve">
+<source xml:lang="en-UK">2. Set the sensor to updating mode</source>
+<target xml:lang="pl-PL">2. Set the sensor to updating mode</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu315" resname="Sheet1!J582" xml:space="preserve">
+<source xml:lang="en-UK">If your sensor has two buttons, press the R button while also pressing the B button</source>
+<target xml:lang="pl-PL">If your sensor has two buttons, press the R button while also pressing the B button</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu316" resname="Sheet1!J583" xml:space="preserve">
+<source xml:lang="en-UK">If your sensor has one button, keep the button pressed for ten seconds</source>
+<target xml:lang="pl-PL">If your sensor has one button, keep the button pressed for ten seconds</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu317" resname="Sheet1!J584" xml:space="preserve">
+<source xml:lang="en-UK">3. When successfully completed you will see a continuous red light</source>
+<target xml:lang="pl-PL">3. When successfully completed you will see a continuous red light</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu318" resname="Sheet1!J585" xml:space="preserve">
+<source xml:lang="en-UK">Updating...</source>
+<target xml:lang="pl-PL">Updating...</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu319" resname="Sheet1!J586" xml:space="preserve">
+<source xml:lang="en-UK">Searching for a sensor</source>
+<target xml:lang="pl-PL">Searching for a sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu320" resname="Sheet1!J587" xml:space="preserve">
+<source xml:lang="en-UK">Start the update</source>
+<target xml:lang="pl-PL">Start the update</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu321" resname="Sheet1!J588" xml:space="preserve">
+<source xml:lang="en-UK">Do not close app or power off the sensor during the update.</source>
+<target xml:lang="pl-PL">Do not close app or power off the sensor during the update.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu322" resname="Sheet1!J589" xml:space="preserve">
+<source xml:lang="en-UK">Update successful</source>
+<target xml:lang="pl-PL">Update successful</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu323" resname="Sheet1!J604" xml:space="preserve">
+<source xml:lang="en-UK">Successfully shared sensor</source>
+<target xml:lang="pl-PL">Successfully shared sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu324" resname="Sheet1!J605" xml:space="preserve">
+<source xml:lang="en-UK">General</source>
+<target xml:lang="pl-PL">General</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu325" resname="Sheet1!J606" xml:space="preserve">
+<source xml:lang="en-UK">Remove this sensor</source>
+<target xml:lang="pl-PL">Remove this sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu326" resname="Sheet1!J607" xml:space="preserve">
+<source xml:lang="en-UK">Shared</source>
+<target xml:lang="pl-PL">Shared</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu327" resname="Sheet1!J608" xml:space="preserve">
+<source xml:lang="en-UK">Not shared</source>
+<target xml:lang="pl-PL">Not shared</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu328" resname="Sheet1!J609" xml:space="preserve">
+<source xml:lang="en-UK">Claim sensor</source>
+<target xml:lang="pl-PL">Claim sensor</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu329" resname="Sheet1!J610" xml:space="preserve">
+<source xml:lang="en-UK">Claim Ownership</source>
+<target xml:lang="pl-PL">Claim Ownership</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu330" resname="Sheet1!J611" xml:space="preserve">
+<source xml:lang="en-UK">Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\n\nBenefits:\n\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\n\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\n\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\n\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)</source>
+<target xml:lang="pl-PL">Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\n\nBenefits:\n\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\n\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\n\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\n\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu331" resname="Sheet1!J612" xml:space="preserve">
+<source xml:lang="en-UK">Ownership of the sensor claimed successfully</source>
+<target xml:lang="pl-PL">Ownership of the sensor claimed successfully</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu332" resname="Sheet1!J613" xml:space="preserve">
+<source xml:lang="en-UK">By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Every Ruuvi sensor can have only one owner.</source>
+<target xml:lang="pl-PL">By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Every Ruuvi sensor can have only one owner.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu333" resname="Sheet1!J614" xml:space="preserve">
+<source xml:lang="en-UK">If you remove the sensor, the owner of the sensor will be notified and you cannot access the sensor anymore.</source>
+<target xml:lang="pl-PL">If you remove the sensor, the owner of the sensor will be notified and you cannot access the sensor anymore.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu334" resname="Sheet1!J617" xml:space="preserve">
+<source xml:lang="en-UK">Logged in:</source>
+<target xml:lang="pl-PL">Logged in:</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu335" resname="Sheet1!J626" xml:space="preserve">
+<source xml:lang="en-UK">Your sensors will be in alphabetical order.</source>
+<target xml:lang="pl-PL">Your sensors will be in alphabetical order.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu336" resname="Sheet1!J627" xml:space="preserve">
+<source xml:lang="en-UK">Device disconnected</source>
+<target xml:lang="pl-PL">Device disconnected</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu337" resname="Sheet1!J628" xml:space="preserve">
+<source xml:lang="en-UK">Firmware update failed</source>
+<target xml:lang="pl-PL">Firmware update failed</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu338" resname="Sheet1!J629" xml:space="preserve">
+<source xml:lang="en-UK">Firmware is not valid</source>
+<target xml:lang="pl-PL">Firmware is not valid</target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="en-UK" target-language="pl-PL" datatype="x-undefined">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="en-UK">Simon von Kleist</source>
+<target xml:lang="pl-PL">Simon von Kleist</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
