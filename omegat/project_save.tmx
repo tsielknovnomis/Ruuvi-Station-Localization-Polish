@@ -479,6 +479,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084438Z" creationid="simon.kleist" creationdate="20230519T084438Z">
+        <seg>Zatwierdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Connecting...</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T082850Z" creationid="JG" creationdate="20230519T082850Z">
@@ -531,6 +539,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T082924Z" creationid="JG" creationdate="20230519T082924Z">
         <seg>Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Data Format</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084350Z" creationid="simon.kleist" creationdate="20230519T084350Z">
+        <seg>Format danych</seg>
       </tuv>
     </tu>
     <tu>
@@ -619,6 +635,12 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082228Z" creationid="a_kossek" creationdate="20230428T084741Z">
         <seg>Wyłącz „Automatycznie wyłącz nieużywane aplikacje”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>UI-Optionen prüfen</note>
+      <tuv lang="en-UK">
+        <seg>Disable 'Manage Automatically' and enable options: 'Auto-Launch', 'Secondary Launch' and 'Run in background'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,6 +825,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T204009Z" creationid="AW" creationdate="20230504T204009Z">
         <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084333Z" creationid="simon.kleist" creationdate="20230519T084333Z">
+        <seg>Błąd</seg>
       </tuv>
     </tu>
     <tu>
@@ -1571,6 +1601,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083655Z" creationid="simon.kleist" creationdate="20230519T083655Z">
         <seg>Relatywna (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084324Z" creationid="simon.kleist" creationdate="20230519T084324Z">
+        <seg>Usuń</seg>
       </tuv>
     </tu>
     <tu>
