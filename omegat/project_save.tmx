@@ -623,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Device identifier</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T085628Z" creationid="akossek" creationdate="20230519T085628Z">
+        <seg>Identyfikator urządzenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Dew point (°)</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083651Z" creationid="simon.kleist" creationdate="20230519T083651Z">
