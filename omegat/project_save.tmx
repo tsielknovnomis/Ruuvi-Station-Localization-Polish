@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-UK">
+        <seg>%1$,d measurements read, saving..</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082229Z" creationid="akossek" creationdate="20230519T082229Z">
+        <seg>%1$,d pomiary odczytane, zapisywanie..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>.csv created, opening share menu</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085720Z" creationid="knadolna" creationdate="20230428T085720Z">
@@ -335,6 +343,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Data Forwarding URL</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082502Z" creationid="akossek" creationdate="20230519T082502Z">
+        <seg>URL do przekazywania danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Data forwarding works!</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090020Z" creationid="knadolna" creationdate="20230428T085938Z">
@@ -399,6 +415,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082401Z" creationid="akossek" creationdate="20230519T082401Z">
+        <seg>Wyłączony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Disconnected</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082310Z" creationid="akossek" creationdate="20230519T082310Z">
+        <seg>Rozłączono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Display all data in chart</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090113Z" creationid="a_kossek" creationdate="20230428T090113Z">
@@ -451,6 +483,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090526Z" creationid="a_kossek" creationdate="20230428T090526Z">
         <seg>Rysuj kropki na wykresie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>EXPORT</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082315Z" creationid="akossek" creationdate="20230519T082315Z">
+        <seg>EKSPORT</seg>
       </tuv>
     </tu>
     <tu>
@@ -527,6 +567,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>File type not supported</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082339Z" creationid="akossek" creationdate="20230519T082339Z">
+        <seg>Nieobsługiwany typ pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Firmware Update</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T082544Z" creationid="AW" creationdate="20230505T082544Z">
@@ -539,6 +587,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202018Z" creationid="AW" creationdate="20230504T202018Z">
         <seg>Zabronione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Gallery</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082344Z" creationid="akossek" creationdate="20230519T082344Z">
+        <seg>Galeria</seg>
       </tuv>
     </tu>
     <tu>
