@@ -815,6 +815,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Just like Ruuvi sensors, Ruuvi Station is also open-source: github.com/ruuvi</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T083132Z" creationid="akossek" creationdate="20230519T083132Z">
+        <seg>Tak jak sensory Ruuvi, Ruuvi Station również jest narzędziem typu open-source: github.com/ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Language</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T085841Z" creationid="JG" creationdate="20230428T085841Z">
