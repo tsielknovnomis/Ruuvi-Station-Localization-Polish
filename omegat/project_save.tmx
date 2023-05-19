@@ -40,8 +40,8 @@
       <tuv lang="en-UK">
         <seg>About / Help</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083704Z" creationid="simon.kleist" creationdate="20230519T083704Z">
-        <seg>O / pomoc</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083737Z" creationid="simon.kleist" creationdate="20230519T083704Z">
+        <seg>O aplikacji / pomoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +82,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085210Z" creationid="knadolna" creationdate="20230428T085210Z">
         <seg>Uzyskaj dostęp do danych dla każdego połączonego czujnika w czasie rzeczywistym i zbadaj wykresy historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Add a New Sensor</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083740Z" creationid="simon.kleist" creationdate="20230519T083740Z">
+        <seg>Dodaj nowy sensor</seg>
       </tuv>
     </tu>
     <tu>
@@ -179,6 +187,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201602Z" creationid="AW" creationdate="20230504T201602Z">
         <seg>Już udostępnione{%d^%1$,d}/{%d^%2$,d}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>App Settings</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083830Z" creationid="simon.kleist" creationdate="20230519T083830Z">
+        <seg>Ustawienia aplikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -403,6 +419,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T082832Z" creationid="JG" creationdate="20230519T082832Z">
         <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Close the navigation drawer</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083847Z" creationid="simon.kleist" creationdate="20230519T083847Z">
+        <seg>Zamknij nawigację</seg>
       </tuv>
     </tu>
     <tu>
@@ -695,6 +719,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Enable Background Scanning</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083910Z" creationid="simon.kleist" creationdate="20230519T083910Z">
+        <seg>Aktywuj skanowanie w tle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Enable Bluetooth Scanning</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084022Z" creationid="simon.kleist" creationdate="20230519T084022Z">
+        <seg>Aktywuj skanowanie Bluetooth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Enabling it may cause charts to update slowly</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T090130Z" creationid="a_kossek" creationdate="20230428T090130Z">
@@ -791,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Get More Sensors</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083832Z" creationid="simon.kleist" creationdate="20230519T083832Z">
+        <seg>Kup nowe sensory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Hours</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083614Z" creationid="simon.kleist" creationdate="20230519T083349Z">
@@ -875,6 +923,22 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T082211Z" creationid="JG" creationdate="20230519T082211Z">
         <seg>Aby jak najdokładniej zmierzyć wilogtność względną zaleca się kalibrację chlorku sodu (soli). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083913Z" creationid="simon.kleist" creationdate="20230519T083913Z">
+        <seg>Android wymaga dostępu do lokalizacji w tle, aby skanować znajdujące się w pobliżu urządzenia Bluetooth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>In order to scan nearby Bluetooth devices, Android requires location access to be enabled.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084000Z" creationid="simon.kleist" creationdate="20230519T084000Z">
+        <seg>Android wymaga dostępu do lokalizacji, aby skanować znajdujące się w pobliżu urządzenia Bluetooth.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,8 +1073,16 @@
       <tuv lang="en-UK">
         <seg>MAC address copied to clipboard</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083700Z" creationid="simon.kleist" creationdate="20230519T083700Z">
-        <seg>aDRES MAC skopiowany do schowka</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083732Z" creationid="simon.kleist" creationdate="20230519T083700Z">
+        <seg>Adres MAC skopiowany do schowka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>MORE INFO</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083844Z" creationid="simon.kleist" creationdate="20230519T083844Z">
+        <seg>WIĘCEJ INFORMACJI</seg>
       </tuv>
     </tu>
     <tu>
@@ -1035,6 +1107,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T085147Z" creationid="JG" creationdate="20230428T085147Z">
         <seg>Numer sekwencji pomiaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Minutes</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083841Z" creationid="simon.kleist" creationdate="20230519T083841Z">
+        <seg>Minuty</seg>
       </tuv>
     </tu>
     <tu>
@@ -1079,6 +1159,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>NAME</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083845Z" creationid="simon.kleist" creationdate="20230519T083845Z">
+        <seg>NAZWA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>NETWORK INFO</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201711Z" creationid="AW" creationdate="20230504T201711Z">
@@ -1103,6 +1191,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083850Z" creationid="simon.kleist" creationdate="20230519T083850Z">
+        <seg>Nie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>No background scanning</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085530Z" creationid="a_kossek" creationdate="20230428T085530Z">
@@ -1115,6 +1211,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085548Z" creationid="a_kossek" creationdate="20230428T085548Z">
         <seg>Tryb skanowania w tle jest wyłączony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>No new data points available</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083858Z" creationid="simon.kleist" creationdate="20230519T083858Z">
+        <seg>Brak dostępności nowych punktów danych</seg>
       </tuv>
     </tu>
     <tu>
@@ -1235,6 +1339,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T083604Z" creationid="AW" creationdate="20230505T083604Z">
         <seg>Otwórz osłonę swojego czujnika Ruuvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Open the navigation drawer</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083848Z" creationid="simon.kleist" creationdate="20230519T083848Z">
+        <seg>Otwórz nawigację</seg>
       </tuv>
     </tu>
     <tu>
@@ -1427,6 +1539,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201609Z" creationid="AW" creationdate="20230504T201607Z">
         <seg>Wyślij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Send Feedback</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083833Z" creationid="simon.kleist" creationdate="20230519T083833Z">
+        <seg>Prześlij opinię</seg>
       </tuv>
     </tu>
     <tu>
@@ -2047,6 +2167,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>You're safe.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083958Z" creationid="simon.kleist" creationdate="20230519T083958Z">
+        <seg>Zapewniamy bezpieczeństwo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Your dashboard \nis empty</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T083225Z" creationid="JG" creationdate="20230519T083225Z">
@@ -2059,6 +2187,23 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T083029Z" creationid="AW" creationdate="20230505T082933Z">
         <seg>Twój czujnik nie podaje swojej aktualnej wersji firmware.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>UI-Option in Android prüfen</note>
+      <tuv lang="en-UK">
+        <seg>\n\nPlease click 'allow all the time' if you'd like to use the background scanning feature.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083943Z" creationid="simon.kleist" creationdate="20230519T083943Z">
+        <seg>\n\nAby użytkować tę funkcję, należy wybrać "zezwalaj zawsze".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>\n\nRuuvi doesn't track your movements.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083945Z" creationid="simon.kleist" creationdate="20230519T083945Z">
+        <seg>\n\nRuuvi nie śledzi ruchu użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
