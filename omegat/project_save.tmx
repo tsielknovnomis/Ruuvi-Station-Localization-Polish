@@ -959,8 +959,8 @@
       <tuv lang="en-UK">
         <seg>Humidity</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T075833Z" creationid="AW" creationdate="20230505T075833Z">
-        <seg>Wilgotności</seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085305Z" creationid="AW" creationdate="20230505T075833Z">
+        <seg>Wilgotność</seg>
       </tuv>
     </tu>
     <tu>
@@ -1455,8 +1455,8 @@
       <tuv lang="en-UK">
         <seg>Offset correction</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085151Z" creationid="AW" creationdate="20230519T085151Z">
-        <seg>Korygacja wyrówniania</seg>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085251Z" creationid="AW" creationdate="20230519T085151Z">
+        <seg>Korekta wyrówniania</seg>
       </tuv>
     </tu>
     <tu>
