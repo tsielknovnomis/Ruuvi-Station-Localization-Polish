@@ -599,6 +599,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Device disconnected</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T084226Z" creationid="AW" creationdate="20230519T084226Z">
+        <seg>Rozłączono urządzenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Dew point (°)</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083651Z" creationid="simon.kleist" creationdate="20230519T083651Z">
@@ -839,10 +847,26 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Firmware is not valid</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T084308Z" creationid="AW" creationdate="20230519T084308Z">
+        <seg>Firmware jest nieprawidłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Firmware not supported</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084109Z" creationid="simon.kleist" creationdate="20230519T084109Z">
         <seg>Oprogramowanie sprzętowe nie jest obsługiwane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Firmware update failed</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T084241Z" creationid="AW" creationdate="20230519T084241Z">
+        <seg>Aktualizacja firmware nie powiodła się</seg>
       </tuv>
     </tu>
     <tu>
@@ -947,6 +971,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084140Z" creationid="simon.kleist" creationdate="20230519T084140Z">
         <seg>W przypadku wystąpienia problemów ze skanowaniem w tle należy wyłączyć optymalizację baterii Ruuvi Station.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>If you remove the sensor, the owner of the sensor will be notified and you cannot access the sensor anymore.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T084113Z" creationid="AW" creationdate="20230519T084113Z">
+        <seg>Usunięcie czujnika spowoduje powiadomienie właściciela czujnika i uniemożliwi dostęp do czujnika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1123,6 +1155,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085408Z" creationid="knadolna" creationdate="20230428T085408Z">
         <seg>Pozwól aplikacji działać jako brama sieciowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Logged in:</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T084127Z" creationid="AW" creationdate="20230519T084127Z">
+        <seg>Profil zalogowany:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2371,6 +2411,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T083029Z" creationid="AW" creationdate="20230505T082933Z">
         <seg>Twój czujnik nie podaje swojej aktualnej wersji firmware.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Your sensors will be in alphabetical order.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T084209Z" creationid="AW" creationdate="20230519T084209Z">
+        <seg>Czujnik wyświetlane są w kolejności alfabetycznej.</seg>
       </tuv>
     </tu>
     <tu>
