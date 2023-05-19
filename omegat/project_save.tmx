@@ -1456,6 +1456,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>No sensors added,</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144855Z" creationid="SvK" creationdate="20230519T144855Z">
+        <seg>Brak dodanych czujników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>No sensors added,\npress here to add sensors</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084027Z" creationid="simon.kleist" creationdate="20230519T084027Z">
@@ -1656,6 +1664,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Please click 'allow all the time' if you'd like to use the background scanning feature.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144647Z" creationid="SvK" creationdate="20230519T144647Z">
+        <seg>Aby użytkować tę funkcję, należy wybrać „zezwalaj zawsze”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Please enable location permission in Settings to see sensors.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084025Z" creationid="simon.kleist" creationdate="20230519T084025Z">
@@ -1776,6 +1792,22 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Ruuvi Blog: ruuvi.com/blog</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144820Z" creationid="SvK" creationdate="20230519T144820Z">
+        <seg>Blog Ruuvi: ruuvi.com/blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Ruuvi Forum: f.ruuvi.com</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144810Z" creationid="SvK" creationdate="20230519T144810Z">
+        <seg>Forum Ruuvi: f.ruuvi.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Ruuvi Station</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085640Z" creationid="knadolna" creationdate="20230428T085630Z">
@@ -1796,6 +1828,30 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201817Z" creationid="AW" creationdate="20230504T201817Z">
         <seg>Status chmury Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Ruuvi doesn't track your movements.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144833Z" creationid="SvK" creationdate="20230519T144833Z">
+        <seg>Ruuvi nie śledzi ruchu użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Ruuvi on Twitter: twitter.com/ruuvicom</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144825Z" creationid="SvK" creationdate="20230519T144825Z">
+        <seg>Ruuvi na Twitterze: twitter.com/ruuvicom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Ruuvi's website: ruuvi.com</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144749Z" creationid="SvK" creationdate="20230519T144749Z">
+        <seg>Strona internetowa Ruuvi: ruuvi.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -2560,6 +2616,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Your dashboard</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144705Z" creationid="SvK" creationdate="20230519T144705Z">
+        <seg>Twój panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Your dashboard \nis empty</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T083225Z" creationid="JG" creationdate="20230519T083225Z">
@@ -2637,6 +2701,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T090618Z" creationid="magdalenasek" creationdate="20230428T090618Z">
         <seg>inHg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>is empty</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144706Z" creationid="SvK" creationdate="20230519T144706Z">
+        <seg>jest pusty</seg>
       </tuv>
     </tu>
     <tu>
