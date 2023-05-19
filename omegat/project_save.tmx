@@ -784,6 +784,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Do you want to sign out?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145710Z" creationid="SvK" creationdate="20230519T145710Z">
+        <seg>Chcesz się wylogować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Do you want to unshare sensor for {%@^%1$s}?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201650Z" creationid="AW" creationdate="20230504T201650Z">
@@ -1072,6 +1080,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145752Z" creationid="SvK" creationdate="20230519T145725Z">
+        <seg>Jeśli odbiorca nie ma konta Ruuvi, darmowe konto Ruuvi zostanie automatycznie utworzone przy pierwszym logowaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\n\nNote that the sensor's custom name and background image will be shared.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201107Z" creationid="AW" creationdate="20230504T201107Z">
@@ -1292,6 +1308,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T085734Z" creationid="simon.kleist" creationdate="20230519T085734Z">
         <seg>Logowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Login to</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145808Z" creationid="SvK" creationdate="20230519T145808Z">
+        <seg>Zaloguj się do</seg>
       </tuv>
     </tu>
     <tu>
@@ -1528,6 +1552,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Note that the sensor's custom name and background image will be shared.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145750Z" creationid="SvK" creationdate="20230519T145750Z">
+        <seg>Należy pamiętać, że zostanie udostępniona wybrana nazwa czujnika i obraz tła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Number of locally stored measurements: %1$,d</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082910Z" creationid="akossek" creationdate="20230519T082910Z">
@@ -1740,6 +1772,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084107Z" creationid="simon.kleist" creationdate="20230519T084052Z">
         <seg>Sczytywanie historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Receiver will be notified by email.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145719Z" creationid="SvK" creationdate="20230519T145719Z">
+        <seg>Odbiorca zostanie poinformowany wiadomością e-mail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2560,6 +2600,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>When you sign in again using the same email address, the sensors will be returned from the cloud.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145707Z" creationid="SvK" creationdate="20230519T145707Z">
+        <seg>Przy ponownym zalogowaniu z użyciem tego samego adresu e-mail, czujniki zostaną przywrócone z chmury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>When you sign in again using the same email address, the sensors will be returned from the cloud.\n\nDo you want to sign out?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T193925Z" creationid="AW" creationdate="20230504T193925Z">
@@ -2620,6 +2668,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T091255Z" creationid="JG" creationdate="20230428T091237Z">
         <seg>Możesz wyłączyć skanowanie w tle w ustawieniach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145716Z" creationid="SvK" creationdate="20230519T145716Z">
+        <seg>Możesz udostępnić czujnik rodzinie i przyjaciołom jeśli jest to w zasięgu routera Ruuvi Gateway.</seg>
       </tuv>
     </tu>
     <tu>
