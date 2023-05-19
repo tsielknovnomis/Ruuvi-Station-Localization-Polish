@@ -599,6 +599,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>In order to measure relative humidity as accurately as possible, a sodium chloride (salt) calibration is recommended.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082211Z" creationid="JG" creationdate="20230519T082211Z">
+        <seg>Aby jak najdokładniej zmierzyć wilogtność względną zaleca się kalibrację chlorku sodu (soli). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>In order to share the sensor, you need to have a Ruuvi Gateway router nearby the sensor</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202732Z" creationid="AW" creationdate="20230504T202732Z">
