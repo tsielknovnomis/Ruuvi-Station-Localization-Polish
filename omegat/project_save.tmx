@@ -783,8 +783,8 @@
       <tuv lang="en-UK">
         <seg>Downloading the latest firmware to be updated...</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T083259Z" creationid="AW" creationdate="20230505T083259Z">
-        <seg>Pobieranie najnowszego firmware'u do aktualizacji...</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091207Z" creationid="AW" creationdate="20230505T083259Z">
+        <seg>Pobieranie najnowszego firmware’u do aktualizacji...</seg>
       </tuv>
     </tu>
     <tu>
@@ -815,8 +815,8 @@
       <tuv lang="en-UK">
         <seg>Email sent</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091523Z" creationid="knadolna" creationdate="20230428T091518Z">
-        <seg>Email wysłany</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091225Z" creationid="knadolna" creationdate="20230428T091518Z">
+        <seg>E-mail wysłany</seg>
       </tuv>
     </tu>
     <tu>
@@ -1543,8 +1543,8 @@
       <tuv lang="en-UK">
         <seg>Offset values (if any) set by the owner, will be automatically synced, and the receiver will always see the final corrected values.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201539Z" creationid="AW" creationdate="20230504T201539Z">
-        <seg>Wartości przesunięcia (jeśli są) ustawione przez właściciela, zostaną automatycznie zsynchronizowane, a odbiorca zawsze będzie widział ostateczne skorygowane wartości.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091032Z" creationid="AW" creationdate="20230504T201539Z">
+        <seg>Wartości wyrównania (jeśli są) ustawione przez właściciela, zostaną automatycznie zsynchronizowane, a odbiorca zawsze będzie widział ostateczne skorygowane wartości.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2271,8 +2271,8 @@
       <tuv lang="en-UK">
         <seg>The claimed sensors will be restored after an app re-install.\n\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091156Z" creationid="knadolna" creationdate="20230428T091156Z">
-        <seg>Reklamowane czujniki zostaną przywrócone po ponownej instalacji aplikacji.Dzięki routerowi Ruuvi Gateway będziesz mógł zdalnie monitorować zgłoszone czujniki i udostępniać je swoim znajomym.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091100Z" creationid="knadolna" creationdate="20230428T091156Z">
+        <seg>Reklamowane czujniki zostaną przywrócone po ponownej instalacji aplikacji. Dzięki routerowi Ruuvi Gateway będziesz mógł zdalnie monitorować zgłoszone czujniki i udostępniać je swoim znajomym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2407,8 +2407,8 @@
       <tuv lang="en-UK">
         <seg>Update successful</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T090759Z" creationid="AW" creationdate="20230505T090759Z">
-        <seg>Zaktualizowano pomyslnie</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091138Z" creationid="AW" creationdate="20230505T090759Z">
+        <seg>Zaktualizowano pomyślnie</seg>
       </tuv>
     </tu>
     <tu>
