@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>After removal, someone else can claim ownership of the sensor.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T084018Z" creationid="AW" creationdate="20230519T084018Z">
+        <seg>Po usunięciu czujnika ktoś inny może zastrzec jego własność.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>After signing in, you will automatically be marked as the owner of your nearby Ruuvi sensors.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082701Z" creationid="knadolna" creationdate="20230428T090840Z">
@@ -235,6 +243,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T091404Z" creationid="knadolna" creationdate="20230428T091404Z">
         <seg>Korzyści z usług w chmurze Ruuvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>By removing the sensor, your sensor ownership status will be revoked.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T083916Z" creationid="AW" creationdate="20230519T083916Z">
+        <seg>Usunięcie czujnika spowoduje cofnięcie statusu własności czujnika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -771,6 +787,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T204009Z" creationid="AW" creationdate="20230504T204009Z">
         <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Every Ruuvi sensor can have only one owner.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T084039Z" creationid="AW" creationdate="20230519T084039Z">
+        <seg>Każdy czujnik Ruuvi może mieć tylko jednego właściciela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1363,6 +1387,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201721Z" creationid="AW" creationdate="20230504T201721Z">
         <seg>Właściciel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Ownership of the sensor claimed successfully</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="AW" changedate="20230519T083655Z" creationid="AW" creationdate="20230519T083655Z">
+        <seg>Zastrzeżono własność czujnika </seg>
       </tuv>
     </tu>
     <tu>
