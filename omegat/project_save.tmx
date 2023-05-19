@@ -41,6 +41,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>(Offset {%@^%1$s})</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T085836Z" creationid="simon.kleist" creationdate="20230519T085836Z">
+        <seg>(Wyrównanie {%@^%1$s})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>.csv created, opening share menu</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085720Z" creationid="knadolna" creationdate="20230428T085720Z">
