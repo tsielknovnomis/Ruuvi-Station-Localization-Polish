@@ -287,6 +287,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Benefits:</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145921Z" creationid="SvK" creationdate="20230519T145921Z">
+        <seg>Korzyści:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>By removing the sensor, your sensor ownership status will be revoked.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230519T083916Z" creationid="AW" creationdate="20230519T083916Z">
@@ -339,6 +347,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T203927Z" creationid="AW" creationdate="20230504T203927Z">
         <seg>Ustawienia kalibracji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Calibration tips are available on ruuvi.com/support</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145847Z" creationid="SvK" creationdate="20230519T145847Z">
+        <seg>Wskazówki dotyczące kalibracji są dostępne na stronie ruuvi.com/support.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,6 +1144,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>If you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145845Z" creationid="SvK" creationdate="20230519T145845Z">
+        <seg>Jeśli jesteś zaawansowanym użytkownikiem i chciałbyś ręcznie skonfigurować fabrycznie skalibrowane czujniki, jest to możliwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>If your sensor has one button, keep the button pressed for ten seconds</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T084113Z" creationid="AW" creationdate="20230505T084113Z">
@@ -1148,6 +1172,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083347Z" creationid="simon.kleist" creationdate="20230519T083347Z">
         <seg>W przypadku problemów, które nie zostały opisane w instrukcjach, należy zapoznać się z naszymi licznymi tematami dotyczącymi rozwiązywania problemów na stronie: ruuvi.com/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>In normal use, it's not necessary to adjust the offset.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145840Z" creationid="SvK" creationdate="20230519T145840Z">
+        <seg>W codziennym użytkowaniu nie jest konieczna regulacja wyrównania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2861,6 +2893,38 @@
       </tuv>
       <tuv lang="pl-PL" changeid="magdalenasek" changedate="20230428T084922Z" creationid="magdalenasek" creationdate="20230428T084922Z">
         <seg>°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>● Access sensors remotely over the Internet (requires a Ruuvi Gateway)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145957Z" creationid="SvK" creationdate="20230519T145957Z">
+        <seg>● Dostęp do czujnika przez internet (wymaga Ruuvi Gateway)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T150011Z" creationid="SvK" creationdate="20230519T150011Z">
+        <seg>● Przeglądaj historię użytkowania do 2 lat na stronie station.ruuvi.com (wymaga Ruuvi Gateway)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>● Sensor names, background images, offsets and alert settings will be securely stored in the cloud</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T145951Z" creationid="SvK" creationdate="20230519T145910Z">
+        <seg>● Nazwy czujnika, obrazy w tle, ustawienia powiadomień i wyrównywania są zapisywane w chmurze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>● Share sensors with friends and family (requires a Ruuvi Gateway)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T150003Z" creationid="SvK" creationdate="20230519T150003Z">
+        <seg>● Udostępnij czujnik rodzinie i przyjaciołom (wymaga Ruuvi Gateway)</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
