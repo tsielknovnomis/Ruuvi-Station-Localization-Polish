@@ -311,6 +311,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Charts feature works best with background scanning enabled.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T083337Z" creationid="JG" creationdate="20230519T083337Z">
+        <seg>Funkcja wykresów działa najlepiej z włączonym skanowaniem w tle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Choose the humidity unit you want to be displayed</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T083326Z" creationid="d55" creationdate="20230428T083326Z">
@@ -359,10 +367,34 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082827Z" creationid="JG" creationdate="20230519T082827Z">
+        <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Clear calibration settings?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T203911Z" creationid="AW" creationdate="20230504T203911Z">
         <seg>Usunąć ustawienia kalibracyjne?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Clear the local historical data from the app?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T083322Z" creationid="JG" creationdate="20230519T083322Z">
+        <seg>Wyczyścić lokalne dane z historii w aplikacji?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082832Z" creationid="JG" creationdate="20230519T082832Z">
+        <seg>Zamknij</seg>
       </tuv>
     </tu>
     <tu>
@@ -387,6 +419,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T091133Z" creationid="a_kossek" creationdate="20230428T091133Z">
         <seg>Konfiguruj wyświetlanie historii wykresu na okres od 1 do 10 dni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Connecting...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082850Z" creationid="JG" creationdate="20230519T082850Z">
+        <seg>Łączenie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -427,6 +467,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T082613Z" creationid="AW" creationdate="20230505T082613Z">
         <seg>Obecna wersja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Dashboard</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082924Z" creationid="JG" creationdate="20230519T082924Z">
+        <seg>Panel</seg>
       </tuv>
     </tu>
     <tu>
@@ -1255,6 +1303,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Restart the app after enabling it.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T083239Z" creationid="JG" creationdate="20230519T083239Z">
+        <seg>Uruchom ponownie aplikację po jej włączeniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Ruuvi Station</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085640Z" creationid="knadolna" creationdate="20230428T085630Z">
@@ -1591,6 +1647,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Synchronising...</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082845Z" creationid="JG" creationdate="20230519T082845Z">
+        <seg>Synchronizacja...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Syncing...</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194055Z" creationid="AW" creationdate="20230504T194055Z">
@@ -1823,6 +1887,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Use dashboard view to see multiple sensors at a glance.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T083203Z" creationid="JG" creationdate="20230519T083203Z">
+        <seg>Użyj widoku panelu, aby mieć przegląd wielu czujników. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>User not found</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T202252Z" creationid="AW" creationdate="20230504T202252Z">
@@ -1887,6 +1959,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Would you like to enable background scanning?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T083255Z" creationid="JG" creationdate="20230519T083255Z">
+        <seg>Czy chcesz włączyć skanowanie w tle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085447Z" creationid="knadolna" creationdate="20230428T085447Z">
@@ -1923,6 +2003,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T200632Z" creationid="AW" creationdate="20230504T200550Z">
         <seg>Możesz udostępnić czujnik rodzinie i przyjaciołom jeśli jest to w zasięgu routera Ruuvi Gateway. \n\nOdbiorca zostanie poinformowany wiadomością e-mail. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Your dashboard \nis empty</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="JG" changedate="20230519T083225Z" creationid="JG" creationdate="20230519T083225Z">
+        <seg>Twój panel jest pusty</seg>
       </tuv>
     </tu>
     <tu>
