@@ -199,6 +199,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>By using the application, you accept Ruuvi's standard terms and conditions: ruuvi.com/terms</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083335Z" creationid="simon.kleist" creationdate="20230519T083335Z">
+        <seg>Decydując się na używanie aplikacji, akceptują Państwo nasze Ogólne Warunki Handlowe: ruuvi.com/terms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Calibrate</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T091352Z" creationid="JG" creationdate="20230428T091352Z">
@@ -1007,6 +1015,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>OPERATIONS MANUAL</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083310Z" creationid="simon.kleist" creationdate="20230519T083310Z">
+        <seg>INSTRUKCJA OBSŁUGI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Off</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230428T091023Z" creationid="JG" creationdate="20230428T091023Z">
@@ -1083,6 +1099,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T201721Z" creationid="AW" creationdate="20230504T201721Z">
         <seg>Właściciel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>PRIVACY POLICY</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083341Z" creationid="simon.kleist" creationdate="20230519T083341Z">
+        <seg>POLITYKA PRYWATNOŚCI</seg>
       </tuv>
     </tu>
     <tu>
@@ -1219,6 +1243,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="JG" changedate="20230519T082338Z" creationid="JG" creationdate="20230519T082338Z">
         <seg>Obejrzyj tutoriale wyjaśniające, jak zrobić to bezpiecznie w domu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Seen sensors: %1$,d</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083342Z" creationid="simon.kleist" creationdate="20230519T083342Z">
+        <seg>Widoczne czujniki: %1$,d</seg>
       </tuv>
     </tu>
     <tu>
@@ -1731,6 +1763,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="d55" changedate="20230428T084157Z" creationid="d55" creationdate="20230428T084157Z">
         <seg>Wersja: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>We've designed the app to be self-explanatory but comprehensive manuals are also available for both Ruuvi sensors and Ruuvi Station: ruuvi.com/support</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083330Z" creationid="simon.kleist" creationdate="20230519T083330Z">
+        <seg>Zaprojektowaliśmy aplikację tak, aby była intuicyjna, jednak dostępne są również szczegółowe instrukcje dotyczące czujników i stacji Ruuvi: ruuvi.com/support </seg>
       </tuv>
     </tu>
     <tu>
