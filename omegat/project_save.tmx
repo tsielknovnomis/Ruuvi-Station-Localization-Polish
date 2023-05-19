@@ -543,6 +543,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>Continuous background scanning mode is enabled.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144930Z" creationid="SvK" creationdate="20230519T144930Z">
+        <seg>Tryb ciągłego skanowania w tle jest włączony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>Continuous background scanning mode is enabled.\nData logging interval: %1$s</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085818Z" creationid="a_kossek" creationdate="20230428T085522Z">
@@ -619,6 +627,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085957Z" creationid="a_kossek" creationdate="20230428T085957Z">
         <seg>Interwał rejestrowania danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>Data logging interval: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144933Z" creationid="SvK" creationdate="20230519T144933Z">
+        <seg>Interwał rejestrowania danych: %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -964,6 +980,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230519T084241Z" creationid="AW" creationdate="20230519T084241Z">
         <seg>Aktualizacja firmware nie powiodła się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>For more info, check the documentation.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144950Z" creationid="SvK" creationdate="20230519T144950Z">
+        <seg>W celu uzyskania dalszych informacji zapoznaj się z dołączonymi instrukcjami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2741,6 +2765,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230504T194507Z" creationid="AW" creationdate="20230504T194507Z">
         <seg>żaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>press here to add sensors</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144859Z" creationid="SvK" creationdate="20230519T144859Z">
+        <seg>Aby dodać czujniki, należy nacisnąć tu.</seg>
       </tuv>
     </tu>
     <tu>
