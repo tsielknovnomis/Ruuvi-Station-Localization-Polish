@@ -2098,8 +2098,8 @@
       <tuv lang="en-UK">
         <seg>Set custom description...</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090128Z" creationid="JG" creationdate="20230428T085422Z">
-        <seg>Ustaw opis zdefiniowany przez użytkownika</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T080442Z" creationid="JG" creationdate="20230428T085422Z">
+        <seg>Ustaw opis zdefiniowany przez użytkownika...</seg>
       </tuv>
     </tu>
     <tu>
