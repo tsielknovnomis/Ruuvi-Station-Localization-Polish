@@ -722,8 +722,8 @@
       <tuv lang="en-UK">
         <seg>Disable 'Manage Automatically' and enable options: 'Auto-Launch', 'Secondary Launch' and 'Run in background'.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T091755Z">
-        <seg>Dezaktywuj funkcję „Manage Automatically” (Automatycznie zarządzanie) i aktywuj funkcje: „Auto-Launch” (Automatyczne uruchamianie), „Secondary Launch” (Wtórne uruchamianie) oraz „Run in background” (Uruchom w tle).</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T091440Z">
+        <seg>Wyłącz funkcję „Manage Automatically” (Automatycznie zarządzanie) i włącz funkcje: „Auto-Launch” (Automatyczne uruchamianie), „Secondary Launch” (Wtórne uruchamianie) oraz „Run in background” (Uruchom w tle).</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,16 +874,16 @@
       <tuv lang="en-UK">
         <seg>Enable Background Scanning</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083910Z" creationid="simon.kleist" creationdate="20230519T083910Z">
-        <seg>Aktywuj skanowanie w tle</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T091409Z" creationid="simon.kleist" creationdate="20230519T083910Z">
+        <seg>Włącz skanowanie w tle</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>Enable Bluetooth Scanning</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084022Z" creationid="simon.kleist" creationdate="20230519T084022Z">
-        <seg>Aktywuj skanowanie Bluetooth</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T091413Z" creationid="simon.kleist" creationdate="20230519T084022Z">
+        <seg>Włącz skanowanie Bluetooth</seg>
       </tuv>
     </tu>
     <tu>
