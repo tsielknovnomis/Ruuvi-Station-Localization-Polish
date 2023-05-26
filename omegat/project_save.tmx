@@ -1770,8 +1770,8 @@
       <tuv lang="en-UK">
         <seg>Press SCAN to find and add nearby sensors to your Ruuvi Station</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085635Z" creationid="knadolna" creationdate="20230428T085558Z">
-        <seg>Naciśnij SCAN, aby znaleźć i dodać pobliskie czujniki do swojej stacji pogodowej Ruuvi.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T090753Z" creationid="knadolna" creationdate="20230428T085558Z">
+        <seg>Naciśnij SCAN, aby znaleźć i dodać pobliskie czujniki do swojej Ruuvi Station.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1892,14 +1892,6 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230519T144810Z" creationid="SvK" creationdate="20230519T144810Z">
         <seg>Forum Ruuvi: f.ruuvi.com</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-UK">
-        <seg>Ruuvi Station</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T085640Z" creationid="knadolna" creationdate="20230428T085630Z">
-        <seg>Stacja pogodowa Ruuvi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2499,8 +2491,8 @@
       <tuv lang="en-UK">
         <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082421Z" creationid="knadolna" creationdate="20230428T090434Z">
-        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik ruchu, numer kolejny pomiaru</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T091135Z" creationid="knadolna" creationdate="20230428T090434Z">
+        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik ruchu, numer sekwencji pomiaru</seg>
       </tuv>
     </tu>
     <tu>
