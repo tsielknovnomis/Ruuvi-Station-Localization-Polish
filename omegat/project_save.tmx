@@ -2651,8 +2651,8 @@
       <tuv lang="en-UK">
         <seg>When you sign out, sensors the ownerships of which you've claimed on the sensor Settings page will be automatically removed from the app.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T084202Z" creationid="AW" creationdate="20230504T192912Z">
-        <seg>Po wylogowaniu czujniki użytkownika, które zostały zastrzeżone na stronie Ustawienia czujników, zostaną automatycznie usunięte.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T085648Z" creationid="AW" creationdate="20230504T192912Z">
+        <seg>Po wylogowaniu czujniki użytkownika, których własność została przez niego zastrzeżona na stronie Ustawienia czujników, zostaną automatycznie usunięte.</seg>
       </tuv>
     </tu>
     <tu>
