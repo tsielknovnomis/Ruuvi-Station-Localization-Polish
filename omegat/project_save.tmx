@@ -1714,8 +1714,8 @@
       <tuv lang="en-UK">
         <seg>Ownership of the sensor claimed successfully</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T083655Z" creationid="AW" creationdate="20230519T083655Z">
-        <seg>Zastrzeżono własność czujnika </seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T085922Z" creationid="AW" creationdate="20230519T083655Z">
+        <seg>Potwierdzono prawa własności czujnika</seg>
       </tuv>
     </tu>
     <tu>
