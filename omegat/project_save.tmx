@@ -449,16 +449,16 @@
       <tuv lang="en-UK">
         <seg>Claim Ownership</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T083254Z" creationid="AW" creationdate="20230519T083254Z">
-        <seg>Zastrzeżenie własności</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T085710Z" creationid="AW" creationdate="20230519T083254Z">
+        <seg>Potwierdź prawa własności</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>Claim ownership</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194033Z" creationid="AW" creationdate="20230504T194033Z">
-        <seg>Zastrzeżenie własności</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T085702Z" creationid="AW" creationdate="20230504T194033Z">
+        <seg>Potwierdź prawa własności</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,8 +1114,8 @@
       <tuv lang="en-UK">
         <seg>If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T083423Z" creationid="AW" creationdate="20230519T083423Z">
-        <seg>Jeśli tak, zastrzeż jego posiadanie. Czujnik zostanie dodany do Twojego konta Ruuvi.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T085843Z" creationid="AW" creationdate="20230519T083423Z">
+        <seg>Jeśli tak, potwierdź prawa własności tego czujnika. Zostanie on dodany do Twojego konta Ruuvi.</seg>
       </tuv>
     </tu>
     <tu>
