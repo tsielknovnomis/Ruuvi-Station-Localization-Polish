@@ -2491,8 +2491,8 @@
       <tuv lang="en-UK">
         <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T091135Z" creationid="knadolna" creationdate="20230428T090434Z">
-        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik ruchu, numer sekwencji pomiaru</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T091234Z" creationid="knadolna" creationdate="20230428T090434Z">
+        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik przesunięć, numer sekwencji pomiaru</seg>
       </tuv>
     </tu>
     <tu>
