@@ -2082,8 +2082,8 @@
       <tuv lang="en-UK">
         <seg>Sensor share limit is reached</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230504T202619Z" creationid="AW" creationdate="20230504T202619Z">
-        <seg>Osiągnięto limit udostępnień</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T084840Z" creationid="AW" creationdate="20230504T202619Z">
+        <seg>Osiągnięto limit udostępnień czujnika</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,8 +2330,8 @@
       <tuv lang="en-UK">
         <seg>Syncing...</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230504T194055Z" creationid="AW" creationdate="20230504T194055Z">
-        <seg>Synchronizacja</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T084731Z" creationid="AW" creationdate="20230504T194055Z">
+        <seg>Synchronizacja...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2439,6 +2439,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Schlechtes Deutsch</note>
       <tuv lang="en-UK">
         <seg>The share limit is reached</seg>
       </tuv>
