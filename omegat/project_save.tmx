@@ -906,8 +906,8 @@
       <tuv lang="en-UK">
         <seg>Enter the expected humidity value from sensor under current conditions ({%@^%1$s}):</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T075936Z" creationid="AW" creationdate="20230504T204022Z">
-        <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T082307Z" creationid="AW" creationdate="20230504T204022Z">
+        <seg>Wpisz oczekiwaną wartość wilgotności z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
       </tuv>
     </tu>
     <tu>
