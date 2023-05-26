@@ -473,8 +473,8 @@
       <tuv lang="en-UK">
         <seg>Clear</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082827Z" creationid="JG" creationdate="20230519T082827Z">
-        <seg>Usuń</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T084608Z" creationid="JG" creationdate="20230519T082827Z">
+        <seg>Wyczyść</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,8 +866,8 @@
       <tuv lang="en-UK">
         <seg>Enable Autostart and set Battery Saver to 'No restrictions'.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082237Z" creationid="a_kossek" creationdate="20230428T085412Z">
-        <seg>Włącz automatyczne uruchamianie i ustaw Oszczędzanie Baterii na „Bez ograniczeń”.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T084442Z" creationid="a_kossek" creationdate="20230428T085412Z">
+        <seg>Włącz automatyczne uruchamianie i ustaw Oszczędzanie Baterii na „No restrictions” (Bez ograniczeń).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,8 +1666,8 @@
       <tuv lang="en-UK">
         <seg>On Xiaomi devices go to Android Settings -&gt; Apps -&gt; Manage apps -&gt; Ruuvi Station.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T085304Z" creationid="a_kossek" creationdate="20230428T085304Z">
-        <seg>Na urządzeniach Xiaomi przejdź do Ustawień Android -&gt; Aplikacje -&gt; Zarządzanie aplikacjami -&gt; Ruuvi Station.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T084349Z" creationid="a_kossek" creationdate="20230428T085304Z">
+        <seg>Na urządzeniach Xiaomi przejdź do Android Settings (Ustawień Android) -&gt; Apps (Aplikacje) -&gt; Manage apps (Zarządzanie aplikacjami) -&gt; Ruuvi Station.</seg>
       </tuv>
     </tu>
     <tu>
