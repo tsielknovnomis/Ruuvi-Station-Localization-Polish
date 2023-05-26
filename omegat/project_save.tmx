@@ -2482,8 +2482,8 @@
       <tuv lang="en-UK">
         <seg>Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="knadolna" changedate="20230428T090750Z" creationid="knadolna" creationdate="20230428T090750Z">
-        <seg>Znacznik czasu,temperatura(%1$s), wilgotność (%2$s), ciśnienie (%3$s),RSSI</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T075811Z" creationid="knadolna" creationdate="20230428T090750Z">
+        <seg>Znacznik czasu,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),RSSI</seg>
       </tuv>
     </tu>
     <tu>
