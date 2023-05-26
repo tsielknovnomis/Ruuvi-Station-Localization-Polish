@@ -713,8 +713,8 @@
       <tuv lang="en-UK">
         <seg>Disable 'Auto-disable unused apps'.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082228Z" creationid="a_kossek" creationdate="20230428T084741Z">
-        <seg>Wyłącz „Automatycznie wyłącz nieużywane aplikacje”.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T084322Z" creationid="a_kossek" creationdate="20230428T084741Z">
+        <seg>Wyłącz „Auto-disable unused apps” (Automatycznie wyłącz nieużywane aplikacje).</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,8 +730,8 @@
       <tuv lang="en-UK">
         <seg>Disable 'Put unused apps to sleep'.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082158Z" creationid="a_kossek" creationdate="20230428T084722Z">
-        <seg>Wyłącz „Uśpij nieużywane aplikacje”.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T084156Z" creationid="a_kossek" creationdate="20230428T084722Z">
+        <seg>Wyłącz „Wprowadź nieużywane aplikacje w tryb uśpienia”.</seg>
       </tuv>
     </tu>
     <tu>
