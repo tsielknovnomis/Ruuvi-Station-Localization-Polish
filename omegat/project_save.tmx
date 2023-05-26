@@ -1050,8 +1050,8 @@
       <tuv lang="en-UK">
         <seg>Go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Battery -&gt; Battery Optimisation and select 'Don't optimise for Ruuvi Station'</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T083042Z" creationid="simon.kleist" creationdate="20230519T084151Z">
-        <seg>Należy wybrać Android Settings (Ustawienia Androida) -&gt; Apps (Aplikacje) -&gt; Ruuvi Station -&gt; Battery (Bateria) -&gt; Battery Optimisation (Optymalizacja baterii), a następnie zaznaczyć opcję „Don't optimise for Ruuvi Station (Nie optymalizuj dla Ruuvi Station”.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T083124Z" creationid="simon.kleist" creationdate="20230519T084151Z">
+        <seg>Należy wybrać Android Settings (Ustawienia Androida) -&gt; Apps (Aplikacje) -&gt; Ruuvi Station -&gt; Battery (Bateria) -&gt; Battery Optimisation (Optymalizacja baterii), a następnie zaznaczyć opcję „Don't optimise for Ruuvi Station” (Nie optymalizuj dla Ruuvi Station).</seg>
       </tuv>
     </tu>
     <tu>
