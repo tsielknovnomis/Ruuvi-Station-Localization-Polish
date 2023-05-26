@@ -1642,8 +1642,8 @@
       <tuv lang="en-UK">
         <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T082610Z" creationid="d55" creationdate="20230428T083351Z">
-        <seg>Na urządzeniach Huawei przejdź do Ustawień Android -&gt; Aplikacje -&gt; Zarządzanie aplikacjami -&gt; Ruuvi Station.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T083431Z" creationid="d55" creationdate="20230428T083351Z">
+        <seg>Na urządzeniach Huawei przejdź do Android Settings (Ustawień Android) -&gt; Apps (Aplikacje) -&gt; Ruuvi Station -&gt; Power usage details (Szczegóły zużycia energii) -&gt; App launch (Uruchomienie aplikacji).</seg>
       </tuv>
     </tu>
     <tu>
