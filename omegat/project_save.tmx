@@ -481,8 +481,8 @@
       <tuv lang="en-UK">
         <seg>Clear calibration settings?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230504T203911Z" creationid="AW" creationdate="20230504T203911Z">
-        <seg>Usunąć ustawienia kalibracyjne?</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T090452Z" creationid="AW" creationdate="20230504T203911Z">
+        <seg>Wyczyść ustawienia kalibracyjne?</seg>
       </tuv>
     </tu>
     <tu>
