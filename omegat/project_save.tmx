@@ -1642,24 +1642,24 @@
       <tuv lang="en-UK">
         <seg>On Huawei devices go to Android Settings -&gt; Apps -&gt; Ruuvi Station -&gt; Power usage details -&gt; App launch.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T083431Z" creationid="d55" creationdate="20230428T083351Z">
-        <seg>Na urządzeniach Huawei przejdź do Android Settings (Ustawień Android) -&gt; Apps (Aplikacje) -&gt; Ruuvi Station -&gt; Power usage details (Szczegóły zużycia energii) -&gt; App launch (Uruchomienie aplikacji).</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T083631Z" creationid="d55" creationdate="20230428T083351Z">
+        <seg>Na urządzeniach Huawei przejdź do Android Settings (Ustawień Androida) -&gt; Apps (Aplikacje) -&gt; Ruuvi Station -&gt; Power usage details (Szczegóły zużycia energii) -&gt; App launch (Uruchomienie aplikacji).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>On Samsung devices go to Android Settings -&gt; Battery -&gt; App power saving detail and set option 'Turned off' for Ruuvi Station.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20230505T082045Z" creationid="d55" creationdate="20230428T084107Z">
-        <seg>Na urządzeniach Samsung przejdź do Ustawień Android -&gt; Bateria -&gt; Szczegóły oszczędzania energii w aplikacji i zaznacz opcję „Wyłączone” dla Ruuvi Station.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T083701Z" creationid="d55" creationdate="20230428T084107Z">
+        <seg>Na urządzeniach Samsung przejdź do Android Settings (Ustawienia Androida) -&gt; Battery (Bateria) -&gt; App power saving detail (Szczegóły oszczędzania energii) w aplikacji i zaznacz opcję „Wyłączone” dla Ruuvi Station.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>On Samsung devices go to Android Settings -&gt; Device Maintenance (or Device Care) -&gt; Battery.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="a_kossek" changedate="20230428T084628Z" creationid="a_kossek" creationdate="20230428T084355Z">
-        <seg>Na urządzeniach Samsung przejdź do Ustawień Android -&gt; Device Maintenance (lub Device Care) -&gt; Bateria.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T084117Z" creationid="a_kossek" creationdate="20230428T084355Z">
+        <seg>Na urządzeniach Samsung przejdź do Android Settings (Ustawienia Androida) -&gt; Device Maintenance (lub Device Care) (Pielęgnacja urządzenia) -&gt; Battery (Bateria).</seg>
       </tuv>
     </tu>
     <tu>
