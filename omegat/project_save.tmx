@@ -176,8 +176,8 @@
       <tuv lang="en-UK">
         <seg>Air Humidity is too high!</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090825Z" creationid="JG" creationdate="20230428T090726Z">
-        <seg>Zbyt wysoka wilgotność powietrza!&lt;</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T081944Z" creationid="JG" creationdate="20230428T090726Z">
+        <seg>Zbyt wysoka wilgotność powietrza!</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,8 +914,8 @@
       <tuv lang="en-UK">
         <seg>Enter the expected pressure value from sensor under current conditions ({%@^%1$s}):</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230505T074400Z" creationid="AW" creationdate="20230505T074400Z">
-        <seg>Wpisz oczekiwaną wartość temperatury z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230526T081803Z" creationid="AW" creationdate="20230505T074400Z">
+        <seg>Wpisz oczekiwaną wartość ciśnienia z czujnika w obecnych warunkach ({%@^%1$s}):</seg>
       </tuv>
     </tu>
     <tu>
