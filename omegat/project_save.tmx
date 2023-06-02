@@ -1898,8 +1898,8 @@
       <tuv lang="en-UK">
         <seg>Ruuvi Station is an easy-to-use but powerful tool to supercharge your Ruuvi sensors.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082743Z" creationid="akossek" creationdate="20230519T082743Z">
-        <seg>Ruuvi Station to łatwe w użyciu, ale potężne narzędzie pozwalające zwiększyć możliwości sensorów Ruuvi.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T082045Z" creationid="akossek" creationdate="20230519T082743Z">
+        <seg>Ruuvi Station to łatwe w użyciu, ale potężne narzędzie pozwalające zwiększyć możliwości czujników Ruuvi.</seg>
       </tuv>
     </tu>
     <tu>
