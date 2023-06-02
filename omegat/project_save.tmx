@@ -2763,8 +2763,8 @@
       <tuv lang="en-UK">
         <seg>\n\nPlease click 'allow all the time' if you'd like to use the background scanning feature.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T084435Z" creationid="simon.kleist" creationdate="20230519T083943Z">
-        <seg>\n\nAby użytkować funkcję skanowania w tle, należy wybrać „zezwalaj zawsze”.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T090413Z" creationid="simon.kleist" creationdate="20230519T083943Z">
+        <seg>\n\nAby użytkować funkcję skanowania w tle, należy wybrać „Allow all the time” (Zezwalaj zawsze).</seg>
       </tuv>
     </tu>
     <tu>
