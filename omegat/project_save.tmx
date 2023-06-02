@@ -225,8 +225,8 @@
       <tuv lang="en-UK">
         <seg>Alert when sensor is moved</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230428T090709Z" creationid="JG" creationdate="20230428T090646Z">
-        <seg>Ostrzeżenie, gdy czujnik jest poruszany</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T082731Z" creationid="JG" creationdate="20230428T090646Z">
+        <seg>Ostrzeżenie, gdy czujnik jest przesuwany</seg>
       </tuv>
     </tu>
     <tu>
