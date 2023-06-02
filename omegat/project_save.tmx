@@ -810,8 +810,8 @@
       <tuv lang="en-UK">
         <seg>Do you want to unshare sensor for {%@^%1$s}?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230504T201650Z" creationid="AW" creationdate="20230504T201650Z">
-        <seg>Czy chcesz cofnąć udostępnienie dla {%@^%1$s}?</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T082607Z" creationid="AW" creationdate="20230504T201650Z">
+        <seg>Czy chcesz cofnąć udostępnienie czujnika dla {%@^%1$s}?</seg>
       </tuv>
     </tu>
     <tu>
