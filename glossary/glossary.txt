@@ -5,3 +5,4 @@ sensor	czujnik
 offset	wyrównywanie
 Dashboard	Panel
 measurement	pomiar
+navigation drawer	menu nawigacji
