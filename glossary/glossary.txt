@@ -4,3 +4,4 @@ humidity	wilgotność
 sensor	czujnik
 offset	wyrównywanie
 Dashboard	Panel
+measurement	pomiar
