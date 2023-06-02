@@ -504,8 +504,8 @@
       <tuv lang="en-UK">
         <seg>Close the navigation drawer</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083847Z" creationid="simon.kleist" creationdate="20230519T083847Z">
-        <seg>Zamknij nawigację</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T090226Z" creationid="simon.kleist" creationdate="20230519T083847Z">
+        <seg>Zamknij menu nawigacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -1689,8 +1689,8 @@
       <tuv lang="en-UK">
         <seg>Open the navigation drawer</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083848Z" creationid="simon.kleist" creationdate="20230519T083848Z">
-        <seg>Otwórz nawigację</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T090242Z" creationid="simon.kleist" creationdate="20230519T083848Z">
+        <seg>Otwórz menu nawigacji</seg>
       </tuv>
     </tu>
     <tu>
