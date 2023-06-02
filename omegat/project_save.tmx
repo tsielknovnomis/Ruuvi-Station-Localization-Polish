@@ -1993,8 +1993,8 @@
       <tuv lang="en-UK">
         <seg>Seen sensors: %1$,d</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083342Z" creationid="simon.kleist" creationdate="20230519T083342Z">
-        <seg>Widoczne czujniki: %1$,d</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T085602Z" creationid="simon.kleist" creationdate="20230519T083342Z">
+        <seg>Wykryte czujniki: %1$,d</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,8 +2602,8 @@
       <tuv lang="en-UK">
         <seg>We've designed the app to be self-explanatory but comprehensive manuals are also available for both Ruuvi sensors and Ruuvi Station: ruuvi.com/support</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083330Z" creationid="simon.kleist" creationdate="20230519T083330Z">
-        <seg>Zaprojektowaliśmy aplikację tak, aby była intuicyjna, jednak dostępne są również szczegółowe instrukcje dotyczące czujników i stacji Ruuvi: ruuvi.com/support </seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T085514Z" creationid="simon.kleist" creationdate="20230519T083330Z">
+        <seg>Zaprojektowaliśmy aplikację tak, aby była intuicyjna, jednak dostępne są również szczegółowe instrukcje dotyczące czujników i stacji Ruuvi: ruuvi.com/support</seg>
       </tuv>
     </tu>
     <tu>
