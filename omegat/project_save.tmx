@@ -2873,6 +2873,14 @@
     </tu>
     <tu>
       <tuv lang="en-UK">
+        <seg>video tutorials</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T084300Z" creationid="simon.kleist" creationdate="20230602T084300Z">
+        <seg>poradniki wideo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
         <seg>{%@^%1$s} ago</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="AW" changedate="20230505T082939Z" creationid="AW" creationdate="20230505T082939Z">
