@@ -1537,8 +1537,8 @@
       <tuv lang="en-UK">
         <seg>No sensors added,\npress here to add sensors</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T084027Z" creationid="simon.kleist" creationdate="20230519T084027Z">
-        <seg>Brak dodanych czujników. Aby dodać czujniki, należy nacisnąć tu.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T091238Z" creationid="simon.kleist" creationdate="20230519T084027Z">
+        <seg>Brak dodanych czujników.\nAby dodać czujniki,\nnależy nacisnąć tu.</seg>
       </tuv>
     </tu>
     <tu>
