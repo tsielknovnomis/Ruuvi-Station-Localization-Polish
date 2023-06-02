@@ -405,6 +405,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>$$$</note>
       <tuv lang="en-UK">
         <seg>Charts feature works best with background scanning enabled.</seg>
       </tuv>
@@ -1985,8 +1986,8 @@
       <tuv lang="en-UK">
         <seg>See video tutorials on how to easily do this at home.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230519T082338Z" creationid="JG" creationdate="20230519T082338Z">
-        <seg>Obejrzyj tutoriale wyjaśniające, jak zrobić to bezpiecznie w domu.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T084304Z" creationid="JG" creationdate="20230519T082338Z">
+        <seg>Obejrzyj poradniki wideo wyjaśniające, jak zrobić to bezpiecznie w domu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2763,8 +2764,8 @@
       <tuv lang="en-UK">
         <seg>\n\nPlease click 'allow all the time' if you'd like to use the background scanning feature.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T090822Z" creationid="simon.kleist" creationdate="20230519T083943Z">
-        <seg>\n\nAby użytkować tę funkcję, należy wybrać „zezwalaj zawsze”.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T084435Z" creationid="simon.kleist" creationdate="20230519T083943Z">
+        <seg>\n\nAby użytkować funkcję skanowania w tle, należy wybrać „zezwalaj zawsze”.</seg>
       </tuv>
     </tu>
     <tu>
