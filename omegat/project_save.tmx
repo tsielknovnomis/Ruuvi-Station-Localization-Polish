@@ -72,16 +72,16 @@
       <tuv lang="en-UK">
         <seg>About / Help</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083737Z" creationid="simon.kleist" creationdate="20230519T083704Z">
-        <seg>O aplikacji / pomoc</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T090019Z" creationid="simon.kleist" creationdate="20230519T083704Z">
+        <seg>O aplikacji / Pomoc</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-UK">
         <seg>Absolute (g/m³)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083408Z" creationid="simon.kleist" creationdate="20230519T083408Z">
-        <seg>Absolutna (g/m³)</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T085756Z" creationid="simon.kleist" creationdate="20230519T083408Z">
+        <seg>Bezwzględna (g/m³)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1817,8 +1817,8 @@
       <tuv lang="en-UK">
         <seg>Relative (%)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083655Z" creationid="simon.kleist" creationdate="20230519T083655Z">
-        <seg>Relatywna (%)</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T085907Z" creationid="simon.kleist" creationdate="20230519T083655Z">
+        <seg>Względna (%)</seg>
       </tuv>
     </tu>
     <tu>
