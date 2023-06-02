@@ -376,8 +376,8 @@
       <tuv lang="en-UK">
         <seg>Celsius (℃)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="d55" changedate="20230428T084117Z" creationid="d55" creationdate="20230428T084117Z">
-        <seg>stopnie Celsjusza (℃)</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T091529Z" creationid="d55" creationdate="20230428T084117Z">
+        <seg>stopnie Celsjusza (°C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,8 +2754,8 @@
       <tuv lang="en-UK">
         <seg>\n\nFor more info, check the documentation.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="AW" changedate="20230519T085601Z" creationid="AW" creationdate="20230519T085601Z">
-        <seg>\n\nW celu uzyskania dalszych informacji, zapoznaj się z dołączonymi instrukcjami.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T091454Z" creationid="AW" creationdate="20230519T085601Z">
+        <seg>\n\nW celu uzyskania dalszych informacji, zapoznaj się z instrukcjami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2781,6 +2781,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20230505T083652Z" creationid="JG" creationdate="20230428T090340Z">
         <seg>temu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-UK">
+        <seg>check the documentation.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T091451Z" creationid="simon.kleist" creationdate="20230602T091451Z">
+        <seg>zapoznaj się z instrukcjami.</seg>
       </tuv>
     </tu>
     <tu>
