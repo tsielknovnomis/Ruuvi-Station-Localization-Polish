@@ -120,8 +120,8 @@
       <tuv lang="en-UK">
         <seg>Add a New Sensor</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083740Z" creationid="simon.kleist" creationdate="20230519T083740Z">
-        <seg>Dodaj nowy sensor</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T082131Z" creationid="simon.kleist" creationdate="20230519T083740Z">
+        <seg>Dodaj nowy czujnik</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="en-UK">
         <seg>Added sensors: %1$,d</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082829Z" creationid="akossek" creationdate="20230519T082829Z">
-        <seg>Dodane sensory: %1$,d</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T082118Z" creationid="akossek" creationdate="20230519T082829Z">
+        <seg>Dodane czujniki: %1$,d</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,8 +1042,8 @@
       <tuv lang="en-UK">
         <seg>Get More Sensors</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230519T083832Z" creationid="simon.kleist" creationdate="20230519T083832Z">
-        <seg>Kup nowe sensory</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T082137Z" creationid="simon.kleist" creationdate="20230519T083832Z">
+        <seg>Kup nowe czujniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1298,8 +1298,8 @@
       <tuv lang="en-UK">
         <seg>Just like Ruuvi sensors, Ruuvi Station is also open-source: github.com/ruuvi</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T083132Z" creationid="akossek" creationdate="20230519T083132Z">
-        <seg>Tak jak sensory Ruuvi, Ruuvi Station również jest narzędziem typu open-source: github.com/ruuvi</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T082127Z" creationid="akossek" creationdate="20230519T083132Z">
+        <seg>Tak jak czujniki Ruuvi, Ruuvi Station również jest narzędziem typu open-source: github.com/ruuvi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,8 +2186,8 @@
       <tuv lang="en-UK">
         <seg>Simply add some sensors and you're ready to go.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="akossek" changedate="20230519T082820Z" creationid="akossek" creationdate="20230519T082820Z">
-        <seg>Po prostu dodaj sensory i gotowe.</seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T082101Z" creationid="akossek" creationdate="20230519T082820Z">
+        <seg>Po prostu dodaj czujniki i gotowe.</seg>
       </tuv>
     </tu>
     <tu>
