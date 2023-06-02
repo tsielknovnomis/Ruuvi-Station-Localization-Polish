@@ -2,3 +2,4 @@
 pressure	ciśnienie
 humidity	wilgotność
 sensor	czujnik
+offset	wyrównywanie
