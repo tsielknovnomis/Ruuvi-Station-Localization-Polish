@@ -405,7 +405,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>$$$</note>
       <tuv lang="en-UK">
         <seg>Charts feature works best with background scanning enabled.</seg>
       </tuv>
@@ -2571,8 +2570,8 @@
       <tuv lang="en-UK">
         <seg>Use dashboard view to see multiple sensors at a glance.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="JG" changedate="20230519T083203Z" creationid="JG" creationdate="20230519T083203Z">
-        <seg>Użyj widoku panelu, aby mieć przegląd wielu czujników. </seg>
+      <tuv lang="pl-PL" changeid="simon.kleist" changedate="20230602T084907Z" creationid="JG" creationdate="20230519T083203Z">
+        <seg>Użyj widoku panelu, aby mieć przegląd wielu czujników.</seg>
       </tuv>
     </tu>
     <tu>
